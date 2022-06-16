@@ -3,7 +3,6 @@
 	<friendlyNameNative>Беларуская</friendlyNameNative>
 	<friendlyNameEnglish>Belarusian</friendlyNameEnglish>
 	<canBeTiny>true</canBeTiny>
-	<languageWorkerClass>LanguageWorker_Belarusian</languageWorkerClass>
 	<credits>
 		<li Class="CreditRecord_Role">
 			<roleKey>Credit_Translator</roleKey>

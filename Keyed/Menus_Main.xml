@@ -5,9 +5,9 @@
   <!-- EN: Tutorial -->
   <Tutorial>Навучанне</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>Новае паселішча</NewColony>
+  <NewColony>Новае селішча</NewColony>
   <!-- EN: Back to game -->
-  <BackToGame>Назад у гульню</BackToGame>
+  <BackToGame>Працягнуць гульню</BackToGame>
   <!-- EN: Review scenario -->
   <ReviewScenario>Агляд сцэнара</ReviewScenario>
   <!-- EN: Save -->
@@ -21,27 +21,27 @@
   <!-- EN: Mods -->
   <Mods>Моды</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>Скласці справаздачу аб пераводзе</SaveTranslationReport>
+  <SaveTranslationReport>Скласці справаздачу аб перакладзе</SaveTranslationReport>
   <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>Фармуецца справаздача аб пераводзе</GeneratingTranslationReport>
+  <GeneratingTranslationReport>Фармуецца справаздача аб перакладзе</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>Фарматаваць пераклад</CleanupTranslationFiles>
+  <CleanupTranslationFiles>Фарматаваць файлы перакладу</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
   <TranslationFilesTKeyUpdate>Абнавіць файлы перакладу (TKey)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Фарматуюцца файлы перакладу</CleaningTranslationFiles>
   <!-- EN: Credits -->
-  <Credits>Стваральнікі</Credits>
+  <Credits>Тытры</Credits>
   <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Выйсці ў галоўнае меню</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Захаваць і выйсці ў меню</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>Выйсці з гульні</QuitToOS>
+  <QuitToOS>Выйсці ў сістэму</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>Захаваць і выйсці з гульні</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Захаваць і выйсці ў сістэму</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer>Аб сусвету Rimworld</FictionPrimer>
+  <FictionPrimer></FictionPrimer>
   <!-- EN: Ludeon blog -->
   <LudeonBlog>Блог Ludeon</LudeonBlog>
   <!-- EN: Forums -->
@@ -53,17 +53,17 @@
   <!-- EN: Tynan's design book -->
   <TynansDesignBook>Кнiга Тайнена</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>Дапамогу ў перакладзе RimWorld</HelpTranslate>
-  <!-- EN: Buy soundtrack -->
+  <HelpTranslate>Дапамагчы ў перакладзе RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack TODO Мне не падабаецца слова "саўндтрэк", ці можна неяк сказаць інакш?-->
   <BuySoundtrack>Купіць саўндтрэк</BuySoundtrack>
   <!-- EN: Create world -->
   <CreateWorld>Стварыць свет</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Гульня перакладзена фанацкай супольнасцю. Над беларускай лакалізацыяй працавалі:\n\n{0}</TranslationThanks>
+  <TranslationThanks>Гульня перакладзена фанацкай супольнасцю. Над гэтай ачмурэннай беларускай лакалізацыяй працавалі:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>Вы таксама можаце дапамагчы перакладзе. Каб даведацца як, націсніце кнопку ніжэй (адкрыецца вэб-браўзэр).</TranslationHowToContribute>
+  <TranslationHowToContribute>Вы таксама можаце дапамагчы ў перакладзе. Каб даведацца больш, націсніце спасылку ніжэй (адкрывае вэб-браўзар).</TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>Даведацца больш</LearnMore>
 
