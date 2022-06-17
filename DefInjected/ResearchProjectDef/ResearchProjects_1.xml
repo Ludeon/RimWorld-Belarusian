@@ -17,14 +17,14 @@
   <Cocoa.description>Саджаць дрэвы какавушкі, каб стварыць уласную чакаляду. Паглынанне шакаладу задавольвае неабходнасць пацехі, а яшчэ ён таксама каштоўны на рынку.</Cocoa.description>
   
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>TODO</ComplexClothing.label>
+  <ComplexClothing.label>вопратка</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>TODO</ComplexClothing.description>
+  <ComplexClothing.description>Краўцы могуць шыць складанае адзенне: нагавіцы, плашчы, каўбойскія капялюшы і іншае.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
-  <ComplexFurniture.label>TODO</ComplexFurniture.label>
+  <ComplexFurniture.label>складаная мебля</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>TODO</ComplexFurniture.description>
+  <ComplexFurniture.description>Пабадуйце складаную меблю: ложкі, сталы, абедныя крэслы, фатэлі, камоды, шафы для прылад, більярдныя і покерныя сталы, вентыляцыя, саркафагі і іншае.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
   <Devilstrand.label>TODO</Devilstrand.label>
@@ -57,9 +57,9 @@
   <PassiveCooler.description>TODO</PassiveCooler.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>TODO</Pemmican.label>
+  <Pemmican.label>пеммікан</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>TODO</Pemmican.description>
+  <Pemmican.description>Зрабіць пеммікан - кансерваваная сумесь мяса і раслін, якая не псуёцца вельмі доўгі час. Цудоўна для падарожжаў.  </Pemmican.description>
   
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>TODO</PenoxycylineProduction.label>

@@ -41,7 +41,7 @@
   <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Захаваць і выйсці ў сістэму</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer></FictionPrimer>
+  <FictionPrimer>TODO</FictionPrimer>
   <!-- EN: Ludeon blog -->
   <LudeonBlog>Блог Ludeon</LudeonBlog>
   <!-- EN: Forums -->
@@ -68,8 +68,8 @@
   <LearnMore>Даведацца больш</LearnMore>
 
   <!-- Main menu dev build -->
-  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>Перад вамі нестабільная зборка гульні, якая знаходзіцца ў распрацоўцы. \n\nМы эксперыментуем з гульнявым балансам, і ў некаторых аспектах ён будзе наўмысна парушаны. Гэты прыём гульнявога дызайну дазваляе лепш ацаніць уплыў гранічных значэнняў на агульны баланс. Атрыманыя даныя будуць выкарыстаны для больш тонкай налады параметраў балансу.\n\nАкрамя таго, у гульні будуць сустракацца памылкі рознай ступені сур'ёзнасці, а сумяшчальнасць захаванняў не гарантуецца.\n\nКалі вас задавальняе такое становішча рэчаў, дзякуем вас за ўдзел у тэставанні! У адваротным выпадку рэкамендуем карыстацца апошняй стабільнай версіяй гульні.</DevBuildWarning>
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. TODO-->
+  <DevBuildWarning>Папярэджванне: Гэта нестабільная зборка гульні, якая знаходзіцца ў распрацоўцы. Гэта значыць, што мы экспераментуем з гульнёй і вядзем тэхнічную распрацоўку.\n\nБаланс у некаторых аспектах будзе наўмысна парушаны. Гэты класічны прыём гульнявога дызайну дазваляе лепш ацаніць уплыў гранічных значэнняў на агульны баланс. Атрыманыя даныя будуць выкарыстаны для больш тонкай налады параметраў балансу.\n\nАкрамя таго, у гульні будуць сустракацца памылкі рознай ступені сур'ёзнасці, а сумяшчальнасць захаванняў не гарантуецца.\n\nКалі вас задавальняе такое становішча рэчаў, дзякуем вас за ўдзел у тэставанні! У адваротным выпадку рэкамендуем карыстацца апошняй стабільнай версіяй гульні.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -81,7 +81,7 @@
   <!-- EN: Reset -->
   <Reset>Скінуць</Reset>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>Памер карты свету</PlanetCoverage>
+  <PlanetCoverage>Глабальнае пакрыццё</PlanetCoverage>
   <!-- EN: Overall rainfall -->
   <PlanetRainfall>Агульная колькасць ападкаў</PlanetRainfall>
   <!-- EN: Overall temperature -->
@@ -89,11 +89,11 @@
   <!-- EN: Population -->
   <PlanetPopulation>Шчыльнасць насельніцтва</PlanetPopulation>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>Нізкае</PlanetRainfall_Low>
+  <PlanetRainfall_Low>Нізкая</PlanetRainfall_Low>
   <!-- EN: Normal -->
-  <PlanetRainfall_Normal>Умеранае</PlanetRainfall_Normal>
+  <PlanetRainfall_Normal>Умераная</PlanetRainfall_Normal>
   <!-- EN: High -->
-  <PlanetRainfall_High>Высокае</PlanetRainfall_High>
+  <PlanetRainfall_High>Высокая</PlanetRainfall_High>
   <!-- EN: Low -->
   <PlanetTemperature_Low>Нізкая</PlanetTemperature_Low>
   <!-- EN: Normal -->
@@ -105,13 +105,13 @@
   <!-- EN: Normal -->
   <PlanetPopulation_Normal>Умераная</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>Высокая</PlanetPopulation_High>
+  <PlanetPopulation_High>Шматлюдная</PlanetPopulation_High>
   <!-- EN: Seed -->
   <WorldSeed>Зерне</WorldSeed>
   <!-- EN: Randomize seed -->
   <RandomizeSeed>Выпадковае зерне</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Дыяметр планеты нязменны, але паколькі ён значна больш, чым патрабуецца для гульні, паверхня планеты генеруецца ня цалкам. У адваротным выпадку гэта б заняло доўгі час. У гэтым полі ўказваецца памер часткі паверхні (у працэнтах ад агульнай плошчы планеты), якую вы б хацелі згенераваць.</PlanetCoverageTip>
+  <PlanetCoverageTip>Дыяметр планеты заўсёды аднолькавы, але паколькі ён значна больш, чым патрабуецца для гульні, паверхня планеты генеруецца ня цалкам. У адваротным выпадку гэта б заняло доўгі час. У гэтым полі ўказваецца памер часткі паверхні (у працэнтах ад агульнай плошчы планеты), якую вы б хацелі згенераваць.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Фракцыі</WorldFactionsTab>
 
@@ -121,21 +121,21 @@
   <!-- EN: Select -->
   <WorldChooseButton>Выбраць</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>Не знойдзена ніводнага захаванага свету. Стварыце свет і захавайце яго.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Не знойдзена ніводнага захаванага свету. Стварыце свет спачатку.</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>Даступна новая версія — {0}. Зайдзіце на ludeon.com для атрымання інфармацыі.</BuildNowAvailable>
+  <BuildNowAvailable>Даступна новая версія — {0}. Зайдзіце на ludeon.com для атрымання больш інфармацыі.</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
   <BuildUpToDate>У вас апошняя версія.</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
-  <ErrorGettingVersionInfo>Памылка атрымання даных аб версіі: {0}</ErrorGettingVersionInfo>
+  <ErrorGettingVersionInfo>Памылка атрымання дадзеных аб версіі: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>Загрузка даных аб версіі...</LoadingVersionInfo>
+  <LoadingVersionInfo>Загрузка дадзеных аб версіі...</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
-  <GenerateWorld>Стварыць свет</GenerateWorld>
+  <GenerateWorld>Згенераваць свет</GenerateWorld>
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
@@ -147,19 +147,19 @@
   <!-- EN: Show mods data location -->
   <ShowModsDataLocation>Паказаць шлях да папкі з модамі</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Вы ўпэўненыя, што хочаце адключыць ядро гульні? Гульня цалкам перастане працаваць, калі ў вас няма іншага мода, які заменіць усе яго функцыі.\n\nПамятаеце, іншыя мадыфікацыі могуць перавызначаць значэння ядра з дапамогай такіх жа значэнняў defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Вы ўпэўненыя, што хочаце адключыць асноўны мод? Гульня ўвогуле спыне працаваць, калі ў вас няма іншага мода, які заменіць усе яго функцыі.\n\nПамятайце, іншыя мадыфікацыі могуць перавызначаць значэння асноўнага моду з дапамогай такіх жа значэнняў defName.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>Вы ўпэўненыя, што жадаеце выдаліць {0}?</ConfirmDeleteMod>
+  <ConfirmDeleteMod>Вы ўпэўненыя, што жадаеце выдаліць усё для {0}?</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Упарадкаваць моды</ResolveModOrder>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadAfter>Не можам парухаць {0}: ён павінен загружацца пасля {1}.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
+  <ModReorderConflict_MustLoadBefore>Не можам парухаць {0}: ён павінен загружацца перад {1}.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>Адключыць</Unsubscribe>
+  <Unsubscribe>Адпісацца</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Вы ўпэўнены, што жадаеце адпісацца ад мода {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Вы ўпэўнены, што жадаеце адпісацца ад мадыфікацыі {0}?</ConfirmUnsubscribe>
   <!-- EN: Author -->
   <Author>Аўтар</Author>
   <!-- EN: Workshop page -->
@@ -169,19 +169,19 @@
   <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Абнавіць у Майстэрні Steam</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>Загрузка ўжо ідзе.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Запампоўка ўжо ідзе.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Падключэнне перапынена.\n\nПрычына: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Запампоўка не атрымалася.\n\nПрычына: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>Паспяхова загружана {0}.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>{0} паспяхова загружана.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>Загружаецца</Downloading>
+  <Downloading>Спампуецца</Downloading>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>Паказаць усе залежнасці</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Паказаць выкананныя патрабаванні</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>Вылучыце мод</ModClickToSelect>
+  <ModClickToSelect>Вылучыце мод.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>Перайсці на вэб-сайт</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Пстрыкніце, каб перайсці на вэб-сайт</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>Крыніца</Source>
   <!-- EN: For game version(s) -->
@@ -207,45 +207,45 @@
   <!-- EN: This requires following mods to work: {0}. -->
   <ModUnsatisfiedDependency>Гэты мод для нармальнай працы патрабуе наяўнасць іншых модаў: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Гэты мод ня прызначаны для актуальнай версіі RimWorld і, хутчэй за ўсё, будзе няправільна працаваць.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Гэты мод не прызначаны для гэтай версіі RimWorld і, хутчэй за ўсё, будзе няправільна працаваць.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>Гэты мод ня прызначаны для актуальнай версіі RimWorld.</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Гэты мод не прызначаны для гэтай версіі RimWorld.</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Гэты мод прызначаны для больш новай версіі RimWorld і, хутчэй за ўсё, будзе няправільна працаваць.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Модификации требуется указать информацию о совместимых версиях игры в файле About.xml. Например: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions>. Тег &lt;targetVersion> объявлен устаревшим. Для подробной информации просмотрите журнал.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Мадыфікацыя патрабуе правільна адфарматаваную інфармацыю аб падтрымліваемых версіях у файле About.xml. Напрыклад: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions>. Тэг &lt;targetVersion> з'яўляецца састарэлым. Для больш падрабязнасцей праверце часопіс.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Требуется правильно указать значение поля packageId в файле About.xml. Оно должно удовлетворять следующим требованиям:\n\n  - Только латинские буквы, цифры и символ точки.\n  - Пробелы не допускаются.\n  - Как минимум один символ точки.\n  - Нельзя ставить точку в начало, в конец, а также ставить несколько точек подряд.\n  - Не более 60 символов.\n  - Не допускается слово "Ludeon".</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>Гэты мод мае памылкі ў файле LoadFolders.xml, іх трэба ухіліць перад загрузкай: </ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Гэты мод мае памылкі ў файле LoadFolders.xml, іх трэба ухіліць перад запампоўкай: </ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>Папка {0}, указанная для версии {1} не существует.</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>Некорректный номер версии, «{0}». Номер должен иметь следующий формат: &lt;Основной номер>.&lt;Дополнительный номер> (например, «1.1»)</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>Список загружаемых папок для версии {0} пуст.</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>Для версии {0} одна и та же папка перечислена несколько раз: {1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>Неверный порядок версий: {0} должна следовать перед {1}.</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>Неверный порядок версий: версия «default» должна идти первой.</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Слово «default» в LoadFolders.xml устарело. Пожалуйста, укажите папки для каждой поддерживаемой версии, используя теги &lt;v...>.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>TODO</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>Версия {0} определена в LoadFolders.xml, но не перечислена в поле «supportedVersions» файла About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>Перацягвайце, каб спарадкаваць.</DragToReorder>
+  <DragToReorder>Перацягніце, каб спарадкаваць.</DragToReorder>
 
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
-  <ChooseScenario>Выбар сцэнара</ChooseScenario>
+  <ChooseScenario>Выбярыце сцэнар</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>Прыстасаваныя сцэнары</ScenariosCustom>
+  <ScenariosCustom>Карыстальніцкі</ScenariosCustom>
   <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Майстэрня Steam</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>Рэдактар сцэнарыяў</ScenarioEditor>
+  <ScenarioEditor>Рэдактар сцэнароў</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>Выдаліць</Delete>
   
@@ -255,7 +255,7 @@
   <!-- EN: Load -->
   <Load>Загрузіць</Load>
   <!-- EN: edit mode -->
-  <EditMode>рэжым рэдагавання</EditMode>
+  <EditMode>ражым рэдагавання</EditMode>
   <!-- EN: Summary -->
   <Summary>Кароткія звесткі</Summary>
   <!-- EN: Add part -->
@@ -263,9 +263,9 @@
   <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Усе тэкставыя палі павінны быць запоўненыя.</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Вы уверены, что хотите загрузить выбранное в Мастерскую Steam?\n\nВам будет необходимо принять условия использования Мастерской Steam. Ознакомиться с ними можно по ссылке:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>TODO</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>Учтите, вы должны загружать только то, что сделали сами.\n\nВы — автор этого контента?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>TODO</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>Несумяшчальна</Incompatible>
   <!-- EN: Tag as translation -->
@@ -273,35 +273,35 @@
   <!-- EN: Too many (max {0}):  -->
   <TooMany>Занадта шмат (максімум {0}): </TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Может быть обновлено в Мастерской, поскольку вы автор данного контента.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>TODO</CanBeUpdatedOnWorkshop>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>Выбар ІІ-апавядальніка</ChooseAIStoryteller>
+  <ChooseAIStoryteller>Выбярыце ШІ апавядаўца</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>ІІ-апавядальнік стварае падзеі, такія як атакі піратаў, прызямленне транспартных капсул і напады жывёл. Гэтыя падзеі будзе ўплываць на гісторыю вашага паселішчы. Апавядальніка можна змяніць у любы момант.</HowStorytellersWork>
+  <HowStorytellersWork>ШІ (штучны інтэлект) апавядаўца стварае падзеі, такія як напады піратаў, прызямленне рэсурсаў і атакі жывёл. Іх выбары будзе ўплываць на гісторыю вашага селішча. Вы можаце змяніць апавядальніка ў любы момант.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>Калі ласка, выберыце цяжкасць.</MustChooseDifficulty>
+  <MustChooseDifficulty>Калі ласка, выберыце складанасць.</MustChooseDifficulty>
   <!-- EN: Difficulty -->
-  <Difficulty>Цяжкасць</Difficulty>
+  <Difficulty>Складанасць</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>«Адказны» рэжым</CommitmentMode>
+  <CommitmentMode>Ражым абавязанняў</CommitmentMode>
   <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>Загрузка ў любы момант</ReloadAnytimeMode>
+  <ReloadAnytimeMode>Перазагрузка ў любы момант</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>Калі ласка, абярыце або «адказны» рэжым, ці рэжым загрузкі ў любы момант.</MustChoosePermadeath>
+  <MustChoosePermadeath>Калі ласка, абярыце ражым абавязанняў або ражым перазагрузкі ў любы момант.</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Вы можаце захоўваць і загружаць гульню ў любы момант.\n\nГэта добры выбар для тых, хто толькі вывучае RimWorld, і для тых, каму па душы такі стыль гульні. Гэты рэжым таксама падыдзе для вас, калі, напрыклад, вы карыстаецеся модамi, якія могуць «зламаць» гульню, ці ж калі вы толькі намерваецеся перайсці да «адказнага» рэжыму.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Вы можаце захоўваць і загружаць гульню ў любы момант.\n\nГэта добры выбар, калі Вы толькі вывучаеце гульню, калі гэта падыходзіць Вашаму стылю гульні, калі вы карыстаецеся модамi, якія могуць зламаць гульню, ці ж калі Вы толькі спрабуеце перайсці да ражыму абавязанняў.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>Гульня захоўваецца толькі пры выхадзе.\n\nRimWorld задумваўся як генератар захапляльных гісторый, у якіх за кожным падзеннем вынікае адраджэнне. Нават калі ў жывых застанецца ўсяго адзін чалавек - гэта не канец гульні, а толькі частка гісторыі.\n\nПераадоленне страшных сітуацый толькі дадае гісторыі трагізму і трыумфу. Гэта менавіта тое, дзеля чаго варта гуляць у RimWorld.\n\nЛюк Скайуокер, калі загінула яго сям'я, не стаў загружаць захаванне. Страта і адраджэнне - вось, што па-сапраўднаму захоплівае!</PermadeathModeInfo>
+  <PermadeathModeInfo>Вы можаце захаваць гульню толькі пры выхадзе.\n\n Так як RimWorld з'яўляецца генератарам гісторый, нават калі ў жывых застанецца ўсяго адзін чалавек - гэта не канец гульні, а толькі частка гісторыі.\n\nГульня спраектавана так, каб дазваляць адраджэнне пасля стратаў. Пераадоленне гэтых страшных падзей толькі дадае гісторыі трагізму і трыумфу. Такі шлях гульні ў RimWorld.\n\nЁсць прычына, па якой Люк Скайуокер не здаўся, калі загінула яго сям'я - страта і адраджэнне ўражальны.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>Апавядальніка і складанасць можна будзе памяняць у любы момант.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>Апавядаўца і стыль гульні можна будзе змяніць у любы момант.</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>Карыстацкія налады цяжкасці</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>Карыстацкія налады складанасць</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>Прымяніць стандартныя налады цяжкасцi...</DifficultyReset>
+  <DifficultyReset>Ужыць стандартавы стыль гульні...</DifficultyReset>
   
   <!-- EN: Threats -->
   <DifficultyThreatSection>Пагрозы</DifficultyThreatSection>
