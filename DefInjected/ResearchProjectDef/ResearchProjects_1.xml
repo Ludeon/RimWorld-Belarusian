@@ -27,19 +27,19 @@
   <ComplexFurniture.description>Пабадуйце складаную меблю: ложкі, сталы, абедныя крэслы, фатэлі, камоды, шафы для прылад, більярдныя і покерныя сталы, вентыляцыя, саркафагі і іншае.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
-  <Devilstrand.label>TODO</Devilstrand.label>
+  <Devilstrand.label>д'ябалпасма</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>TODO</Devilstrand.description>
+  <Devilstrand.description>Расліна д'ябалпасма - гэта павольна растучы грыб, які ўраджае вылучна трывалае і тэрмаўстойлівае расліннае валакно. </Devilstrand.description>
   
   <!-- EN: drug production -->
-  <DrugProduction.label>TODO</DrugProduction.label>
+  <DrugProduction.label>выраб прэпаратаў</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>TODO</DrugProduction.description>
+  <DrugProduction.description>Пабудуйце хімічную лабараторыю для сінтэзу базавых прэпаратаў. Для вырабу адмысловых прэпаратаў патрэбны далейшыя даследванні.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>TODO</GoJuiceProduction.label>
+  <GoJuiceProduction.label>жвава-сок</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>TODO</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Выраб жвава-сока - сінтэтычны прэпарат для павелічэння эфектыўнасці бою, які паляпшае здольнасці стральбы, блізкага бою і перасоўвання, а такжа прытупляе боль.</GoJuiceProduction.description>
   
   <!-- EN: greatbow -->
   <Greatbow.label>TODO</Greatbow.label>

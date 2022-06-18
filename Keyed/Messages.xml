@@ -252,7 +252,7 @@
   <MessageRottedAwayInStorage>TODO</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>{PAWN_labelShort} {1_gender ? атруціўся : атруцілася} прыгатаваннай ежай: {FOOD_labelShort}. Прычына: {2}.</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort} {1_gender ? атруціўся : атруцілася} прыгатаванай ежай: {FOOD_labelShort}. Прычына: {2}.</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>TODO</MessagePawnLostWhileFormingCaravan>
@@ -270,13 +270,13 @@
   <MessageMaxPlanetCoveragePerformanceWarning>TODO</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>TODO</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>{0} загінуў з-за холаду.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>TODO</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} звял, бо  расліву сваячасова не пажалі.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
   <MessagePlantDiedOfRot_ExposedToLight>TODO</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>TODO</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0} звяў.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>TODO</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
