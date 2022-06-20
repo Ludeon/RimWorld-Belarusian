@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: human -->
+  <Human.label>чалавек</Human.label>
+  <!-- EN: left lung -->
+  <Human.corePart.parts.left_lung.customLabel>левае лёгкае</Human.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Human.corePart.parts.right_lung.customLabel>правае лёгкае</Human.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Human.corePart.parts.left_kidney.customLabel>левая нырка</Human.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Human.corePart.parts.right_kidney.customLabel>правая нырка</Human.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>левае вока</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>правае вока</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>левае вуха</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>правае вуха</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Human.corePart.parts.left_shoulder.customLabel>левае плячо</Human.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>левая раменніца</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>левая рука</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>левы рамёнак</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>левая праменьніца</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>левая пясць</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>левы мязянік</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>левы пярсценец</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>левы сярэднік</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>левы паказнік</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>левы адзінец</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Human.corePart.parts.right_shoulder.customLabel>правае плячо</Human.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>правая раменніца</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>правая рука</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>правы рамёнак</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>правая праменьніца</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>правая пясць</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>правы мязянік</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>правы пярсценец</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>правы сярэднік</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>правы паказнік</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>правы адзінец</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Human.corePart.parts.left_leg.customLabel>левая нага</Human.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <!-- BY: бядрыца - гэта косць, а ўвогуле гэта сцягно -->
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>левая бядрыца</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>левая вялікагалёнкавая косьць</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>левая ступа</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>левы малы палец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>левы чацверты плаец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>левы трэці палец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>левы другі палец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>левы вялікі палец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Human.corePart.parts.right_leg.customLabel>правая нага</Human.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>правая бядрыца</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>правая вялікагалёнкавая косьць</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>правая ступа</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>правы малы палец нагі</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>правы чацверты палец нагі</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>правы трэці палец нагі</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>правы другі палец нагі</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>правы вялікі палец нагі</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>жывёлы</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>TODO</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>жывёлы</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>мастацтсво</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>TODO</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>мастацтсво</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>будаўніцтва</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>TODO</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>будаўніцтва</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>гатаваньне</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>TODO</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>гатаваньне</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>рамяство</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>TODO</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>рамяство</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>даследаваньні</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>TODO</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>даследаваньні</Intellectual.skillLabel>
+
+  <!-- EN: medical -->
+  <Medicine.label>мэдыцына</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>TODO</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>мэдыцына</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>блізкі бой</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>TODO</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>блізкі бой</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>шахцёрства</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>TODO</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>шахцёрства</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>расліны</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>TODO</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>расліны</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>стральба</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>TODO</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>стральба</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>таварыскасьць</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>TODO</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>таварыскасьць</Social.skillLabel>
+  
+</LanguageData>

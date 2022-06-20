@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
   <MessageSiegersAssaulting>TODO</MessageSiegersAssaulting>
 
@@ -153,7 +152,7 @@
   <MessageNoLongerDowned>{1_label} зноўку можа хадзіць.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{1_labelShort} {1_gender ? страціў : страціла} прытомнасць з-за моцнага змардаваня.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} {1_gender ? страціў : страціла} прытомнасць з-за моцнага змардавання.</MessageInvoluntarySleep>
 
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>TODO</MessageMedicalOperationWillAngerFaction>
@@ -270,13 +269,13 @@
   <MessageMaxPlanetCoveragePerformanceWarning>TODO</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>{0} загінуў з-за холаду.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>Расліна {0} загінула з-за холаду.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>{0} звял, бо  расліву сваячасова не пажалі.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>Расліна {0} звяла, бо яе сваячасова не пажалі.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
   <MessagePlantDiedOfRot_ExposedToLight>TODO</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0} звяў.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>Расліна {0} звяла.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>TODO</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
@@ -748,5 +747,4 @@
 
   <!-- EN: Warning: {0} has been marked for cutting. -->
   <MessageWarningCutImportantPlant>TODO</MessageWarningCutImportantPlant>
-
 </LanguageData>
