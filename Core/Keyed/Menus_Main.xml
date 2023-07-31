@@ -13,7 +13,7 @@
     <!-- EN: Save -->
     <Save>Захаваць</Save>
     <!-- EN: Load game -->
-    <LoadGame>Заладаваць гульню</LoadGame>
+    <LoadGame>Загрузіць гульню</LoadGame>
     <!-- EN: Options -->
     <Options>Налады</Options>
     <!-- EN: Mod -->
@@ -47,13 +47,13 @@
     <!-- EN: Forums -->
     <Forums>Форумы</Forums>
     <!-- EN: Official wiki -->
-    <OfficialWiki>Афіцыйная wiki</OfficialWiki>
+    <OfficialWiki>Афіцыйная вікі</OfficialWiki>
     <!-- EN: Tynan's twitter -->
-    <TynansTwitter>Твiттер Тайнена</TynansTwitter>
+    <TynansTwitter>Твіттэр Тайнена</TynansTwitter>
     <!-- EN: Tynan's design book -->
     <TynansDesignBook>Кнiга Тайнена</TynansDesignBook>
     <!-- EN: Help translate RimWorld -->
-    <HelpTranslate>Дапамога ў перакладзе RimWorld</HelpTranslate>
+    <HelpTranslate>Дапамагчы ў перакладзе RimWorld</HelpTranslate>
     <!-- EN: Buy soundtrack -->
     <BuySoundtrack>Купіць саўндтрэк</BuySoundtrack>
     <!-- EN: Create world -->
@@ -111,7 +111,7 @@
     <!-- EN: Randomize seed -->
     <RandomizeSeed>Выпадковае зерне</RandomizeSeed>
     <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-    <PlanetCoverageTip>Дыяметр планеты нязменны, але паколькі ён значна больш, чым патрабуецца для гульні, паверхня планеты генеруецца не цалкам. У адваротным выпадку гэта б заняло доўгі час. У гэтым полі ўказваецца памер часткі паверхні (у працэнтах ад агульнай плошчы планеты), якую вы б хацелі згенераваць.</PlanetCoverageTip>
+    <PlanetCoverageTip>Дыяметр планеты нязменны, але паколькі ён значна больш, чым патрабуецца для гульні, паверхня планеты генеруецца ня цалкам. У адваротным выпадку гэта б заняло доўгі час. У гэтым полі ўказваецца памер часткі паверхні (у працэнтах ад агульнай плошчы планеты), якую вы б хацелі згенераваць.</PlanetCoverageTip>
     <!-- EN: Factions -->
     <WorldFactionsTab>Фракцыі</WorldFactionsTab>
 
@@ -215,7 +215,7 @@
     <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
     <ModHadLoadFolderIssues>Гэты мод мае памылкі ў файле LoadFolders.xml, іх трэба ухіліць перад загрузкай: </ModHadLoadFolderIssues>
     <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-    <ModLoadFolderDoesntExist>Дырэкторыя {0}, вызначанная для версіі{1} не існуе.</ModLoadFolderDoesntExist>
+    <ModLoadFolderDoesntExist>Каталог {0}, вызначаны для версіі{1} не існуе.</ModLoadFolderDoesntExist>
     <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
     <ModLoadFolderMalformedVersion>Некорректный номер версии, «{0}». Номер должен иметь следующий формат: &lt;Основной номер>.&lt;Дополнительный номер> (например, «1.1»)</ModLoadFolderMalformedVersion>
     <!-- EN: The list of load folders for version {0} is empty. -->
