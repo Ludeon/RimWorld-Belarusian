@@ -3,12 +3,12 @@
   <!-- EN: beer brewing -->
   <Brewing.label>піваварства</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>Пабудуйце варныя і брадзілныя чопы для перапрацоўкі хмелю ў вельмі смачненькі півасік.</Brewing.description>
+  <Brewing.description>Пабудуйце варныя і брадзільныя чопы для перапрацоўкі хмелю ў вельмі смачненькі півасік.</Brewing.description>
   
   <!-- EN: carpet making -->
   <CarpetMaking.label>выраб дыванаў</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>Зткаць найпрыгажэйшыя дываны з тканіны.</CarpetMaking.description>
+  <CarpetMaking.description>Саткаць найпрыгажэйшыя дываны з тканіны.</CarpetMaking.description>
   
   <!-- EN: cocoa -->
   <Cocoa.label>какава</Cocoa.label>
@@ -21,9 +21,9 @@
   <ComplexClothing.description>Краўцы могуць шыць складанае адзенне: нагавіцы, плашчы, каўбойскія капялюшы і іншае.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
-  <ComplexFurniture.label>складаная мебля</ComplexFurniture.label>
+  <ComplexFurniture.label>складаная мэбля</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>Пабадуйце складаную меблю: ложкі, сталы, абедныя крэслы, фатэлі, камоды, шафы для прылад, більярдныя і покерныя сталы, вентыляцыя, саркафагі і іншае.</ComplexFurniture.description>
+  <ComplexFurniture.description>Пабудуйце складаную мэблю: ложкі, сталы, абедныя крэслы, фатэлі, камоды, шафы для прылад, більярдныя і покерныя сталы, вентыляцыя, саркафагі і іншае.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
   <Devilstrand.label>д'ябалпасма</Devilstrand.label>

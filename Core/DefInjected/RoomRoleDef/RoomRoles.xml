@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: barn -->
-  <Barn.label>сьвіран</Barn.label>
+  <Barn.label>свіран</Barn.label>
   
   <!-- EN: barracks -->
   <Barracks.label>казарма</Barracks.label>
@@ -20,7 +20,7 @@
   <Kitchen.label>варэльня</Kitchen.label>
   
   <!-- EN: laboratory -->
-  <Laboratory.label>лябораторыя</Laboratory.label>
+  <Laboratory.label>лабараторыя</Laboratory.label>
   
   <!-- EN: none -->
   <None.label>пусты</None.label>

@@ -9,11 +9,11 @@
   <Animals.skillLabel>жывёлы</Animals.skillLabel>
   
   <!-- EN: artistic -->
-  <Artistic.label>мастацтсво</Artistic.label>
+  <Artistic.label>мастацтва</Artistic.label>
   <!-- EN: Crafting art. -->
   <Artistic.description>TODO</Artistic.description>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>мастацтсво</Artistic.skillLabel>
+  <Artistic.skillLabel>мастацтва</Artistic.skillLabel>
   
   <!-- EN: construction -->
   <Construction.label>будаўніцтва</Construction.label>
@@ -23,11 +23,11 @@
   <Construction.skillLabel>будаўніцтва</Construction.skillLabel>
   
   <!-- EN: cooking -->
-  <Cooking.label>гатаваньне</Cooking.label>
+  <Cooking.label>гатаванне</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
   <Cooking.description>TODO</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.skillLabel>гатаваньне</Cooking.skillLabel>
+  <Cooking.skillLabel>гатаванне</Cooking.skillLabel>
   
   <!-- EN: crafting -->
   <Crafting.label>рамяство</Crafting.label>
@@ -37,11 +37,11 @@
   <Crafting.skillLabel>рамяство</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
-  <Intellectual.label>даследаваньні</Intellectual.label>
+  <Intellectual.label>даследаванні</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>TODO</Intellectual.description>
   <!-- EN: intellectual -->
-  <Intellectual.skillLabel>даследаваньні</Intellectual.skillLabel>
+  <Intellectual.skillLabel>даследаванні</Intellectual.skillLabel>
 
   <!-- EN: medical -->
   <Medicine.label>мэдыцына</Medicine.label>
@@ -79,10 +79,10 @@
   <Shooting.skillLabel>стральба</Shooting.skillLabel>
   
   <!-- EN: social -->
-  <Social.label>таварыскасьць</Social.label>
+  <Social.label>таварыскасць</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
   <Social.description>TODO</Social.description>
   <!-- EN: social -->
-  <Social.skillLabel>таварыскасьць</Social.skillLabel>
+  <Social.skillLabel>таварыскасць</Social.skillLabel>
   
 </LanguageData>

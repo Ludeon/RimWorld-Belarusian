@@ -27,7 +27,7 @@
   <!-- EN: left humerus -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>левы рамёнак</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>левая праменьніца</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>левая праменніца</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>левая пясць</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
@@ -49,7 +49,7 @@
   <!-- EN: right humerus -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>правы рамёнак</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>правая праменьніца</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>правая праменніца</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>правая пясць</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->

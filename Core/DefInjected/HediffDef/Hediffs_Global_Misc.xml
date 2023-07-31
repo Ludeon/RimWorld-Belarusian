@@ -70,7 +70,7 @@
   <DrugOverdose.stages.major.label>TODO</DrugOverdose.stages.major.label>
   
   <!-- EN: food poisoning -->
-  <FoodPoisoning.label>атручванне</FoodPoisoning.label>
+  <FoodPoisoning.label>харчовае атручванне</FoodPoisoning.label>
   <!-- EN: Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time. -->
   <FoodPoisoning.description>TODO</FoodPoisoning.description>
   <!-- EN: recovering -->
