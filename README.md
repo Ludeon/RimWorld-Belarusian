@@ -12,11 +12,11 @@
 
 * [SampleText2k77](https://github.com/SampleText2k77)
 * [MonoDx](https://github.com/monodevx)
+* [Mašańka](https://github.com/MaryAlex)
 
 ### Неактыўныя
 
 * [FatAlien](https://github.com/FatAliens)
-* [Mašańka](https://github.com/MaryAlex)
 
 ## Далучыцца
 
