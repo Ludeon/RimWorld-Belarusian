@@ -2,9 +2,24 @@
 <LanguageData>
   
   <!-- EN: cat -->
-  <Cat.label>TODO</Cat.label>
-  <!-- EN: kitten -->
-  <Cat.lifeStages.kitten.label>TODO</Cat.lifeStages.kitten.label>
+  <Cat.label>кот</Cat.label>
+  <Cat.labelPlural>каты</Cat.labelPlural>
+  <Cat.labelMale>кот</Cat.labelMale>
+  <Cat.labelMalePlural>каты</Cat.labelMalePlural>
+  <Cat.labelFemale>котка</Cat.labelFemale>
+  <Cat.labelFemalePlural>коткі</Cat.labelFemalePlural>
+  <Cat.lifeStages.0.label>кацяня</Cat.lifeStages.0.label>
+  <Cat.lifeStages.0.labelPlural>кацяняткі</Cat.lifeStages.0.labelPlural>
+  <Cat.lifeStages.0.labelMale>кацянё</Cat.lifeStages.0.labelMale>
+  <Cat.lifeStages.0.labelMalePlural>кацяняты</Cat.lifeStages.0.labelMalePlural>
+  <Cat.lifeStages.0.labelFemale>кацяня</Cat.lifeStages.0.labelFemale>
+  <Cat.lifeStages.0.labelFemalePlural>кацяняткі</Cat.lifeStages.0.labelFemalePlural>
+  <Cat.lifeStages.1.label>млады кот</Cat.lifeStages.1.label>
+  <Cat.lifeStages.1.labelPlural>младыя каты</Cat.lifeStages.1.labelPlural>
+  <Cat.lifeStages.1.labelMale>млады кот</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.1.labelMalePlural>младыя каты</Cat.lifeStages.1.labelMalePlural>
+  <Cat.lifeStages.1.labelFemale>младая котка</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.1.labelFemalePlural>младыя коткі</Cat.lifeStages.1.labelFemalePlural>
   
   <!-- EN: guinea pig -->
   <GuineaPig.label>TODO</GuineaPig.label>

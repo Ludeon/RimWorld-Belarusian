@@ -1,31 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN: anesthetic -->
-  <Anesthetic.label>TODO</Anesthetic.label>
+  <Anesthetic.label>знячуленне</Anesthetic.label>
   <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
-  <Anesthetic.description>TODO</Anesthetic.description>
+  <Anesthetic.description>Снатворнае ў крыві. Болепатольныя сродкі ўводзяць істот у стан непрытомнасці.</Anesthetic.description>
   <!-- EN: wearing off -->
-  <Anesthetic.stages.wearing_off.label>TODO</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.wearing_off.label>выветрываецца</Anesthetic.stages.wearing_off.label>
   <!-- EN: woozy -->
-  <Anesthetic.stages.woozy.label>TODO</Anesthetic.stages.woozy.label>
+  <Anesthetic.stages.woozy.label>зачмураны</Anesthetic.stages.woozy.label>
   <!-- EN: sedated -->
-  <Anesthetic.stages.sedated.label>TODO</Anesthetic.stages.sedated.label>
+  <Anesthetic.stages.sedated.label>пад наркозам</Anesthetic.stages.sedated.label>
   
   <!-- EN: blood loss -->
-  <BloodLoss.label>TODO</BloodLoss.label>
+  <BloodLoss.label>страта крыві</BloodLoss.label>
   <!-- EN: A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply. -->
   <BloodLoss.description>TODO</BloodLoss.description>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-0.label>TODO</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-0.label>дробязная</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-1.label>TODO</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.minor-1.label>невялічкая</BloodLoss.stages.minor-1.label>
   <!-- EN: moderate -->
-  <BloodLoss.stages.moderate.label>TODO</BloodLoss.stages.moderate.label>
+  <BloodLoss.stages.moderate.label>умераная</BloodLoss.stages.moderate.label>
   <!-- EN: severe -->
-  <BloodLoss.stages.severe.label>TODO</BloodLoss.stages.severe.label>
+  <BloodLoss.stages.severe.label>значная</BloodLoss.stages.severe.label>
   <!-- EN: extreme -->
-  <BloodLoss.stages.extreme.label>TODO</BloodLoss.stages.extreme.label>
+  <BloodLoss.stages.extreme.label>крытычная</BloodLoss.stages.extreme.label>
   
   <!-- EN: brain shock -->
   <BrainShock.label>TODO</BrainShock.label>
@@ -71,7 +70,7 @@
   <DrugOverdose.stages.major.label>TODO</DrugOverdose.stages.major.label>
   
   <!-- EN: food poisoning -->
-  <FoodPoisoning.label>TODO</FoodPoisoning.label>
+  <FoodPoisoning.label>атручванне</FoodPoisoning.label>
   <!-- EN: Gastrointestinal illness caused by consuming decayed or unclean food. It can be caused by eating rotten food, by incompetent cooks accidentally poisoning meals, or by eating from unsafe wild sources. The patient will vomit and feel sick for some time. -->
   <FoodPoisoning.description>TODO</FoodPoisoning.description>
   <!-- EN: recovering -->
@@ -95,13 +94,13 @@
   <HeartAttack.stages.fatal.label>TODO</HeartAttack.stages.fatal.label>
   
   <!-- EN: pregnant -->
-  <Pregnant.label>TODO</Pregnant.label>
+  <Pregnant.label>цяжарна</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>TODO</Pregnant.description>
   <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_MessageAfterTicks.message>TODO</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0} зацяжарыла!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
   <!-- EN: pregnancy -->
-  <Pregnant.labelNoun>TODO</Pregnant.labelNoun>
+  <Pregnant.labelNoun>цяжарнасць</Pregnant.labelNoun>
   <!-- EN: early-stage -->
   <Pregnant.stages.earlystage.label>TODO</Pregnant.stages.earlystage.label>
   <!-- EN: middle-stage -->
@@ -155,5 +154,4 @@
   <ToxicBuildup.stages.serious.label>TODO</ToxicBuildup.stages.serious.label>
   <!-- EN: extreme -->
   <ToxicBuildup.stages.extreme.label>TODO</ToxicBuildup.stages.extreme.label>
-  
 </LanguageData>

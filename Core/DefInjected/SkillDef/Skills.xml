@@ -2,87 +2,87 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>жывёлы</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>TODO</Animals.description>
   <!-- EN: animals -->
-  <Animals.skillLabel>TODO</Animals.skillLabel>
+  <Animals.skillLabel>жывёлы</Animals.skillLabel>
   
   <!-- EN: artistic -->
-  <Artistic.label>TODO</Artistic.label>
+  <Artistic.label>мастацтсво</Artistic.label>
   <!-- EN: Crafting art. -->
   <Artistic.description>TODO</Artistic.description>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>TODO</Artistic.skillLabel>
+  <Artistic.skillLabel>мастацтсво</Artistic.skillLabel>
   
   <!-- EN: construction -->
-  <Construction.label>TODO</Construction.label>
+  <Construction.label>будаўніцтва</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
   <Construction.description>TODO</Construction.description>
   <!-- EN: construction -->
-  <Construction.skillLabel>TODO</Construction.skillLabel>
+  <Construction.skillLabel>будаўніцтва</Construction.skillLabel>
   
   <!-- EN: cooking -->
-  <Cooking.label>TODO</Cooking.label>
+  <Cooking.label>гатаваньне</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
   <Cooking.description>TODO</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.skillLabel>TODO</Cooking.skillLabel>
+  <Cooking.skillLabel>гатаваньне</Cooking.skillLabel>
   
   <!-- EN: crafting -->
-  <Crafting.label>TODO</Crafting.label>
+  <Crafting.label>рамяство</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>TODO</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>TODO</Crafting.skillLabel>
+  <Crafting.skillLabel>рамяство</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
-  <Intellectual.label>TODO</Intellectual.label>
+  <Intellectual.label>даследаваньні</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>TODO</Intellectual.description>
   <!-- EN: intellectual -->
-  <Intellectual.skillLabel>TODO</Intellectual.skillLabel>
-  
+  <Intellectual.skillLabel>даследаваньні</Intellectual.skillLabel>
+
   <!-- EN: medical -->
-  <Medicine.label>TODO</Medicine.label>
+  <Medicine.label>мэдыцына</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
   <Medicine.description>TODO</Medicine.description>
   <!-- EN: medical -->
-  <Medicine.skillLabel>TODO</Medicine.skillLabel>
+  <Medicine.skillLabel>мэдыцына</Medicine.skillLabel>
   
   <!-- EN: melee -->
-  <Melee.label>TODO</Melee.label>
+  <Melee.label>блізкі бой</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
   <Melee.description>TODO</Melee.description>
   <!-- EN: melee -->
-  <Melee.skillLabel>TODO</Melee.skillLabel>
+  <Melee.skillLabel>блізкі бой</Melee.skillLabel>
   
   <!-- EN: mining -->
-  <Mining.label>TODO</Mining.label>
+  <Mining.label>шахцёрства</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
   <Mining.description>TODO</Mining.description>
   <!-- EN: mining -->
-  <Mining.skillLabel>TODO</Mining.skillLabel>
+  <Mining.skillLabel>шахцёрства</Mining.skillLabel>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>расліны</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
   <Plants.description>TODO</Plants.description>
   <!-- EN: plants -->
-  <Plants.skillLabel>TODO</Plants.skillLabel>
+  <Plants.skillLabel>расліны</Plants.skillLabel>
   
   <!-- EN: shooting -->
-  <Shooting.label>TODO</Shooting.label>
+  <Shooting.label>стральба</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
   <Shooting.description>TODO</Shooting.description>
   <!-- EN: shooting -->
-  <Shooting.skillLabel>TODO</Shooting.skillLabel>
+  <Shooting.skillLabel>стральба</Shooting.skillLabel>
   
   <!-- EN: social -->
-  <Social.label>TODO</Social.label>
+  <Social.label>таварыскасьць</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
   <Social.description>TODO</Social.description>
   <!-- EN: social -->
-  <Social.skillLabel>TODO</Social.skillLabel>
+  <Social.skillLabel>таварыскасьць</Social.skillLabel>
   
 </LanguageData>
