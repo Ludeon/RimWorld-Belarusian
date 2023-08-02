@@ -41,9 +41,9 @@
   <FoodPoisonChanceFixedHuman.labelForFullStatList>верагоднасць атручвання</FoodPoisonChanceFixedHuman.labelForFullStatList>
 
   <!-- EN: market value -->
-  <MarketValue.label>Цана</MarketValue.label>
+  <MarketValue.label>Рыначны кошт</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>Цана аб'екта.\n\nФактычны гандлевая цана будзе залежыць ад майстэрства вядзення перамоў, зносін з гандляром, ды іншых фактараў.</MarketValue.description>
+  <MarketValue.description>Рыначны кошт аб'екта.\n\nФактычны гандлевая цана будзе залежыць ад майстэрства вядзення перамоў, зносін з гандляром, ды іншых фактараў.</MarketValue.description>
 
   <!-- EN: market value ignoring hitpoints -->
   <MarketValueIgnoreHp.label>Не залежная ад стану цана</MarketValueIgnoreHp.label>
@@ -66,7 +66,7 @@
   <Nutrition.description>Адлюстроўвае наколькі пажыўная гэта ежа.</Nutrition.description>
 
   <!-- EN: honor value -->
-  <RoyalFavorValue.label>Цана гонару</RoyalFavorValue.label>
+  <RoyalFavorValue.label>кошт гонару</RoyalFavorValue.label>
   <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
   <RoyalFavorValue.description>Колькасць гонару якую атрымае ваш гадлёвец калі аддасць гэта зборшчыку падаткаў.</RoyalFavorValue.description>
 
