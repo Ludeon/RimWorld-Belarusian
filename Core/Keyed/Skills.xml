@@ -1,26 +1,40 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: level -->
+  <!-- EN: Level -->
   <Level>TODO</Level>
-  <!-- EN: Progress to next level -->
+  <!-- EN: Skill level -->
+  <SkillLevel>TODO</SkillLevel>
+  <!-- EN: Progress to next learned level -->
   <ProgressToNextLevel>TODO</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>TODO</Experience>
   <!-- EN: Passion -->
   <Passion>TODO</Passion>
-  <!-- EN: None\n   -Learns {0} -->
+  <!-- EN: No passion -->
   <PassionNone>TODO</PassionNone>
-  <!-- EN: Interested\n   -Learns {0} -->
+  <!-- EN: Passion -->
   <PassionMinor>TODO</PassionMinor>
-  <!-- EN: Burning\n   -Learns {0} -->
+  <!-- EN: Burning passion -->
   <PassionMajor>TODO</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>TODO</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>TODO</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>TODO</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>TODO</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>TODO</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>TODO</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>TODO</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>TODO</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>TODO</GeneLabelWithDesc>
 
   <!-- EN: Barely heard of it -->
   <Skill0>TODO</Skill0>

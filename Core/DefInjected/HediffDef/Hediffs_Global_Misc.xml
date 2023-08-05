@@ -41,10 +41,17 @@
   <!-- EN: a catatonic breakdown -->
   <CatatonicBreakdown.labelNoun>TODO</CatatonicBreakdown.labelNoun>
   
+  <!-- EN: covered in firefoam -->
+  <CoveredInFirefoam.label>TODO</CoveredInFirefoam.label>
+  <!-- EN: Covered in a fire-retardant foam. -->
+  <CoveredInFirefoam.description>TODO</CoveredInFirefoam.description>
+  
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>TODO</CryptosleepSickness.label>
   <!-- EN: After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind. -->
   <CryptosleepSickness.description>TODO</CryptosleepSickness.description>
+  <!-- EN: After-effects of using a cryptosleep pod including dizziness, nausea, and vomiting. -->
+  <CryptosleepSickness.descriptionShort>TODO</CryptosleepSickness.descriptionShort>
   
   <!-- EN: drug overdose -->
   <DrugOverdose.label>TODO</DrugOverdose.label>
@@ -129,12 +136,12 @@
   
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>TODO</ResurrectionSickness.label>
-  <!-- EN: After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves. -->
+  <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
   <ResurrectionSickness.description>TODO</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>TODO</ToxicBuildup.label>
-  <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten. -->
+  <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
   <ToxicBuildup.description>TODO</ToxicBuildup.description>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>TODO</ToxicBuildup.stages.initial-0.label>
