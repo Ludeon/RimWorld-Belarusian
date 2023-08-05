@@ -148,226 +148,226 @@
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
-  <CommandSetForceAttackTarget>TODO</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>Задаць прымусовую мішэнь</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>TODO</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>Задае мішэнь, якую гэта турэль павінна атакаваць бесперапынна і пакуль можа.</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
-  <CommandStopForceAttack>TODO</CommandStopForceAttack>
+  <CommandStopForceAttack>Спыніць прымусовую атаку</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>TODO</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>Спыняе прымусовую атаку і дазваляе турэлі паліць як яна жадае.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
-  <CommandStopAttackFailNotForceAttacking>TODO</CommandStopAttackFailNotForceAttacking>
+  <CommandStopAttackFailNotForceAttacking>Прымусовая атака не ў працэсе.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
-  <CommandExtractShell>TODO</CommandExtractShell>
+  <CommandExtractShell>Выняць снарад</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>TODO</CommandExtractShellDesc>
+  <CommandExtractShellDesc>Выгружае бягучы снарад, каб можна было замяніць яго на іншую зброю.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
-  <MessageTargetBeyondMaximumRange>TODO</MessageTargetBeyondMaximumRange>
+  <MessageTargetBeyondMaximumRange>Мішэнь далей за максімальную дасягальнасць.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
-  <MessageTargetBelowMinimumRange>TODO</MessageTargetBelowMinimumRange>
+  <MessageTargetBelowMinimumRange>Мішэнь бліжэй за мінімальную дасягальнасць.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>TODO</MessageTurretWontFireBecauseHoldFire>
-  
+  <MessageTurretWontFireBecauseHoldFire>Папярэджанне: мінамёт не паліць, таму што задана налада «Утрымліваць пальбу».</MessageTurretWontFireBecauseHoldFire>
+
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
-  <CommandShipLaunch>TODO</CommandShipLaunch>
+  <CommandShipLaunch>Запусціць карабель</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>TODO</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>Пачаць дзеянні па запуску карабля з бягучай канфігурацыяй.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>TODO</CommandShipLaunchReport>
+  <CommandShipLaunchReport>Паказаць справаздачу аб запуску</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>TODO</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>Паказаць справаздачу аб падрыхтаванасці карабля да запуску.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
-  <CommandShipStartup>TODO</CommandShipStartup>
+  <CommandShipStartup>Пачаць запуск карабля</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>TODO</CommandShipStartupDesc>
+  <CommandShipStartupDesc>Павыводзіць элементы карабля з гібернацыі.</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
-  <CommandPodEject>TODO</CommandPodEject>
+  <CommandPodEject>Выцягнуць соннага</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
-  <CommandPodEjectDesc>TODO</CommandPodEjectDesc>
+  <CommandPodEjectDesc>Абудзіць соннага з крыптасну і выцягнуць яго.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
-  <CommandPodEjectFailEmpty>TODO</CommandPodEjectFailEmpty>
+  <CommandPodEjectFailEmpty>Тут нікога няма.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
   <!-- EN: Passage forbidden -->
-  <CommandToggleDoorForbid>TODO</CommandToggleDoorForbid>
+  <CommandToggleDoorForbid>Праходжанне забаронена</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>TODO</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>Калі дзверы з'яўляюцца забароненымі, сяленцы і хаўруснікі не праходзяць праз іх. Гэта не ўплывае на тое, як ворагі або жывёлы ўзаемадзейнічаюць з дзвярмі.</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
-  <CommandToggleDoorHoldOpen>TODO</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpen>Утрымліваць адчыненымі</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>TODO</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>Калі актыўна, вашы сяленцы не будуць зачыняць дзверы пасля іх праходжання.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
-  <CommandResetTemp>TODO</CommandResetTemp>
+  <CommandResetTemp>Скінуць</CommandResetTemp>
   <!-- EN: Reset the target temperature to room temperature. -->
-  <CommandResetTempDesc>TODO</CommandResetTempDesc>
+  <CommandResetTempDesc>Скінуць мэтавую тэмпературу да тэмпературы памяшкання.</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
-  <CommandRaiseTempDesc>TODO</CommandRaiseTempDesc>
+  <CommandRaiseTempDesc>Павялічыць мэтавую тэмпературу.</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
-  <CommandLowerTempDesc>TODO</CommandLowerTempDesc>
+  <CommandLowerTempDesc>Паменшыць мэтавую тэмпературу.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
   <!-- EN: Install -->
-  <CommandInstall>TODO</CommandInstall>
+  <CommandInstall>Усталяваць</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
-  <CommandInstallDesc>TODO</CommandInstallDesc>
+  <CommandInstallDesc>Гэтая рэч зараз запакавана для захоўвання і транспартавання. Выкарыстайце гэту каманду, каб усталяваць яе ў пэўным месцы.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>TODO</CommandReinstall>
+  <CommandReinstall>Пераўсталяваць у...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
-  <CommandReinstallDesc>TODO</CommandReinstallDesc>
+  <CommandReinstallDesc>Прызначыць дэмантаж і пераўсталёўку гэтай рэчы ў іншае месца.</CommandReinstallDesc>
   <!-- EN: Replant -->
-  <CommandReplant>TODO</CommandReplant>
+  <CommandReplant>Перасадзіць</CommandReplant>
   <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
-  <CommandReplantDesc>TODO</CommandReplantDesc>
-  
+  <CommandReplantDesc>Гэта дрэва зараз запакавана для захоўвання і транспартавання. Выкарыстайце гэту каманду, каб перасадзіць яго ў новае месца.</CommandReplantDesc>
+
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
-  <CommandMakeBeaconStockpileDesc>TODO</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>Стварыць такі склад вакол гэтага будынка, які будзе супадаць з радыусам дзеяння маяка.</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
-  <CommandMakeBeaconStockpileLabel>TODO</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileLabel>Стварыць склад</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>TODO</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>Стварыць такую зону росту вакол гэтага будынка, якая будзе супадаць з радыусам дзеяння лямпы.</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
-  <CommandSunLampMakeGrowingZoneLabel>TODO</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneLabel>Стварыць зону росту</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>TODO</CommandAutoRearm>
+  <CommandAutoRearm>Аўтаматычная пераўзбройка</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>TODO</CommandAutoRearmDesc>
-  
+  <CommandAutoRearmDesc>Калі ўключана, гэта пастка будзе аўтаматычна замяняцца пасля таго, як спружыніць.</CommandAutoRearmDesc>
+
   <!-- Animal control -->
   <!-- EN: Animals attack -->
-  <CommandReleaseAnimalsLabel>TODO</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsLabel>Атака жывёл</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>TODO</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>Калі ўключана, свойскія жывёлы адпраўляюцца атакаваць аддаленыя мішэні. Калі адключана, яны застаюцца побач з гаспадаром і сцерагуць яго.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>TODO</CommandReleaseAnimalsFail_NoAnimals>
-  
+  <CommandReleaseAnimalsFail_NoAnimals>Няма наяўных жывёл.</CommandReleaseAnimalsFail_NoAnimals>
+
   <!-- Squad attack -->
   <!-- EN: Attack -->
-  <CommandSquadAttack>TODO</CommandSquadAttack>
+  <CommandSquadAttack>Атакаваць</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>TODO</CommandSquadAttackDesc>
-  
+  <CommandSquadAttackDesc>Загадаць вылучаным сяленцам атакаваць прызначаную мішэнь.</CommandSquadAttackDesc>
+
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
-  <CommandMeleeAttack>TODO</CommandMeleeAttack>
+  <CommandMeleeAttack>Блізкі бой</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>TODO</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>Загадаць вылучаным сяленцам атакаваць прызначаную мішэнь толькі з дапамогай кулакоў і зброі для блізкага бою.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
-  <CommandHoldFire>TODO</CommandHoldFire>
+  <CommandHoldFire>Утрымліваць пальбу</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
-  <CommandHoldFireDesc>TODO</CommandHoldFireDesc>
-  
+  <CommandHoldFireDesc>Скончыць любую бягучую атаку.</CommandHoldFireDesc>
+
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges>TODO</CommandReload_NoCharges>
+  <CommandReload_NoCharges>Не засталося {CHARGENOUN_plural}.</CommandReload_NoCharges>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo>TODO</CommandReload_NoAmmo>
-  
+  <CommandReload_NoAmmo>Для пераўзбройкі патрабуецца {COUNT} адзінак {lookup: {AMMO_label}; Case; 1}</CommandReload_NoAmmo>
+
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>TODO</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrowMulti>Выбраць расліну для высаджвання</CommandSelectPlantToGrowMulti>
   <!-- EN: Plant: {0} -->
-  <CommandSelectPlantToGrow>TODO</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrow>Расліна: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
-  <CommandSelectPlantToGrowDesc>TODO</CommandSelectPlantToGrowDesc>
-  
+  <CommandSelectPlantToGrowDesc>Вызначыць, якая расліна павінна быць тут высаджана.</CommandSelectPlantToGrowDesc>
+
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
-  <CommandSelectMineralToScanFor>TODO</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>Настроены на</CommandSelectMineralToScanFor>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
-  <CommandBuildCopy>TODO</CommandBuildCopy>
+  <CommandBuildCopy>Пабудаваць копію</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>TODO</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>Пабудаваць копію гэтага будынка.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>TODO</CommandFormCaravan>
+  <CommandFormCaravan>Сфарміраваць караван</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>TODO</CommandFormCaravanDesc>
-  
+  <CommandFormCaravanDesc>Сфарміраваць групу сяленцаў, здольную падарожнічаць да новых тэрыторый. Сяленцы збіруць усе прызначаныя запасы і суправаджаючых жывёл, пакінуць бягучую тэрыторыю і будуць чакаць далейшых загадаў.</CommandFormCaravanDesc>
+
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>TODO</CommandReformCaravan>
+  <CommandReformCaravan>Сфарміраваць караван зноў</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>TODO</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>Зноў сфарміраваць групу сяленцаў у караван. Яны пакінуць бягучую тэрыторыю і будуць чакаць далейшых загадаў.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
-  <CommandReformCaravanFailHostilePawns>TODO</CommandReformCaravanFailHostilePawns>
-  
+  <CommandReformCaravanFailHostilePawns>На гэтай тэрыторыі ўсё яшчэ ёсць некалькі ворагаў.</CommandReformCaravanFailHostilePawns>
+
   <!-- Split caravan -->
   <!-- EN: Split -->
-  <CommandSplitCaravan>TODO</CommandSplitCaravan>
+  <CommandSplitCaravan>Падзяліць</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>TODO</CommandSplitCaravanDesc>
-  
+  <CommandSplitCaravanDesc>Падзяліць гэты караван на два асобных. Потым іх можна зноў аб'яднаць, калі яны будуць блізка адзін да аднаго.</CommandSplitCaravanDesc>
+
   <!-- Merge caravan -->
   <!-- EN: Merge -->
-  <CommandMergeCaravans>TODO</CommandMergeCaravans>
+  <CommandMergeCaravans>Аб'яднаць</CommandMergeCaravans>
   <!-- EN: Merge selected caravans. -->
-  <CommandMergeCaravansDesc>TODO</CommandMergeCaravansDesc>
+  <CommandMergeCaravansDesc>Аб'яднаць вылучаныя караваны.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
-  <CommandMergeCaravansFailCaravansNotSelected>TODO</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravansFailCaravansNotSelected>Вылучыце ўсе караваны, якія трэба аб'яднаць. Караваны павінны быць блізка адзін да аднаго.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan>TODO</CommandJoinCaravan>
-  
+  <CommandJoinCaravan>Далучыць</CommandJoinCaravan>
+
   <!-- Settle -->
   <!-- EN: Settle -->
-  <CommandSettle>TODO</CommandSettle>
+  <CommandSettle>Пасяліцца</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>TODO</CommandSettleDesc>
+  <CommandSettleDesc>Пасяліцца на гэтай тэрыторыі. Вашы сяленцы ўвайдуць на гэту тэрыторыю і будуць здольны пачаць будаўніцтва новага дому.</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
-  <CommandSettleFailAlreadyHaveBase>TODO</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailAlreadyHaveBase>Ваша фракцыя можа мець толькі адну базу.</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
-  <CommandSettleFailReachedMaximumNumberOfBases>TODO</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailReachedMaximumNumberOfBases>Дасягнута максімальная колькасць селішчаў.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
-  <CommandSettleFailNoColonists>TODO</CommandSettleFailNoColonists>
+  <CommandSettleFailNoColonists>Няма нікога, хто можа заняць гэту тэрыторыю.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
-  <CommandSettleFailEnemies>TODO</CommandSettleFailEnemies>
-  
+  <CommandSettleFailEnemies>На гэтай тэрыторыі прысутнічаюць ворагі.</CommandSettleFailEnemies>
+
   <!-- Abandon home -->
   <!-- EN: Abandon -->
-  <CommandAbandonHome>TODO</CommandAbandonHome>
+  <CommandAbandonHome>Закінуць</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>TODO</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>Закінуць гэту тэрыторыю. Яна стане недаступнай і вы не зможаце зноў вярнуцца сюды. Пасля таго, як вы закінеце ваш дом, вы зможаце загадаць аднаму з вашых караванаў пасяліцца на новай тэрыторыі.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
-  <CommandAbandonHomeFailAllColonistsThere>TODO</CommandAbandonHomeFailAllColonistsThere>
-  
+  <CommandAbandonHomeFailAllColonistsThere>Тут усе вашы сяленцы.</CommandAbandonHomeFailAllColonistsThere>
+
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>TODO</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>Скасаваць фарміраванне каравана</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>TODO</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>Скончыць працэс фарміравання каравана.</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
-  <CommandRemoveFromCaravan>TODO</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravan>Выдаліць з каравана.</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>TODO</CommandRemoveFromCaravanDesc>
-  
+  <CommandRemoveFromCaravanDesc>Выдаліць гэтага чалавека або жывёлу з каравана.</CommandRemoveFromCaravanDesc>
+
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>TODO</CommandAddToCaravan>
+  <CommandAddToCaravan>Дадаць да каравана</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>TODO</CommandAddToCaravanDesc>
-  
+  <CommandAddToCaravanDesc>Дадаць гэтага чалавека або жывёлу да каравана, які фарміруецца.</CommandAddToCaravanDesc>
+
   <!-- Show map -->
   <!-- EN: Zoom in -->
-  <CommandShowMap>TODO</CommandShowMap>
+  <CommandShowMap>Павялічыць маштаб</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
-  <CommandShowMapDesc>TODO</CommandShowMapDesc>
-  
+  <CommandShowMapDesc>Павялічыць маштаб на гэтай тэрыторыі.</CommandShowMapDesc>
+
   <!-- Trade -->
   <!-- EN: Trade -->
   <CommandTrade>TODO</CommandTrade>
