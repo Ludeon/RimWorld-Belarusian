@@ -32,7 +32,7 @@
   <DesignatorHarvestDesc>TODO</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
-  <DesignatorHarvestWood>Ссячы дровы</DesignatorHarvestWood>
+  <DesignatorHarvestWood>Ссячы дрэвы</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
   <DesignatorHarvestWoodDesc>TODO</DesignatorHarvestWoodDesc>
 
@@ -231,7 +231,7 @@
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Не абраны матэрыял</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
-  <TooCloseToMapEdge>Занадта блізка да берагу мапы.</TooCloseToMapEdge>
+  <TooCloseToMapEdge>Занадта блізка да краю мапы.</TooCloseToMapEdge>
   <!-- EN: Out of bounds. -->
   <OutOfBounds>За мяжой.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->

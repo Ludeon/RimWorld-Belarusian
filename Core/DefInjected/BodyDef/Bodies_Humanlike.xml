@@ -68,13 +68,13 @@
   <!-- BY: бядрыца - гэта косць, а ўвогуле гэта сцягно -->
   <Human.corePart.parts.left_leg.parts.left_femur.customLabel>левая бядрыца</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
-  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>левая вялікагалёнкавая косьць</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>левая вялікагалёнкавая косць</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
   <Human.corePart.parts.left_leg.parts.left_foot.customLabel>левая ступа</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>левы малы палец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
   <!-- EN: left fourth toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>левы чацверты плаец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>левы чацверты палец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>левы трэці палец нагі</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
@@ -86,7 +86,7 @@
   <!-- EN: right femur -->
   <Human.corePart.parts.right_leg.parts.right_femur.customLabel>правая бядрыца</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>правая вялікагалёнкавая косьць</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>правая вялікагалёнкавая косць</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
   <Human.corePart.parts.right_leg.parts.right_foot.customLabel>правая ступа</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->

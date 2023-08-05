@@ -22,14 +22,14 @@
   <RawBerries.description>TODO</RawBerries.description>
   
   <!-- EN: corn -->
-  <RawCorn.label>кукуруза</RawCorn.label>
+  <RawCorn.label>кіях</RawCorn.label>
   <!-- EN: Raw corn. -->
-  <RawCorn.description>Сыра кукуруза.</RawCorn.description>
+  <RawCorn.description>Сырая кукуруза.</RawCorn.description>
   
   <!-- EN: raw fungus -->
   <RawFungus.label>грыбы</RawFungus.label>
   <!-- EN: Raw fungus. -->
-  <RawFungus.description>сыры грыбы</RawFungus.description>
+  <RawFungus.description>Сырыя грыбы.</RawFungus.description>
   
   <!-- EN: hops -->
   <RawHops.label>хмель</RawHops.label>
@@ -49,6 +49,6 @@
   <!-- EN: smokeleaf leaves -->
   <SmokeleafLeaves.label>лісты тытуналіста</SmokeleafLeaves.label>
   <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot. -->
-  <SmokeleafLeaves.description>Сырыя зрэзаныя лісты тытуналіста. Можа быць згорнуты ў самакрутку на месце для вырабу.</SmokeleafLeaves.description>
+  <SmokeleafLeaves.description>Сырыя зрэзаныя лісты тытуналіста. Могуць быць згорнуты ў самакрутку на месце для вырабу.</SmokeleafLeaves.description>
   
 </LanguageData>

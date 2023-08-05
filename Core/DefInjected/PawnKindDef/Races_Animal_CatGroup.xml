@@ -14,12 +14,12 @@
   <Cat.lifeStages.0.labelMalePlural>кацяняты</Cat.lifeStages.0.labelMalePlural>
   <Cat.lifeStages.0.labelFemale>кацяня</Cat.lifeStages.0.labelFemale>
   <Cat.lifeStages.0.labelFemalePlural>кацяняткі</Cat.lifeStages.0.labelFemalePlural>
-  <Cat.lifeStages.1.label>млады кот</Cat.lifeStages.1.label>
-  <Cat.lifeStages.1.labelPlural>младыя каты</Cat.lifeStages.1.labelPlural>
-  <Cat.lifeStages.1.labelMale>млады кот</Cat.lifeStages.1.labelMale>
-  <Cat.lifeStages.1.labelMalePlural>младыя каты</Cat.lifeStages.1.labelMalePlural>
-  <Cat.lifeStages.1.labelFemale>младая котка</Cat.lifeStages.1.labelFemale>
-  <Cat.lifeStages.1.labelFemalePlural>младыя коткі</Cat.lifeStages.1.labelFemalePlural>
+  <Cat.lifeStages.1.label>малады кот</Cat.lifeStages.1.label>
+  <Cat.lifeStages.1.labelPlural>маладыя каты</Cat.lifeStages.1.labelPlural>
+  <Cat.lifeStages.1.labelMale>малады кот</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.1.labelMalePlural>маладыя каты</Cat.lifeStages.1.labelMalePlural>
+  <Cat.lifeStages.1.labelFemale>маладая котка</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.1.labelFemalePlural>маладыя коткі</Cat.lifeStages.1.labelFemalePlural>
   
   <!-- EN: guinea pig -->
   <GuineaPig.label>TODO</GuineaPig.label>

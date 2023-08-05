@@ -5,7 +5,7 @@
   <Barn.label>свіран</Barn.label>
   
   <!-- EN: barracks -->
-  <Barracks.label>казарма</Barracks.label>
+  <Barracks.label>барак</Barracks.label>
   
   <!-- EN: bedroom -->
   <Bedroom.label>спальня</Bedroom.label>
@@ -26,7 +26,7 @@
   <None.label>пусты</None.label>
   
   <!-- EN: prison barracks -->
-  <PrisonBarracks.label>турэмная казарма</PrisonBarracks.label>
+  <PrisonBarracks.label>турэмны барак</PrisonBarracks.label>
   
   <!-- EN: prison cell -->
   <PrisonCell.label>цэля</PrisonCell.label>

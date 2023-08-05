@@ -281,7 +281,7 @@
   <!-- EN: {0} has died because of cold. -->
   <MessagePlantDiedOfCold>Расліна {0} загінула з-за холаду.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>Расліна {0} звяла, бо яе сваячасова не пажалі.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>Расліна {0} звяла, бо яе своечасова не пажалі.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
   <MessagePlantDiedOfRot_ExposedToLight>TODO</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
