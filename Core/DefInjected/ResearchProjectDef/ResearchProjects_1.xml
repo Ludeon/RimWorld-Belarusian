@@ -28,7 +28,7 @@
   <!-- EN: devilstrand -->
   <Devilstrand.label>д'ябалпасма</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>Расліна д'ябалпасма - гэта павольна растучы грыб, які ўраджае вылучна трывалае і тэрмаўстойлівае расліннае валакно. </Devilstrand.description>
+  <Devilstrand.description>Расліна д'ябалпасма - гэта павольна растучы грыб, які ўраджае вылучна трывалае і тэрмаўстойлівае расліннае валакно.</Devilstrand.description>
   
   <!-- EN: drug production -->
   <DrugProduction.label>выраб прэпаратаў</DrugProduction.label>
@@ -58,7 +58,7 @@
   <!-- EN: pemmican -->
   <Pemmican.label>пеммікан</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>Зрабіць пеммікан, кансерваваную сумесь мяса і раслін, якая не псуёцца вельмі доўгі час. Цудоўна для падарожжаў.  </Pemmican.description>
+  <Pemmican.description>Зрабіць пеммікан, кансерваваную сумесь мяса і раслін, якая не псуецца вельмі доўгі час. Цудоўна для падарожжаў.  </Pemmican.description>
   
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>TODO</PenoxycylineProduction.label>
@@ -104,4 +104,5 @@
   <WakeUpProduction.label>TODO</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
   <WakeUpProduction.description>TODO</WakeUpProduction.description>
+
 </LanguageData>

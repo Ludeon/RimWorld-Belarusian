@@ -12,12 +12,12 @@
   <ColdBog.description>TODO</ColdBog.description>
   
   <!-- EN: ice sheet -->
-  <IceSheet.label>ледзяное покрыва</IceSheet.label>
+  <IceSheet.label>ляднік</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
   <IceSheet.description>TODO</IceSheet.description>
   
   <!-- EN: sea ice -->
-  <SeaIce.label>марскі лёд</SeaIce.label>
+  <SeaIce.label>марскі ляднік</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
   <SeaIce.description>TODO</SeaIce.description>
   

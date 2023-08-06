@@ -65,7 +65,6 @@
   <!-- EN: left leg -->
   <Human.corePart.parts.left_leg.customLabel>левая нага</Human.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <!-- BY: бядрыца - гэта косць, а ўвогуле гэта сцягно -->
   <Human.corePart.parts.left_leg.parts.left_femur.customLabel>левая бядрыца</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
   <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>левая вялікагалёнкавая косць</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
