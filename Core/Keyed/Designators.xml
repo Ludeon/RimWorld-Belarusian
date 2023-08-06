@@ -37,7 +37,7 @@
   <DesignatorHarvestWoodDesc>TODO</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>Перасунуць рэчы</DesignatorHaulThings>
+  <DesignatorHaulThings>Перацягнуць рэчы</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
   <DesignatorHaulThingsDesc>TODO</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->

@@ -615,11 +615,11 @@
   <!-- EN: Randomize -->
   <Randomize>Выпадкова</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>ўзрост {0}</AgeIndicator>
+  <AgeIndicator>узрост {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>{PAWN_race}, ўзрост {PAWN_ageFull}</PawnSummary>
+  <PawnSummary>{PAWN_race}, узрост {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>{PAWN_race}, {PAWN_gender}, ўзрост {PAWN_ageFull}</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_race}, {PAWN_gender}, узрост {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Біяграфія</Backstory>
   <!-- EN: Incapable of -->
