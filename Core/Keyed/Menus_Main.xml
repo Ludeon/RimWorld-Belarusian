@@ -649,15 +649,15 @@
   <!-- EN: Skills -->
   <Skills>Навыкі</Skills>
   <!-- EN: none -->
-  <NoneLower>адсутнічае</NoneLower>
+  <NoneLower>Адсутнічае</NoneLower>
   <!-- EN: Adulthood -->
   <Adulthood>Сталасць</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>Дзяцінство</Childhood>
+  <Childhood>Дзяцінства</Childhood>
   <!-- EN: male -->
-  <Male>мужчына</Male>
+  <Male>Мужчына</Male>
   <!-- EN: female -->
-  <Female>жанчына</Female>
+  <Female>Жанчына</Female>
   <!-- EN: male and female -->
   <MaleAndFemale>TODO</MaleAndFemale>
   <!-- EN: male -->

@@ -12,12 +12,12 @@
   <DesignatorCutPlantsDesc>TODO</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>Дэканструяваць</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Разабраць</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>TODO</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>Выдаліць</DesignatorUninstall>
+  <DesignatorUninstall>Сабраць</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>TODO</DesignatorUninstallDesc>
 
