@@ -1,675 +1,197 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Main menu -->
-  <!-- EN: Tutorial -->
+  <!--=========== Main menu ==========-->
   <Tutorial>Навучанне</Tutorial>
-  <!-- EN: New colony -->
   <NewColony>Новае паселішча</NewColony>
-  <!-- EN: Back to game -->
-  <BackToGame>Назад у гульню</BackToGame>
-  <!-- EN: Review scenario -->
-  <ReviewScenario>Агляд сцэнара</ReviewScenario>
-  <!-- EN: Save -->
+  <BackToGame>Працягнуць гульню</BackToGame>
+  <ReviewScenario>Праглядзець сцэнарый</ReviewScenario>
   <Save>Захаваць</Save>
-  <!-- EN: Load game -->
-  <LoadGame>Загрузіць гульню</LoadGame>
-  <!-- EN: Options -->
+  <LoadGame>Заладаваць гульню</LoadGame>
   <Options>Налады</Options>
-  <!-- EN: Mod -->
-  <Mod>Мод</Mod>
-  <!-- EN: Mods -->
-  <Mods>Моды</Mods>
-  <!-- EN: Save translation report -->
-  <SaveTranslationReport>Скласці справаздачу аб пераводзе</SaveTranslationReport>
-  <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>Фармуецца справаздача аб пераводзе</GeneratingTranslationReport>
-  <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>Фарматаваць пераклад</CleanupTranslationFiles>
-  <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>Абнавіць файлы перакладу (TKey)</TranslationFilesTKeyUpdate>
-  <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>Фарматуюцца файлы перакладу</CleaningTranslationFiles>
-  <!-- EN: Credits -->
-  <Credits>Стваральнікі</Credits>
-  <!-- EN: Quit to main menu -->
+  <Mods>Мадыфікацыі</Mods>
+  <SaveTranslationReport>Захаваць даклад аб перакладзе</SaveTranslationReport>
+  <GeneratingTranslationReport>Генеруецца даклад аб перакладзе</GeneratingTranslationReport>
+  <Credits>Аўтары</Credits>
   <QuitToMainMenu>Выйсці ў галоўнае меню</QuitToMainMenu>
-  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Захаваць і выйсці ў меню</SaveAndQuitToMainMenu>
-  <!-- EN: Quit to OS -->
-  <QuitToOS>Выйсці з гульні</QuitToOS>
-  <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>Захаваць і выйсці з гульні</SaveAndQuitToOS>
-  <!-- EN: Fiction primer -->
-  <FictionPrimer>Аб сусвету Rimworld</FictionPrimer>
-  <!-- EN: Ludeon blog -->
+  <QuitToOS>Выйсці ў Аперацыйную Сістему</QuitToOS>
+  <SaveAndQuitToOS>Захаваць і выйсці ў Аперацыйную Сістему</SaveAndQuitToOS>
+  <FictionPrimer>Аб RimWorld</FictionPrimer>
   <LudeonBlog>Блог Ludeon</LudeonBlog>
-  <!-- EN: Forums -->
   <Forums>Форумы</Forums>
-  <!-- EN: Official wiki -->
-  <OfficialWiki>Афіцыйная вiкi</OfficialWiki>
-  <!-- EN: Tynan's twitter -->
-  <TynansTwitter>Твiттер Тайнена</TynansTwitter>
-  <!-- EN: Tynan's design book -->
-  <TynansDesignBook>Кнiга Тайнена</TynansDesignBook>
-  <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>Дапамогу ў перакладзе RimWorld</HelpTranslate>
-  <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Купіць саўндтрэк</BuySoundtrack>
-  <!-- EN: Create world -->
+  <OfficialWiki>Афіцыйныя wiki</OfficialWiki>
+  <TynansTwitter>Twitter Тайнена</TynansTwitter>
+  <TynansDesignBook>Кніга распрацоўкі Тайнена</TynansDesignBook>
+  <HelpTranslate>Дапамагчы перакладаць RimWorld</HelpTranslate>
+  <BuySoundtrack>Набыць саўндтрэк</BuySoundtrack>
   <CreateWorld>Стварыць свет</CreateWorld>
 
-  <!-- Main menu translations info window -->
-  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Гульня перакладзена фанацкай супольнасцю. Над беларускай лакалізацыяй працавалі:\n\n{0}</TranslationThanks>
-  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>Вы таксама можаце дапамагчы перакладзе. Каб даведацца як, націсніце кнопку ніжэй (адкрыецца вэб-браўзэр).</TranslationHowToContribute>
-  <!-- EN: Learn more -->
+  <!--=========== Main menu translations info window ===========-->
+  <TranslationThanks>Усе пераклады ў RimWorld зроблены аматарамі. Над беларускім перакладам працавалі:</TranslationThanks>
+  <TranslationHowToContribute>Ты таксама можаш падтрымаць пераклад. Нажмице нижэй каб даведацца больш (адкроецца веб браўзер).</TranslationHowToContribute>
   <LearnMore>Даведацца больш</LearnMore>
 
-  <!-- Main menu dev build -->
-  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>Перад вамі нестабільная зборка гульні, якая знаходзіцца ў распрацоўцы. \n\nМы эксперыментуем з гульнявым балансам, і ў некаторых аспектах ён будзе наўмысна парушаны. Гэты прыём гульнявога дызайну дазваляе лепш ацаніць уплыў гранічных значэнняў на агульны баланс. Атрыманыя даныя будуць выкарыстаны для больш тонкай налады параметраў балансу.\n\nАкрамя таго, у гульні будуць сустракацца памылкі рознай ступені сур'ёзнасці, а сумяшчальнасць захаванняў не гарантуецца.\n\nКалі вас задавальняе такое становішча рэчаў, дзякуем вас за ўдзел у тэставанні! У адваротным выпадку рэкамендуем карыстацца апошняй стабільнай версіяй гульні.</DevBuildWarning>
-
-  <!-- Create/review world -->
-  <!-- EN: Review world -->
-  <ReviewWorld>Прагляд свету</ReviewWorld>
-  <!-- EN: Generate -->
-  <WorldGenerate>Стварыць</WorldGenerate>
-  <!-- EN: Save and finish -->
-  <WorldSaveAndFinish>Захаваць і зачыніць</WorldSaveAndFinish>
-  <!-- EN: Reset -->
-  <Reset>Скінуць</Reset>
-  <!-- EN: Globe coverage -->
-  <PlanetCoverage>Памер карты свету</PlanetCoverage>
-  <!-- EN: Overall rainfall -->
-  <PlanetRainfall>Агульная колькасць ападкаў</PlanetRainfall>
-  <!-- EN: Overall temperature -->
-  <PlanetTemperature>Агульная тэмпература</PlanetTemperature>
-  <!-- EN: Population -->
-  <PlanetPopulation>Шчыльнасць насельніцтва</PlanetPopulation>
-  <!-- EN: Low -->
-  <PlanetRainfall_Low>Нізкае</PlanetRainfall_Low>
-  <!-- EN: Normal -->
-  <PlanetRainfall_Normal>Умеранае</PlanetRainfall_Normal>
-  <!-- EN: High -->
-  <PlanetRainfall_High>Высокае</PlanetRainfall_High>
-  <!-- EN: Low -->
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Праглядзець свет</ReviewWorld>
+  <WorldGenerate>Згенераваць</WorldGenerate>
+  <WorldSaveAndFinish>Захаваць і завяршыць</WorldSaveAndFinish>
+  <Reset>Сбросіць</Reset>
+  <PlanetCoverage>Памер свету</PlanetCoverage>
+  <PlanetRainfall>Сярэдняя колькасць ападкаў</PlanetRainfall>
+  <PlanetTemperature>Сярэдняя колькасць тэмпературы</PlanetTemperature>
+  <PlanetRainfall_Low>Нізкая</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Нармальная</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Высокая</PlanetRainfall_High>
   <PlanetTemperature_Low>Нізкая</PlanetTemperature_Low>
-  <!-- EN: Normal -->
-  <PlanetTemperature_Normal>Умераная</PlanetTemperature_Normal>
-  <!-- EN: High -->
+  <PlanetTemperature_Normal>Нармальная</PlanetTemperature_Normal>
   <PlanetTemperature_High>Высокая</PlanetTemperature_High>
-  <!-- EN: Sparse -->
-  <PlanetPopulation_Low>Нізкая</PlanetPopulation_Low>
-  <!-- EN: Normal -->
-  <PlanetPopulation_Normal>Умераная</PlanetPopulation_Normal>
-  <!-- EN: Crowded -->
-  <PlanetPopulation_High>Высокая</PlanetPopulation_High>
-  <!-- EN: Seed -->
-  <WorldSeed>Зерне</WorldSeed>
-  <!-- EN: Randomize seed -->
-  <RandomizeSeed>Выпадковае зерне</RandomizeSeed>
-  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Дыяметр планеты нязменны, але паколькі ён значна больш, чым патрабуецца для гульні, паверхня планеты генеруецца ня цалкам. У адваротным выпадку гэта б заняло доўгі час. У гэтым полі ўказваецца памер часткі паверхні (у працэнтах ад агульнай плошчы планеты), якую вы б хацелі згенераваць.</PlanetCoverageTip>
-  <!-- EN: Factions -->
+  <WorldSeed>Ключ генерацыі</WorldSeed>
+  <RandomizeSeed>Выпадковы ключ</RandomizeSeed>
+  <PlanetCoverageTip>Дыяметр планеты нязменны, але калі ён значна больш чым патарабуецца для гульні, планета не генеруецца цалкам бо гэта можа заняць вельмі шмат часу. Плошча генеравання паверхні ў працэнтах.</PlanetCoverageTip>
   <WorldFactionsTab>Фракцыі</WorldFactionsTab>
 
-  <!-- Select world -->
-  <!-- EN: Select world -->
-  <SelectWorld>Выбар свету</SelectWorld>
-  <!-- EN: Select -->
+  <!--=========== Select world ===================-->
+  <SelectWorld>Выбраць свет</SelectWorld>
   <WorldChooseButton>Выбраць</WorldChooseButton>
-  <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>Не знойдзена ніводнага захаванага свету. Стварыце свет і захавайце яго.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Не знойдзена файлаў свету. Спачатку старыце свет.</NoWorldsFilesFound>
   
-  <!-- Version info -->
-  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>Даступна новая версія — {0}. Зайдзіце на ludeon.com для атрымання інфармацыі.</BuildNowAvailable>
-  <!-- EN: This is the latest version. -->
-  <BuildUpToDate>У вас апошняя версія.</BuildUpToDate>
-  <!-- EN: Error getting version info: {0} -->
-  <ErrorGettingVersionInfo>Памылка атрымання даных аб версіі: {0}</ErrorGettingVersionInfo>
-  <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>Загрузка даных аб версіі...</LoadingVersionInfo>
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Даступна версія {0}. Праверце сайт ludeon.com для падрабязнай інфармацыі.</BuildNowAvailable>
+	<BuildUpToDate>Выкарыстоўваецца апошняя версія.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Памылка атрымання інфармацыі аб версіі: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Заладоўка інфармацыі аб версіі...</LoadingVersionInfo>
 
-  <!-- World generator -->
-  <!-- EN: Generate world -->
-  <GenerateWorld>Стварыць свет</GenerateWorld>
+  <!--=========== World generator =========-->
+  <GenerateWorld>Згенераваць свет</GenerateWorld>
 
-  <!-- Mods config -->
-  <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>Адкрыць Майстэрню Steam</OpenSteamWorkshop>
-  <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Скачаць моды з форуму</GetModsFromForum>
-  <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>Адкрыць папку з модамі</OpenModsDataFolder>
-  <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>Паказаць шлях да папкі з модамі</ShowModsDataLocation>
-  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Вы ўпэўненыя, што хочаце адключыць ядро гульні? Гульня цалкам перастане працаваць, калі ў вас няма іншага мода, які заменіць усе яго функцыі.\n\nПамятаеце, іншыя мадыфікацыі могуць перавызначаць значэння ядра з дапамогай такіх жа значэнняў defName.</ConfirmDisableCoreMod>
-  <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>Вы ўпэўненыя, што жадаеце выдаліць {0}?</ConfirmDeleteMod>
-  <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>Упарадкаваць моды</ResolveModOrder>
-  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
-  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
-  <!-- EN: Unsubscribe -->
-  <Unsubscribe>Адключыць</Unsubscribe>
-  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Вы ўпэўнены, што жадаеце адпісацца ад мода {0}?</ConfirmUnsubscribe>
-  <!-- EN: Author -->
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Адкрыць майстэрню Steam</OpenSteamWorkshop>
+  <GetModsFromForum>Атрымаць мадыфикацыі з форума</GetModsFromForum>
+  <OpenModsDataFolder>Адкрыць дырэкторыю з дадзенымі мадыфікацый</OpenModsDataFolder>
+  <ShowModsDataLocation>Паказаць дырэкторыю з дадзенымі мадыфікацый</ShowModsDataLocation>
+  <ConfirmDisableCoreMod>Вы сапраўды жадаеце адключыць мадыфикацыю core? Гульня больш не будзе працаваць, выключна калі ёсць другая мадфікацыя якая заменіць усе функцыі мадыфікацыі core.\n\nПамятайце, астатнія мадыфікацыі могуць перакрываць залежнашці ў мадыфікацыі core выкарыстоўваючы такія ж значэнні defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Вы ўпэўнены што жадаеце выдаліць увесь кантэнт ад {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Адпісацца</Unsubscribe>
+  <ConfirmUnsubscribe>Вы сапраўды жадаеце адпісацца ад {0}?</ConfirmUnsubscribe>
   <Author>Аўтар</Author>
-  <!-- EN: Workshop page -->
-  <WorkshopPage>Майстэрня Steam</WorkshopPage>
-  <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>Загрузіць у Майстэрню Steam</UploadToSteamWorkshop>
-  <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>Абнавіць у Майстэрні Steam</UpdateOnSteamWorkshop>
-  <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>Загрузка ўжо ідзе.</UploadAlreadyInProgress>
-  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Падключэнне перапынена.\n\nПрычына: {0}</WorkshopSubmissionFailed>
-  <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>Паспяхова загружана {0}.</WorkshopUploadSucceeded>
-  <!-- EN: Downloading -->
-  <Downloading>Загружаецца</Downloading>
-  <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>Паказаць усе залежнасці</ModDisplayFulfilledRequirements>
-  <!-- EN: Click to select. -->
-  <ModClickToSelect>Вылучыце мод</ModClickToSelect>
-  <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>Перайсці на вэб-сайт</ModClickToGoToWebsite>
-  <!-- EN: Source -->
+  <WorkshopPage>Старонка майстэрні</WorkshopPage>
+  <UploadToSteamWorkshop>Заладаваць ў майстэрню Steam</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Абнавиць ў майстэрне Steam</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Ідзе працэс заладоўкі.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Заладоўка ў майстэрню не атрымалася.\n\nПрычына: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Паспяхова заладавана {0}.</WorkshopUploadSucceeded>
+  <Downloading>Заладоўка</Downloading>
   <Source>Крыніца</Source>
-  <!-- EN: For game version(s) -->
-  <ModTargetVersion>Для версіі(ій) гульні</ModTargetVersion>
-  <!-- EN: ID -->
-  <ModPackageId>ID</ModPackageId>
-  <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>Гэты мод трэба загружаць перад: {0}.</ModMustLoadBefore>
-  <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>Гэты мод трэба загружаць пасля: {0}.</ModMustLoadAfter>
-  <!-- EN: Depends on: {0} -->
-  <ModDependsOn>Залежыць ад: {0}</ModDependsOn>
-  <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>Несумяшчальны з: {0}</ModIncompatibleWith>
-  <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>Гэты мод несумяшчальны з: {0}</ModIncompatibleWithTip>
-  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>Гэты мод загружаецца у няправільным парадку адносна іншага мода. Націсніце кнопку «Сартаваць моды» ці адсартуйце іх уручную.</ModOrderingWarning>
-  <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>Іншы актыўны мод мае той жа ID {0}.</ModWithSameIdAlreadyActive>
-  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>Выяўленая цыклічная залежнасць модов, пачынаючы з {0}.</ModCyclicDependency>
-  <!-- EN: This requires following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>Гэты мод для нармальнай працы патрабуе наяўнасць іншых модаў: {0}.</ModUnsatisfiedDependency>
-  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Гэты мод ня прызначаны для актуальнай версіі RimWorld і, хутчэй за ўсё, будзе няправільна працаваць.</ModNotMadeForThisVersion>
-  <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>Гэты мод ня прызначаны для актуальнай версіі RimWorld.</ModNotMadeForThisVersionShort>
-  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>Гэты мод прызначаны для больш новай версіі RimWorld і, хутчэй за ўсё, будзе няправільна працаваць.</ModNotMadeForThisVersion_Newer>
-  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Модификации требуется указать информацию о совместимых версиях игры в файле About.xml. Например: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions>. Тег &lt;targetVersion> объявлен устаревшим. Для подробной информации просмотрите журнал.</MessageModNeedsWellFormattedTargetVersion>
-  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Требуется правильно указать значение поля packageId в файле About.xml. Оно должно удовлетворять следующим требованиям:\n\n  - Только латинские буквы, цифры и символ точки.\n  - Пробелы не допускаются.\n  - Как минимум один символ точки.\n  - Нельзя ставить точку в начало, в конец, а также ставить несколько точек подряд.\n  - Не более 60 символов.\n  - Не допускается слово "Ludeon".</MessageModNeedsWellFormattedPackageId>
-  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>Гэты мод мае памылкі ў файле LoadFolders.xml, іх трэба ухіліць перад загрузкай: </ModHadLoadFolderIssues>
-  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>Папка {0}, указанная для версии {1} не существует.</ModLoadFolderDoesntExist>
-  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>Некорректный номер версии, «{0}». Номер должен иметь следующий формат: &lt;Основной номер>.&lt;Дополнительный номер> (например, «1.1»)</ModLoadFolderMalformedVersion>
-  <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>Список загружаемых папок для версии {0} пуст.</ModLoadFolderListEmpty>
-  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>Для версии {0} одна и та же папка перечислена несколько раз: {1}.</ModLoadFolderRepeatingFolder>
-  <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>Неверный порядок версий: {0} должна следовать перед {1}.</ModLoadFolderOutOfOrder>
-  <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>Неверный порядок версий: версия «default» должна идти первой.</ModLoadFolderOutOfOrderDefault>
-  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Слово «default» в LoadFolders.xml устарело. Пожалуйста, укажите папки для каждой поддерживаемой версии, используя теги &lt;v...>.</ModLoadFolderDefaultDeprecated>
-  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>Версия {0} определена в LoadFolders.xml, но не перечислена в поле «supportedVersions» файла About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
-  <!-- EN: Drag to reorder -->
-  <DragToReorder>Перацягвайце, каб спарадкаваць.</DragToReorder>
-
-  <!-- Select scenario -->
-  <!-- EN: Choose scenario -->
-  <ChooseScenario>Выбар сцэнара</ChooseScenario>
-  <!-- EN: Custom -->
-  <ScenariosCustom>Прыстасаваныя сцэнары</ScenariosCustom>
-  <!-- EN: Steam Workshop -->
+  <ModTargetVersion>Для версіі: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Гэта мадыфікацыя створана для іншай версіі RimWorld, і можа працаваць няправільна.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Мадыфікацыя патрабуе добра адфарматаваную мэтавую версію ў About.xml. Напрыклад: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Перанясіце каб переназначыць</DragToReorder>
+  
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Выбраць сцэнарый</ChooseScenario>
+  <ScenariosCustom>Уласны</ScenariosCustom>
   <ScenariosSteamWorkshop>Майстэрня Steam</ScenariosSteamWorkshop>
-  <!-- EN: Scenario editor -->
-  <ScenarioEditor>Рэдактар сцэнарыяў</ScenarioEditor>
-  <!-- EN: Delete -->
-  <Delete>Выдаліць</Delete>
+  <ScenarioEditor>Рэдактар сцэнару</ScenarioEditor>
+  <Delete>Delete</Delete>
   
-  <!-- Scenario editor -->
-  <!-- EN: seed -->
-  <Seed>зерне</Seed>
-  <!-- EN: Load -->
-  <Load>Загрузіць</Load>
-  <!-- EN: edit mode -->
+  <!--============ Scenario editor ===============-->
+  <Seed>ключ</Seed>
+  <Load>Заладаваць</Load>
   <EditMode>рэжым рэдагавання</EditMode>
-  <!-- EN: Summary -->
-  <Summary>Кароткія звесткі</Summary>
-  <!-- EN: Add part -->
-  <AddPart>Дадаць умову</AddPart>
-  <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>Усе тэкставыя палі павінны быць запоўненыя.</TextFieldsMustBeFilled>
-  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Вы уверены, что хотите загрузить выбранное в Мастерскую Steam?\n\nВам будет необходимо принять условия использования Мастерской Steam. Ознакомиться с ними можно по ссылке:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>Учтите, вы должны загружать только то, что сделали сами.\n\nВы — автор этого контента?</ConfirmContentAuthor>
-  <!-- EN: Incompatible -->
+  <Summary>Зводкі</Summary>
+  <AddPart>Дадаць частку</AddPart>
+  <TextFieldsMustBeFilled>Усе тэкставыя радкі абавязковы да запаўнення.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Вы ўпэўнены што хаціце заладаваць гэта ў майстэрню Steam?\n\nВы абавязаны згадзіцца з умовамі выкарыстання майстэрні Steam. Усе ўмовы выкарыстання майстэрні тут:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Безумоўна вы абавязаны заладоўваць кантэнт які стварылі самі.\n\nСтварылі лі вы гэты кантэнт самі?</ConfirmContentAuthor>
   <Incompatible>Несумяшчальна</Incompatible>
-  <!-- EN: Tag as translation -->
-  <TagAsTranslation>Адзначыць як пераклад</TagAsTranslation>
-  <!-- EN: Too many (max {0}):  -->
-  <TooMany>Занадта шмат (максімум {0}): </TooMany>
-  <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Может быть обновлено в Мастерской, поскольку вы автор данного контента.</CanBeUpdatedOnWorkshop>
+  <TooMany>За многа (максімальна {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Можа быць абноўлена ў майстэрне, ўпэўніцеся што вы аўтар кантэнту.</CanBeUpdatedOnWorkshop>
   
-  <!-- Select storyteller -->
-  <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>Выбар ІІ-апавядальніка</ChooseAIStoryteller>
-  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>ІІ-апавядальнік стварае падзеі, такія як атакі піратаў, прызямленне транспартных капсул і напады жывёл. Гэтыя падзеі будзе ўплываць на гісторыю вашага паселішчы. Апавядальніка можна змяніць у любы момант.</HowStorytellersWork>
-  <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>Калі ласка, выберыце цяжкасць.</MustChooseDifficulty>
-  <!-- EN: Difficulty -->
-  <Difficulty>Цяжкасць</Difficulty>
-  <!-- EN: Commitment mode -->
-  <CommitmentMode>«Адказны» рэжым</CommitmentMode>
-  <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>Загрузка ў любы момант</ReloadAnytimeMode>
-  <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>Калі ласка, абярыце або «адказны» рэжым, ці рэжым загрузкі ў любы момант.</MustChoosePermadeath>
-  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Вы можаце захоўваць і загружаць гульню ў любы момант.\n\nГэта добры выбар для тых, хто толькі вывучае RimWorld, і для тых, каму па душы такі стыль гульні. Гэты рэжым таксама падыдзе для вас, калі, напрыклад, вы карыстаецеся модамi, якія могуць «зламаць» гульню, ці ж калі вы толькі намерваецеся перайсці да «адказнага» рэжыму.</ReloadAnytimeModeInfo>
-  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>Гульня захоўваецца толькі пры выхадзе.\n\nRimWorld задумваўся як генератар захапляльных гісторый, у якіх за кожным падзеннем вынікае адраджэнне. Нават калі ў жывых застанецца ўсяго адзін чалавек - гэта не канец гульні, а толькі частка гісторыі.\n\nПераадоленне страшных сітуацый толькі дадае гісторыі трагізму і трыумфу. Гэта менавіта тое, дзеля чаго варта гуляць у RimWorld.\n\nЛюк Скайуокер, калі загінула яго сям'я, не стаў загружаць захаванне. Страта і адраджэнне - вось, што па-сапраўднаму захоплівае!</PermadeathModeInfo>
-  <!-- EN: Storyteller and playstyle can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>Апавядальніка і складанасць можна будзе памяняць у любы момант.</CanChangeStorytellerSettingsDuringPlay>
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Выбраць АІ Апавядальніка</ChooseAIStoryteller>
+  <HowStorytellersWork>АІ Апавядальніка стварае здарэнні такія як напады піратаў, скідванне рэсурсаў, або ўзбянтэжаных жывёл. Іх выбары пауплываюць на гісторыю вашага паселішча. Вы можаце змяніць іх ў любы час.</HowStorytellersWork>
+  <MustChooseDifficulty>Калі ласка выберыце налады складанасці.</MustChooseDifficulty>
+  <Difficulty>Складанасць</Difficulty>
 
-  <!-- custom difficulty settings -->
-  <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>Карыстацкія налады цяжкасці</DifficultyCustomSectionLabel>
-  <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>Прымяніць стандартныя налады цяжкасцi...</DifficultyReset>
-  
-  <!-- EN: Threats -->
-  <DifficultyThreatSection>Пагрозы</DifficultyThreatSection>
-  <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label>Узровень пагроз</Difficulty_ThreatScale_Label>
-  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info>Складанасць заданняў і маштаб такіх пагроз, як напады і хваробы.</Difficulty_ThreatScale_Info>
-  <!-- EN: Major threats -->
-  <Difficulty_AllowBigThreats_Label>Серьёзные угрозы</Difficulty_AllowBigThreats_Label>
-  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>Ўключыць сур'ёзныя пагрозы, такія як напады, заражэння, зграі агрэсіўных жывёл, аварыі караблёў механоидов і іншыя.</Difficulty_AllowBigThreats_Info>
-  <!-- EN: Quest threats -->
-  <Difficulty_AllowViolentQuests_Label>Пагрозы ў заданнях</Difficulty_AllowViolentQuests_Label>
-  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
-  <Difficulty_AllowViolentQuests_Info>Дазволіць генерацыю заданняў, якія змяшчаюць гвалт і смяротныя пагрозы. Пры адключэнні гэтай опцыі яны будуць выключаны з заданняў.</Difficulty_AllowViolentQuests_Info>
-  <!-- EN: Intro threats -->
-  <Difficulty_AllowIntroThreats_Label>Базавыя пагрозы</Difficulty_AllowIntroThreats_Label>
-  <!-- EN: Enable the fixed intro threats that appear near game start. -->
-  <Difficulty_AllowIntroThreats_Info>Ўключыць фіксаваныя пагрозы, якія ўзнікаюць у першыя гульнёвыя дні.</Difficulty_AllowIntroThreats_Info>
-  <!-- EN: Predators hunt humans -->
-  <Difficulty_PredatorsHuntHumanlikes_Label>Драпежнікі палююць на людзей</Difficulty_PredatorsHuntHumanlikes_Label>
-  <!-- EN: Allow wild predators to hunt humans. -->
-  <Difficulty_PredatorsHuntHumanlikes_Info>Дазволіць дзікім драпежнікам паляванне на людзей дзеля харчавання.</Difficulty_PredatorsHuntHumanlikes_Info>
-  <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>Экстрэмальнае надвор'е</Difficulty_AllowExtremeWeatherIncidents_Label>
-  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>Дазволіць экстрэмальныя ўмовы надвор'я, такія як таксічныя ападкі, вулканічныя зімы і навальнічныя штормы.</Difficulty_AllowExtremeWeatherIncidents_Info>
-
-  <!-- EN: Economy -->
-  <DifficultyEconomySection>Эканоміка</DifficultyEconomySection>
-  <!-- EN: Trade price disadvantage -->
-  <Difficulty_TradePriceFactorLoss_Label>Нявыгаднасць коштаў</Difficulty_TradePriceFactorLoss_Label>
-  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
-  <Difficulty_TradePriceFactorLoss_Info>Кошты куплі будуць павышацца, а кошты продажу - паніжацца на гэта значэнне.</Difficulty_TradePriceFactorLoss_Info>
-  <!-- EN: Harvest yield -->
-  <Difficulty_CropYieldFactor_Label>Ураджайнасць</Difficulty_CropYieldFactor_Label>
-  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
-  <Difficulty_CropYieldFactor_Info>Колькасць рэсурсаў, якія атрымліваюцца пры ўборцы ўраджаю і збіральніцтве. Сюды ўключана таксама драўніна, якая атрымліваецца пры высечцы дрэў.</Difficulty_CropYieldFactor_Info>
-  <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label>Эфектыўнасць здабычы</Difficulty_MineYieldFactor_Label>
-  <!-- EN: Adjust the amount of materials produced when mining. -->
-  <Difficulty_MineYieldFactor_Info>Колькасць матэрыялу, атрымліваемага пры распрацоўцы горнай пароды.</Difficulty_MineYieldFactor_Info>
-  <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>Эфектыўнасць раздзелкі</Difficulty_ButcherYieldFactor_Label>
-  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>Колькасць рэсурсаў, якія атрымліваюцца пры разделке. Сюды ўключаны атрыманне мяса і скуры пры разделке жывёл і матэрыялаў пры разборы механойдау.</Difficulty_ButcherYieldFactor_Info>
-  <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label>Хуткасць даследавання</Difficulty_ResearchSpeedFactor_Label>
-  <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info>Настройка хуткасці даследавання</Difficulty_ResearchSpeedFactor_Info>
-  <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>Ўзнагароды за заданні</Difficulty_QuestRewardValueFactor_Label>
-  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>Велічыня узнагарод, якія атрымліваюцца за выкананне заданняў.\n\nУвага: велічыня узнагарод за заданні таксама змяняецца ў залежнасці ад іх складанасці. Пры змене гэтай налады выкарыстоўваецца дадатковы множнік разліку ўзнагароды.</Difficulty_QuestRewardValueFactor_Info>
-  <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label>Баявыя трафеі</Difficulty_RaidLootPointsFactor_Label>
-  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>Аб'ём здабычы, якую нясуць з сабой нападаючыя.\n\nУвага: колькасць баявых трафеяў аўтаматычна падладжваецца пад абраны ўзровень пагроз. Пры змене гэтай налады будзе прымяняцца дадатковы множнік.</Difficulty_RaidLootPointsFactor_Info>
-  <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>Кошт перазарадкі турэляў</Difficulty_MaintenanceCostFactor_Label>
-  <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>Настройка кошту перазарадкі турэляў.</Difficulty_MaintenanceCostFactor_Info>
-  <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>Верагоднасць агрыознага гніення</Difficulty_ScariaRotChance_Label>
-  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>Верагоднасць таго, што туша жывёлы, заражоннага агрыозам, адразу сгниёт ў момант смерці.\n\nУвага: налада па змаўчанні распрацавана для таго, каб збалансаваць колькасць атрымоўванага ігракамі мяса да аднолькавага на любой складанасці.</Difficulty_ScariaRotChance_Info>
-  <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Смерць сражённых праціўнікаў</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
-  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Верагоднасць імгненнай смерці праціўніка пры атрыманні цяжкага ранення. Гэта паўплывае на верагоднасць захопу палонных і, такім чынам, на рост колькасці пасяленцаў.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
-
-  <!-- EN: General -->
-  <DifficultyGeneralSection>Агульныя налады</DifficultyGeneralSection>
-  <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label>Настрой пасяленцаў</Difficulty_ColonistMoodOffset_Label>
-  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>Пастаянны множнік, які ўплывае на настрой кожнага пасяленца і зняволенага. Базавы настрой каланістаў: 50%.</Difficulty_ColonistMoodOffset_Info>
-  <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label>Атручвання</Difficulty_FoodPoisonChanceFactor_Label>
-  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>Верагоднасць харчовага атручвання пры ужытку патэнцыйна сапсаванай стравы.</Difficulty_FoodPoisonChanceFactor_Info>
-  <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>Помста жывёл</Difficulty_ManhunterChanceOnDamageFactor_Label>
-  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>Верагоднасць помсты параненай жывёлы.</Difficulty_ManhunterChanceOnDamageFactor_Info>
-  <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label>Стральба па саюзнікам</Difficulty_FriendlyFireChanceFactor_Label>
-  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>Верагоднасць стральбы па саюзнікам.\n\nУвага: гэтая настройка закранае толькі прамыя пападання. Яна не прадухіляе страты ад выбухаў або ад стрэлаў міма абранай мэты. </Difficulty_FriendlyFireChanceFactor_Info>
-  <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>Раптоўная смерць пасяленцаў</Difficulty_AllowInstantKillChance_Label>
-  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>Верагоднасць імгненнай смерці пасяленцаў падчас бою. Уваходны урон можна змяніць так, што пасяленец хутчэй будзе сражён, чым памрэ.\n\nГэтая настройка ўплывае толькі на некаторыя магчымыя фактары, якія вядуць да імгненнай смерці: пасяленец ўсё яшчэ можа атрымаць цяжкае раненне і сканаць ад кровастраты або памерці ад выбуху, хваробы і г.д.</Difficulty_AllowInstantKillChance_Info>
-  <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Верагоднасць заражэння</Difficulty_PlayerPawnInfectionChanceFactor_Label>
-  <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Настройка верагоднасці заражэння ран.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
-  <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Частата хвароб</Difficulty_DiseaseIntervalFactor_Inverted_Label>
-  <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Частата выпадковых падзей з хваробамі.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
-  <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label>Нараджальнасць насякомых</Difficulty_EnemyReproductionRateFactor_Label>
-  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>Частата, з якой вуллі спараджаюць насякомых. Чым менш гэта значэнне, тым больш інтэрвал паміж з'яўленнем новых асобін.\n\nГэтая настройка не ўплывае на верагоднасць нападу насякомых, а толькі кантралюе іх нараджальнасць.</Difficulty_EnemyReproductionRateFactor_Info>
-  <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label>Верагоднасць з'яўлення насякомых</Difficulty_DeepDrillInfestationChanceFactor_Label>
-  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info>Верагоднасць з'яўлення насякомых пры свідраванні.</Difficulty_DeepDrillInfestationChanceFactor_Info>
-  <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label>Стварэнне старажытнай пагрозы пры генерацыі карты</Difficulty_PeacefulTemples_Inverted_Label>
-  <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info>З якой верагоднасцю старажытныя збудаванні будуць утрымліваць у сабе пагрозы.</Difficulty_PeacefulTemples_Inverted_Info>
-  <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label>Стварэнне вулляў пры генерацыі карты</Difficulty_AllowCaveHives_Label>
-  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>Верагоднасць, з якой спячыя вуллі з'яўляюцца ў прыродных пячорах.\n\nГэтая настройка ўплывае толькі на стварэнне карты, і не ўплывае на насякомых, якія могуць з'явіцца падчас гульні.</Difficulty_AllowCaveHives_Info>
-
-  <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection>Iнструменты гульца</DifficultyPlayerToolsSection>
-  <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>Устаноўка пастак</Difficulty_AllowTraps_Label>
-  <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>Дазволіць будаваць пасткі і міны.</Difficulty_AllowTraps_Info>
-  <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>Будаўніцтва турэляў</Difficulty_AllowTurrets_Label>
-  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>Дазволіць будаўніцтва міні-турэляў, цяжкіх і снайперскіх турэляў.\n\nВы зможаце выкарыстоўваць захопленыя турэлі, нават калі гэтая опцыя адключаная.</Difficulty_AllowTurrets_Info>
-  <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>Будаўніцтва мінамётаў</Difficulty_AllowMortars_Label>
-  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>Дазволіць будаўніцтва мінамётаў.\n\nВы зможаце выкарыстоўваць захопленыя мінамёты, нават калі гэтая опцыя адключана.</Difficulty_AllowMortars_Info>
-  <!-- EN: Classic mortars -->
-  <Difficulty_ClassicMortars_Label>TODO</Difficulty_ClassicMortars_Label>
-  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>TODO</Difficulty_ClassicMortars_Info>
-  
-  <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection>Адаптацыя апавядальніка</DifficultyAdaptationSection>
-  <!-- EN: Adaptation growth rate -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Рост адаптацыі</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
-  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Адаптацыя - гэта паступовае ўскладненне гульні апавядальнікам да таго часу, пакуль гулец не пачынае несці страты. Яна не мае дачынення да ўплыву багацця і памеру паселішчаў на складанасць гульні.\n\nГэтая налада змяняе хуткасць нарастання складанасці.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
-  <!-- EN: Adaptation impact -->
-  <Difficulty_AdaptationEffectFactor_Label>Уплыў адаптацыі</Difficulty_AdaptationEffectFactor_Label>
-  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
-  <Difficulty_AdaptationEffectFactor_Info>Адаптацыя - гэта паступовае ўскладненне гульні апавядальнікам да таго часу, пакуль гулец не пачынае несці страты. Яна не мае дачынення да ўплыву багацця і памеру паселішчаў на складанасць гульні.\n\nГэтая налада змяняе ступень уплыву адаптацыі на маштаб пагроз.</Difficulty_AdaptationEffectFactor_Info>
-  <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>Складанасць не залежыць ад багацця</Difficulty_FixedWealthMode_Label>
-  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>Гульня з ростам складанасці, якія не залежаць ад багацця паселішчаў.\n\nПры стандартных наладах апавядальнік маштабуецца пагрозы ў залежнасці ад памеру і багацця паселішчаў, а таксама мноства іншых фактараў. Калі ж ўключана гэтая опцыя, багацце перастае ўлічвацца: залежнасць складанасці ад багацця замяняецца на залежнасць складанасці ад часу, які прайшоў з стварэння кожнага паселішча. Пры гэтым іншыя фактары ўлічвацца працягваюць.\n\nГэтая налада рэкамендуецца аматарам складанасцяў. Пры такім рэжыме гульні становіцца практычна немагчыма акрыяць ад цяжкіх страт інакш, як заснаваць новае паселішча. Таксама існуе верагоднасць занадта хуткага прагрэсу, і ў гэтым выпадку гульня становіцца занадта простай.</Difficulty_FixedWealthMode_Info>
-  <!-- EN: Years until maximum threat -->
-  <Difficulty_FixedWealthTimeFactor_Label>Гадоў да максімальных пагроз</Difficulty_FixedWealthTimeFactor_Label>
-  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
-  <Difficulty_FixedWealthTimeFactor_Info>Лік гадоў да моманту, калі пры гульні з ростам складанасці, якія не залежаць ад багацця, будзе дасягнуты яе максімальны ўзровень пагроз.\n\nЗвярніце ўвагу, што апавядальнік ўсё яшчэ будзе падладжваць ўзровень пагроз у адпаведнасці з колькасцю насельніцтва і многімі іншымі фактарамі.</Difficulty_FixedWealthTimeFactor_Info>
-
-  <!-- EN: Ideology -->
-  <DifficultyIdeologySection>TODO</DifficultyIdeologySection>
-  <!-- EN: Low pop conversion boost -->
-  <Difficulty_LowPopConversionBoost_Label>TODO</Difficulty_LowPopConversionBoost_Label>
-  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>TODO</Difficulty_LowPopConversionBoost_Info>
-
-  <!-- Site select -->
-  <!-- EN: Select starting site -->
-  <SelectStartingSite>Выбар месца для першага паселішча</SelectStartingSite>
-  <!-- EN: Select random site -->
-  <SelectRandomSite>Выбраць выпадкова</SelectRandomSite>
-  <!-- EN: Select site -->
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Выбраць месца прызямлення</SelectLandingSite>
+  <SelectRandomSite>Выбраць выпадковае месца</SelectRandomSite>
   <SelectSite>Выбраць месца</SelectSite>
-  <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>Калі ласка, абярыце месца.</MustSelectStartingSite>
-  <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>Вы не можаце прызямліцца ў гэтым бiоме: {0}</CannotLandBiome>
-  <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>Такой бiом не знойдзен.</BiomeNotImplemented>
-  <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>Вы не можаце прызямліцца ў непраходных гарах.</CannotLandImpassableMountains>
-  <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>Фракцыя {0} ужо размясціла тут сваё паселішча.</BaseAlreadyThere>
-  <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>Вы ўжо размясцілі тут сваё паселішча.</YourBaseAlreadyThere>
-  <!-- EN: This tile is occupied. -->
-  <TileOccupied>Гэта месца занята.</TileOccupied>
-  <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>Паселішчы нельга размяшчаць блізка адзін да аднаго.</FactionBaseAdjacent>
-  <!-- EN: Biome -->
-  <Biome>Бiом</Biome>
-  <!-- EN: Terrain -->
-  <Terrain>Паверхня</Terrain>
-  <!-- EN: Road -->
+  <MustSelectLandingSite>Калі ласка выберыце месца прызямлення.</MustSelectLandingSite>
+  <CannotLandBiome>Вы не можаце прызямліцца ў гэтым біёме: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Біём не выяўлены</BiomeNotImplemented>
+  <CannotLandImpassableMountains>вы не можаце прызямліцца на непраходныя горы.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} тут ўжо ёсць паселішча.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Тут ужо ёсць ваша паселішча.</YourBaseAlreadyThere>
+  <TileOccupied>Гэты сектар ўжо заняты.</TileOccupied>
+  <FactionBaseAdjacent>Паселішча не може быць заснавана каля іншых паселішчаў.</FactionBaseAdjacent>
+  <Biome>Біём</Biome>
+  <Terrain>Рэльеф</Terrain>
   <Road>Дарога</Road>
-  <!-- EN: River -->
   <River>Рака</River>
-  <!-- EN: Elevation -->
-  <Elevation>Вышыня</Elevation>
-  <!-- EN: Fertility -->
+  <Elevation>Узвышша</Elevation>
   <Fertility>Урадлівасць</Fertility>
-  <!-- EN: Average temperature -->
-  <AvgTemp>Сярэдняя тэмпература</AvgTemp>
-  <!-- EN: Rainfall -->
-  <Rainfall>Ападкі</Rainfall>
-  <!-- EN: Special features -->
+  <AvgTemp>Сярэдняя тэмпература </AvgTemp>
+	<Rainfall>Ападкі</Rainfall>
   <SpecialFeatures>Асаблівасці</SpecialFeatures>
-  <!-- EN: northern coast -->
-  <HasCoast0>Узбярэжжы з поўначы</HasCoast0>
-  <!-- EN: eastern coast -->
-  <HasCoast1>Узбярэжжы з усходу</HasCoast1>
-  <!-- EN: southern coast -->
-  <HasCoast2>Ўзбярэжжа з поўдня</HasCoast2>
-  <!-- EN: western coast -->
-  <HasCoast3>Ўзбярэжжа з захаду</HasCoast3>
-  <!-- EN: caves -->
-  <HasCaves>Пячоры</HasCaves>
-  <!-- EN: Faction base -->
-  <FactionBase>Паселішча фракцыі</FactionBase>
-  <!-- EN: Stone types -->
-  <StoneTypesHere>Тыпы парод</StoneTypesHere>
-  <!-- EN: Time zone -->
-  <TimeZone>Гадзінны пояс</TimeZone>
-  <!-- EN: Movement difficulty -->
-  <MovementDifficulty>Складанасць перамяшчэння</MovementDifficulty>
-  <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>Жывёлы могуць пасвіцца</AnimalsCanGrazeNow>
-  <!-- EN: Average disease frequency -->
-  <AverageDiseaseFrequency>Ср. частата захворванняў</AverageDiseaseFrequency>
-  <!-- EN: per year -->
-  <PerYear>у год</PerYear>
-  <!-- EN: Forageability -->
-  <Forageability>Хуткасць здабычы ежы</Forageability>
-  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>Ніхто з выбраных вамі людзей не можа займацца гэтымі відамі работ:\n\n{0}\n\nГэта можа некалькі ўскладніць гульню. Вы ўпэўненыя, што жадаеце працягнуць?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <HasCoast0>паўночны бераг</HasCoast0>
+  <HasCoast1>усходні бераг</HasCoast1>
+  <HasCoast2>паўднёвы бераг</HasCoast2>
+  <HasCoast3>заходні бераг</HasCoast3>
+  <HasCaves>пячоры</HasCaves>
+  <FactionBase>Паселішчы фракцый</FactionBase>
+  <StoneTypesHere>Тыпы каменных парод</StoneTypesHere>
+  <TimeZone>Часавыя паясы zone</TimeZone>
+	<MovementDifficulty>Складанасць перамяшчэння</MovementDifficulty>
+  <AnimalsCanGrazeNow>Жывёлы могуць пассвіцца</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Сярэдняя частата захворванняў</AverageDiseaseFrequency>
+  <PerYear>за год</PerYear>
+  <Forageability>Захворванні</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Не адзін з выбраных людзей не можа выконваць дадзеныя працы:\n\n{0}\n\nГэта можа зрабіць гульню больш складанай чым звычайна. Ці жадаеце вы працягнуць?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-  <!-- Character chooser -->
-  <!-- EN: Create characters -->
-  <CreateCharacters>Стварэнне персанажаў</CreateCharacters>
-  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>Імя персанажа.\n\nАдлюстроўваецца толькі ў некаторых меню.</FirstNameDesc>
-  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>Кароткі ідэнтыфікатар персанажа.\n\nАдлюстроўваецца ўсюды. Можа быць імем, прозвішчам ці мянушкай.</ShortIdentifierDesc>
-  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>Прозвішча персанажа.\n\nАдлюстроўваецца толькі ў некаторых меню.</LastNameDesc>
-  <!-- EN: Randomize -->
-  <Randomize>Выпадкова</Randomize>
-  <!-- EN: age {0} -->
-  <AgeIndicator>ўзрост {0}</AgeIndicator>
-  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>{PAWN_race}, ўзрост {PAWN_ageFull}</PawnSummary>
-  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>{PAWN_race}, {PAWN_gender}, ўзрост {PAWN_ageFull}</PawnSummaryWithGender>
-  <!-- EN: Backstory -->
-  <Backstory>Біяграфія</Backstory>
-  <!-- EN: Incapable of -->
+
+	<!--=========== Character chooser ==========-->
+  <CreateCharacters>Стварыць персанажа</CreateCharacters>
+  <FirstNameDesc>Імя персанажа.\n\nГэта будзе адлюстроўвацца ў пэўных меню.</FirstNameDesc>
+  <ShortIdentifierDesc>Кароткая назва пераснажа.\n\nЯно будзе адлюстроўвацца ўвесь час. Гэта можа быць імя ці прозвішча, або поўнасццю асобнае імя.</ShortIdentifierDesc>
+  <LastNameDesc>Прозвішча персанажа.\n\nГэта будзе адлюстроўвацца ў пэўных меню.</LastNameDesc>
+  <Randomize>Рандамізаваць</Randomize>
+  <AgeIndicator>узрост {0}</AgeIndicator>
+  <Backstory><Біяграфія></Backstory>
   <IncapableOf>Недаступна</IncapableOf>
-  <!-- EN: Abilities -->
-  <Abilities>Здольнасці</Abilities>
-  <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>З-за біяграфіі: {0}</IncapableOfTooltipBackstory>
-  <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>З-за тытула: {0}</IncapableOfTooltipTitle>
-  <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>З-за рысы: {0}</IncapableOfTooltipTrait>
-  <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>З-за: {0}</IncapableOfTooltipHediff>
-  <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>Недаступныя віды работ:</IncapableOfTooltipWorkTypes>
-  <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>Выклікана статусам заданні: {0}</IncapableOfTooltipQuest>
-  <!-- EN: Caused by role: {0} -->
-  <IncapableOfTooltipRole>TODO</IncapableOfTooltipRole>
-  <!-- EN: Traits -->
   <Traits>Рысы характару</Traits>
-  <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Настрой</PermanentMoodEffect>
-  <!-- EN: Skills -->
-  <Skills>Навыкі</Skills>
-  <!-- EN: none -->
+  <Skills>Здольнасці</Skills>
   <NoneLower>адсутнічае</NoneLower>
-  <!-- EN: Adulthood -->
   <Adulthood>Сталасць</Adulthood>
-  <!-- EN: Childhood -->
-  <Childhood>Дзяцінство</Childhood>
-  <!-- EN: Current -->
-  <Current>Зараз</Current>
-  <!-- EN: male -->
+  <Childhood>Дзяцінства</Childhood>
+  <Current>Бягучы</Current>
   <Male>мужчына</Male>
-  <!-- EN: female -->
   <Female>жанчына</Female>
-  <!-- EN: male and female -->
-  <MaleAndFemale>TODO</MaleAndFemale>
-  <!-- EN: male -->
-  <MaleAnimal>самец</MaleAnimal>
-  <!-- EN: female -->
-  <FemaleAnimal>самка</FemaleAnimal>
-  <!-- EN: Pain -->
   <Pain>Боль</Pain>
-  <!-- EN: Health -->
   <Health>Здароўе</Health>
-  <!-- EN: Relations -->
   <Relations>Адносіны</Relations>
-  <!-- EN: Team skills -->
-  <TeamSkills>Навыкі каманды</TeamSkills>
-  <!-- EN: Selected -->
+  <TeamSkills>Здольнасці каманды</TeamSkills>
   <StartingPawnsSelected>Выбраны</StartingPawnsSelected>
-  <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Пакінуты</StartingPawnsLeftBehind>
-  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>TODO</GuiltyDesc>
   
-  <!-- Misc -->
-  <!-- EN: Start -->
+  <!--=========== Misc ==========-->
   <Start>Пачаць</Start>
-  <!-- EN: Advanced -->
-  <Advanced>Налады</Advanced>
-  <!-- EN: Next -->
+  <Advanced>Пашырання налады</Advanced>
   <Next>Далей</Next>
-  <!-- EN: Back -->
   <Back>Назад</Back>
-  <!-- EN: Change material... -->
-  <ShowMaterials>Змяніць матэрыялы...</ShowMaterials>
-  <!-- EN: Gameplay -->
   <Gameplay>Гульня</Gameplay>
-  <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>Выйсці? Увесь не захаваны прагрэс будзе страчаны.</ConfirmQuit>
-  <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>Калі ласка, увядзіце дзейныя імёны, мянушкі і прозвішчы для пасяленцаў.</EveryoneNeedsValidName>
-  <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>Ні адзін з выбраных вамі людзей не можа займацца гэтымі відамі работ</RequiredWorkTypeDisabledForEveryone>
-  <!-- EN: Quit -->
-  <Quit>Выйсці</Quit>
-  <!-- EN: Ignore -->
-  <Ignore>Iгнараваць</Ignore>
+  <ConfirmQuit>Вы сапраўды жадаеце завяршыць гульню? Вы страціце ўвесь незахаваны прагрэс.</ConfirmQuit>
+  <EveryoneNeedsValidName>Усе персанажы абавязаны мець імя.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>Не адзін з выбраных людзей не можа выконваць дадзеныя працы</RequiredWorkTypeDisabledForEveryone>
+  <Quit>Завяршыць</Quit>
+  <Ignore>Ігнараваць</Ignore>
   
-  <!-- Progress bar -->
-  <!-- EN: Generating world -->
-  <GeneratingWorld>Генерацыя свету</GeneratingWorld>
-  <!-- EN: Generating planet -->
-  <GeneratingPlanet>Генерацыя планеты</GeneratingPlanet>
-  <!-- EN: Generating map -->
-  <GeneratingMap>Генерацыя карты</GeneratingMap>
-  <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>Стварэнне карты для новай сустрэчы</GeneratingMapForNewEncounter>
-
-  <!-- EN: Click for more info -->
-  <ClickForMoreInfo>Націсніце для інфармацыі</ClickForMoreInfo>
-  <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>Больш падрабязная інфармацыя адсутнічае.</NoMoreInfoAvailable>
-
-  <!-- Factions -->
-  <!-- EN: Factions -->
-  <Factions>TODO</Factions>
-  <!-- EN: Gameplay problems can occur with more than {0} factions. -->
-  <RecommendedFactionCount>TODO</RecommendedFactionCount>
-  <!-- EN: Maximum {0} visible factions allowed. -->
-  <TotalFactionsAllowed>TODO</TotalFactionsAllowed>
-  <!-- EN: There can be no more than {0} {1}. -->
-  <MaxFactionsForType>TODO</MaxFactionsForType>
-  <!-- EN: Restore defaults -->
-  <ResetFactionsToDefault>TODO</ResetFactionsToDefault>
-  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>TODO</FactionSelectionDesc>
-  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>TODO</FactionDisabledContentWarning>
-  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>TODO</InsectsDisabledContentWarning>
-  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>TODO</MechanoidsDisabledContentWarning>
-  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>TODO</FactionsDisabledWarning>
+  <!--============ Progress bar==============-->
+  <GeneratingWorld>Генеруецца свет</GeneratingWorld>
+  <GeneratingPlanet>Генеруецца планета</GeneratingPlanet>
+  <GeneratingMap>Генеруецца мапа</GeneratingMap>
+  <GeneratingMapForNewEncounter>Генеруецца мапа для сустрэчы</GeneratingMapForNewEncounter>
 
 </LanguageData>
