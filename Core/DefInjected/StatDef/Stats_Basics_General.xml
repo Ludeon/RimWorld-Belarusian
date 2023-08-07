@@ -4,12 +4,12 @@
   <!-- EN: beauty -->
   <Beauty.label>прыгажосць</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>Наколькі прыемна глядзець на аб'ект.\n\nПрывабныя аб'екты задавольваюць патрэбу персанажа ў прыгажосці.</Beauty.description>
+  <Beauty.description>Наколькі прыемна глядзець на аб'ект.\n\nПрывабныя аб'екты задавольваюць патрэбу персанажаў у прыгажосці.</Beauty.description>
 
   <!-- EN: outdoor beauty -->
   <BeautyOutdoors.label>вонкавая прыгажосць</BeautyOutdoors.label>
   <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
-  <BeautyOutdoors.description>Наколькі прыемна на нешта глядзець калі яно звонку.\n\nПрывабныя аб'екты запаўняюць патрэбу персанажа ў прыгажосці.</BeautyOutdoors.description>
+  <BeautyOutdoors.description>Наколькі прыемна на нешта глядзець калі яно звонку.\n\nПрывабныя аб'екты задавольваюць патрэбу персанажаў у прыгажосці.</BeautyOutdoors.description>
 
   <!-- EN: cleanliness -->
   <Cleanliness.label>чысціня</Cleanliness.label>
@@ -19,12 +19,12 @@
   <!-- EN: comfort -->
   <Comfort.label>камфорт</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>Наколькі утульна сядзець ці ляжаць на аб'екце.\n\nУжыванне утульных аб'ектаў запаўняе патрэбу персанажа ў камфорце.</Comfort.description>
+  <Comfort.description>Наколькі камфортна сядзець ці ляжаць на аб'екце.\n\nУжыванне утульных аб'ектаў задавольваюць патрэбу персанажаў у камфорце.</Comfort.description>
 
   <!-- EN: deterioration rate -->
-  <DeteriorationRate.label>хуткасць пагаршэння</DeteriorationRate.label>
+  <DeteriorationRate.label>хуткасць руйнавання</DeteriorationRate.label>
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>Сярэдні тэмп з якім стан гэтага прадмета пагаршаецца, у ХП за дзень.\n\nХуткасць пагаршення таксама залежыць ад такіх рэчаў як: надвор'е, дах, таксічныя ападкі ці знаходжанне на мелкаводзі.</DeteriorationRate.description>
+  <DeteriorationRate.description>Сярэдні тэмп з якім стан гэтага прадмета пагаршаецца, у ХП за дзень.\n\nХуткасць руйнавання таксама залежыць ад такіх рэчаў як надвор'е, дах, таксічныя ападкі ці знаходжанне на мелкаводдзі.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / дзень</DeteriorationRate.formatString>
 
@@ -36,22 +36,22 @@
   <!-- EN: food poison chance -->
   <FoodPoisonChanceFixedHuman.label>верагоднасць харчова атручвання</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
-  <FoodPoisonChanceFixedHuman.description>Верагоднасць з якой гэта ежа стане нагодай атручвання.</FoodPoisonChanceFixedHuman.description>
+  <FoodPoisonChanceFixedHuman.description>Верагоднасць, з якой гэта ежа стане нагодай атручвання.</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>верагоднасць атручвання</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>верагоднасць харчова атручвання</FoodPoisonChanceFixedHuman.labelForFullStatList>
 
   <!-- EN: market value -->
   <MarketValue.label>Рыначны кошт</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>Рыначны кошт аб'екта.\n\nФактычны гандлевая цана будзе залежыць ад майстэрства вядзення перамоў, зносін з гандляром, ды іншых фактараў.</MarketValue.description>
+  <MarketValue.description>Рыначны кошт аб'екта.\n\nФактычная гандлёвая цана будзе залежыць ад майстэрства вядзення перамоў, зносін з гандляром ды іншых фактараў.</MarketValue.description>
 
   <!-- EN: market value ignoring hitpoints -->
-  <MarketValueIgnoreHp.label>Не залежная ад стану цана</MarketValueIgnoreHp.label>
+  <MarketValueIgnoreHp.label>Рыначны кошт ігнаруючы стан</MarketValueIgnoreHp.label>
 
   <!-- EN: mass -->
   <Mass.label>вага</Mass.label>
   <!-- EN: The physical mass of an object. -->
-  <Mass.description>Фізічная вага аб'екту.</Mass.description>
+  <Mass.description>Фізічная вага аб'екта.</Mass.description>
   <!-- EN: {0} kg -->
   <Mass.formatString>{0} кг</Mass.formatString>
 
@@ -66,7 +66,7 @@
   <Nutrition.description>Адлюстроўвае наколькі пажыўная гэта ежа.</Nutrition.description>
 
   <!-- EN: honor value -->
-  <RoyalFavorValue.label>кошт гонару</RoyalFavorValue.label>
+  <RoyalFavorValue.label>Вартасць гонару</RoyalFavorValue.label>
   <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
   <RoyalFavorValue.description>Колькасць гонару якую атрымае ваш гадлёвец калі аддасць гэта зборшчыку падаткаў.</RoyalFavorValue.description>
 
@@ -78,13 +78,13 @@
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyTurret.label>дакладнасць стральбы</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyTurret.description>Базавы шанец патрапіць пры стральбе на кожную клетку.\n\nШанец патрапіць таксама залежыць ад мноства чыннікаў. Пабачыць тлумачэнне шанца патрапіць для любога выстрала магчыма калі выбраць стралка і навесці мышкай на мішэнь.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.description>Базавы шанец патрапіць пры стральбе на кожную клетку.\n\nШанец патрапіць таксама залежыць ад мноства чыннікаў. Пабачыць тлумачэнне шанца патрапіць для любога выстрала магчыма, калі выбраць стралка і навесці мышкай на мішэнь.</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
-  <ShootingAccuracyTurret.labelForFullStatList>дакладнасць стральбы</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.labelForFullStatList>дакладнасць стральбы (турэль)</ShootingAccuracyTurret.labelForFullStatList>
 
   <!-- EN: work to make -->
   <WorkToMake.label>колькасць працы</WorkToMake.label>
   <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
-  <WorkToMake.description>Базавая колькасць працы якую трэба зрабіць пасля таго як усе матэрыялы будуць дастаўлены.</WorkToMake.description>
+  <WorkToMake.description>Базавая колькасць працы якую трэба зрабіць, пасля таго, як усе матэрыялы будуць дастаўлены.</WorkToMake.description>
 
 </LanguageData>
