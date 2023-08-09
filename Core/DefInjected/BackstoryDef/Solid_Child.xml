@@ -2,63 +2,63 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-  <AbandonedChild30.baseDesc>TODO</AbandonedChild30.baseDesc>
+  <AbandonedChild30.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў : была} кемлівым, вясёлым дзіцём. У адзін дзень [PAWN_pronoun] {PAWN_gender ? уцёк : ўцякла} ад сваіх заможных бацькоў і схаваўся ў закінутым рудным складзе. З-за магчымасці кланавання, [PAWN_possesive] бацькі вырашылі зрабіць сабе {PAWN_gender ? лепшага сына : лепшую дачку}, чым марнаваць час на пошукі.  </AbandonedChild30.baseDesc>
   <!-- EN: abandoned child -->
-  <AbandonedChild30.title>TODO</AbandonedChild30.title>
+  <AbandonedChild30.title>кінутае дзіцё</AbandonedChild30.title>
   <!-- EN: abandoned -->
-  <AbandonedChild30.titleShort>TODO</AbandonedChild30.titleShort>
+  <AbandonedChild30.titleShort>кінутае дзіцё</AbandonedChild30.titleShort>
   
   <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-  <AbandonedOrphan61.baseDesc>TODO</AbandonedOrphan61.baseDesc>
+  <AbandonedOrphan61.baseDesc>{PAWN_gender ? кінуты : кінутая} ад народжання, {PAWN_gender ? малы : малая} [PAWN_nameDef] {PAWN_gender ? пачаў : пачала} сваё жыццё ў дзіцячым доме. \n\nЯк належыць нягодніку і TODO </AbandonedOrphan61.baseDesc>
   <!-- EN: abandoned orphan -->
-  <AbandonedOrphan61.title>TODO</AbandonedOrphan61.title>
+  <AbandonedOrphan61.title>кінуты сірата</AbandonedOrphan61.title>
   <!-- EN: orphan -->
-  <AbandonedOrphan61.titleShort>TODO</AbandonedOrphan61.titleShort>
+  <AbandonedOrphan61.titleShort>сірата</AbandonedOrphan61.titleShort>
   
   <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-  <Abductee43.baseDesc>TODO</Abductee43.baseDesc>
+  <Abductee43.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў выкрадзены : была выкрадзена} ў маленстве і {PAWN_gender ? быў прымушаны : была прымушана} да маруднай працы на пірацкім караблі.</Abductee43.baseDesc>
   <!-- EN: abductee -->
-  <Abductee43.title>TODO</Abductee43.title>
+  <Abductee43.title>выкрадзенае дзіця</Abductee43.title>
   <!-- EN: abductee -->
-  <Abductee43.titleShort>TODO</Abductee43.titleShort>
+  <Abductee43.titleShort>выкрадзенае дзіця</Abductee43.titleShort>
   
   <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
-  <Abductee7.baseDesc>TODO</Abductee7.baseDesc>
+  <Abductee7.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў выкрадзены : была выкрадзена} ксеналюдзьмі яшчэ немаўлём. Яны эксперыментавалі на {PAWN_gender ? ім : ёй} каб зразумець [PAWN_possesive] генэтычнае будаванне. \n\n Калі [PAWN_pronoun] {PAWN_gender ? пасталеў : пасталела}, [PAWN_nameDef] апынуўся крыху моцным да сваіх захопнікаў і {PAWN_gender ? ўцёк : ўцякла}.</Abductee7.baseDesc>
   <!-- EN: abductee -->
-  <Abductee7.title>TODO</Abductee7.title>
+  <Abductee7.title>Выкрадзенае дзіця</Abductee7.title>
   <!-- EN: abductee -->
-  <Abductee7.titleShort>TODO</Abductee7.titleShort>
+  <Abductee7.titleShort>Выкрадзенае дзіця</Abductee7.titleShort>
   
   <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams. -->
-  <AcademyStudent58.baseDesc>TODO</AcademyStudent58.baseDesc>
+  <AcademyStudent58.baseDesc>Як добры касмічны кадэт, [PAWN_nameDef] {PAWN_gender ? хадзіў у: хадзіла ў} школу. [PAWN_pronoun] {PAWN_gender ? быў вельмі высокім і прывабным : была вельмі высокай і прывабнай}. \n\nХаця {PAWN_gender ? ён больш хваляваўся : яна больш хвалявалась} аб сваім валоссі, чым пра адзнакі, [PAWN_pronoun] такі {PAWN_gender ? здаў : здала} экзамены.</AcademyStudent58.baseDesc>
   <!-- EN: academy student -->
-  <AcademyStudent58.title>TODO</AcademyStudent58.title>
+  <AcademyStudent58.title>студэнт акадэміі</AcademyStudent58.title>
   <!-- EN: student -->
-  <AcademyStudent58.titleShort>TODO</AcademyStudent58.titleShort>
+  <AcademyStudent58.titleShort>студэнт</AcademyStudent58.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-  <AccursedChild88.baseDesc>TODO</AccursedChild88.baseDesc>
+  <AccursedChild88.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў народжаны : была народжана} пасярод месяцовага зацьмення. Старэйшыны вызначылі [PAWN_objective] як дзіцё цемры і пачалі клапаціцца пра [PAWN_objective]. \n\nУсё [PAWN_objective] дзяцінства было праведзена ў вывучэнні ведаў і рытуалаў свайго народа - пакуль [PAWN_objective] не прызвалі.</AccursedChild88.baseDesc>
   <!-- EN: accursed child -->
-  <AccursedChild88.title>TODO</AccursedChild88.title>
+  <AccursedChild88.title>праклятае дзіцё</AccursedChild88.title>
   <!-- EN: cursed -->
-  <AccursedChild88.titleShort>TODO</AccursedChild88.titleShort>
+  <AccursedChild88.titleShort>праклятае дзіцё</AccursedChild88.titleShort>
   
   <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-  <AdventuringChild30.baseDesc>TODO</AdventuringChild30.baseDesc>
+  <AdventuringChild30.baseDesc>[PAWN_nameDef] {PAWN_gender ? гадаваўся : гадавалася} каб стаць інжынерам, але на працягу гадоў {PAWN_gender ?  ён планаваў : яна планавала} збегчы на грузавым караблі і пачаць новае, больш авантурнае жыццё. \n\nАдной ноччу, як [PAWN_possesive] бацькі паклаліся спаць, {PAWN_gender ? ён пракраўся : яна пракралася} на борт грузавога карабля амаль перад яго адлётам.</AdventuringChild30.baseDesc>
   <!-- EN: adventuring child -->
-  <AdventuringChild30.title>TODO</AdventuringChild30.title>
+  <AdventuringChild30.title>авантурнае дзіцё</AdventuringChild30.title>
   <!-- EN: adventurer -->
-  <AdventuringChild30.titleShort>TODO</AdventuringChild30.titleShort>
+  <AdventuringChild30.titleShort>авантурнае дзіцё</AdventuringChild30.titleShort>
   
   <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
-  <AdventurousYouth70.baseDesc>TODO</AdventurousYouth70.baseDesc>
+  <AdventurousYouth70.baseDesc>[PAWN_nameDef] {PAWN_gender ? даследваў усе: даследвала ўсе} ваколіцы вялікага маёнтка [PAWN_possesive] сям'і, адкрываючы для сябе маленькія дзівы, схаваныя ў катакомбах, рэчках і пячорах побач. \n\nУ падлеткавыя гады [PAWN_nameDef] нарабіў сабе шмат ворагаў.</AdventurousYouth70.baseDesc>
   <!-- EN: adventurous youth -->
-  <AdventurousYouth70.title>TODO</AdventurousYouth70.title>
+  <AdventurousYouth70.title>авантурнае дзіцё</AdventurousYouth70.title>
   <!-- EN: adventurer -->
-  <AdventurousYouth70.titleShort>TODO</AdventurousYouth70.titleShort>
+  <AdventurousYouth70.titleShort>авантурнае дзіцё</AdventurousYouth70.titleShort>
   
   <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-  <AmateurAstronomer77.baseDesc>TODO</AmateurAstronomer77.baseDesc>
+  <AmateurAstronomer77.baseDesc>[PAWN_nameDef] {PAWN_gender ? захапляўся : захаплялась} астраноміяй. [PAWN_pronoun] гадзінамі сачыў за планетамі і зоркавымі туманнасцямі цераз тэлескоп. \n\nВядома, што [PAWN_pronoun] вызначыў маленькую камету, што праз гады абрынецца на спадарожнік [PAWN_pronoun] планеты і спыніць там горную здабычу.</AmateurAstronomer77.baseDesc>
   <!-- EN: amateur astronomer -->
   <AmateurAstronomer77.title>TODO</AmateurAstronomer77.title>
   <!-- EN: astronomer -->
