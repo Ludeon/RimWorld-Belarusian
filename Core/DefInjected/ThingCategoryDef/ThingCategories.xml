@@ -13,6 +13,9 @@
   <!-- EN: armor -->
   <ApparelArmor.label>TODO</ApparelArmor.label>
   
+  <!-- EN: misc -->
+  <ApparelMisc.label>TODO</ApparelMisc.label>
+  
   <!-- EN: noble apparel -->
   <ApparelNoble.label>TODO</ApparelNoble.label>
   
@@ -33,6 +36,9 @@
   
   <!-- EN: bionic -->
   <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>TODO</BodyPartsMechtech.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>TODO</BodyPartsNatural.label>
@@ -127,6 +133,9 @@
   <!-- EN: items -->
   <Items.label>TODO</Items.label>
   
+  <!-- EN: misc -->
+  <ItemsMisc.label>TODO</ItemsMisc.label>
+  
   <!-- EN: leathers -->
   <Leathers.label>TODO</Leathers.label>
   
@@ -171,6 +180,9 @@
   
   <!-- EN: stone chunks -->
   <StoneChunks.label>TODO</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>TODO</Stumps.label>
   
   <!-- EN: techprints -->
   <Techprints.label>TODO</Techprints.label>
