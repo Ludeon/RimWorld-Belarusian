@@ -65,7 +65,7 @@
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>Гульня перакладзена фанацкай супольнасцю. Над гэтай ачмурэннай беларускай лакалізацыяй працавалі:\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>Вы таксама можаце дапамагчы ў перакладзе. Каб даведацца больш, націсніце спасылку ніжэй (адкрывае вэб-браўзар).</TranslationHowToContribute>
+  <TranslationHowToContribute>Вы таксама можаце дапамагчы ў перакладзе. Каб даведацца больш, націсніце спасылку ніжэй (адкрывае вэб-браўзер).</TranslationHowToContribute>
   <!-- EN: Learn more -->
   <LearnMore>Даведацца больш</LearnMore>
 
@@ -649,15 +649,15 @@
   <!-- EN: Skills -->
   <Skills>Навыкі</Skills>
   <!-- EN: none -->
-  <NoneLower>Адсутнічае</NoneLower>
+  <NoneLower>адсутнічае</NoneLower>
   <!-- EN: Adulthood -->
   <Adulthood>Сталасць</Adulthood>
   <!-- EN: Childhood -->
   <Childhood>Дзяцінства</Childhood>
   <!-- EN: male -->
-  <Male>Мужчына</Male>
+  <Male>мужчына</Male>
   <!-- EN: female -->
-  <Female>Жанчына</Female>
+  <Female>жанчына</Female>
   <!-- EN: male and female -->
   <MaleAndFemale>TODO</MaleAndFemale>
   <!-- EN: male -->

@@ -13,12 +13,12 @@
   <!-- EN: cocoa -->
   <Cocoa.label>какава</Cocoa.label>
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
-  <Cocoa.description>Саджаць дрэвы какавушкі, каб стварыць уласную чакаляду. Паглынанне шакаляду задавольвае неабходнасць пацехі, а яшчэ ён таксама каштоўны на рынку.</Cocoa.description>
+  <Cocoa.description>Саджаць дрэвы какавушкі, каб стварыць уласную чакаляду. Паглынанне шакаляду задавольвае неабходнасць пацехі, а яшчэ ён каштоўны на рынку.</Cocoa.description>
   
   <!-- EN: complex clothing -->
   <ComplexClothing.label>вопратка</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>Краўцы могуць шыць складанае адзенне: нагавіцы, плашчы, каўбойскія капялюшы і іншае.</ComplexClothing.description>
+  <ComplexClothing.description>Краўцы могуць шыць складанае адзенне: нагавіцы, плашчы, каўбойскія капелюшы і іншае.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
   <ComplexFurniture.label>складаная мэбля</ComplexFurniture.label>
@@ -33,7 +33,7 @@
   <!-- EN: drug production -->
   <DrugProduction.label>выраб прэпаратаў</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>Пабудуйце хімічную лабараторыю для сінтэзу базавых прэпаратаў. Для вырабу адмысловых прэпаратаў патрэбны далейшыя даследванні.</DrugProduction.description>
+  <DrugProduction.description>Пабудуйце хімічную лабараторыю для сінтэзу базавых прэпаратаў. Для вырабу адмысловых прэпаратаў патрэбны далейшыя даследаванні.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
   <GoJuiceProduction.label>жвава-сок</GoJuiceProduction.label>
@@ -58,7 +58,7 @@
   <!-- EN: pemmican -->
   <Pemmican.label>пеммікан</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>Зрабіць пеммікан, кансерваваную сумесь мяса і раслін, якая не псуецца вельмі доўгі час. Цудоўна для падарожжаў.  </Pemmican.description>
+  <Pemmican.description>Зрабіць пеммікан, кансерваваную сумесь мяса і раслін, якая не псуецца вельмі доўгі час. Цудоўна для падарожжаў.</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>TODO</PenoxycylineProduction.label>
