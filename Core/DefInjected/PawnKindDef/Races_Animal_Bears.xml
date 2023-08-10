@@ -1,10 +1,48 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN: grizzly bear -->
-  <Bear_Grizzly.label>TODO</Bear_Grizzly.label>
-  
+  <Bear_Grizzly.label>мядзведзь грызлі</Bear_Grizzly.label>
+  <Bear_Grizzly.labelPlural>мядзведзі грызлі</Bear_Grizzly.labelPlural>
+  <!-- па палах -->
+  <Bear_Grizzly.labelFemale>мядзведзіца грызлі</Bear_Grizzly.labelFemale>
+  <Bear_Grizzly.labelFemalePlural>мядзведзіцы грызлі</Bear_Grizzly.labelFemalePlural>
+  <Bear_Grizzly.labelMale>мядзведзь грызлі</Bear_Grizzly.labelMale>
+  <Bear_Grizzly.labelMalePlural>мядзведзі грызлі</Bear_Grizzly.labelMalePlural>
+  <!-- маленькія -->
+  <Bear_Grizzly.lifeStages.0.label>медзведзяня грызлі</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.0.labelPlural>медзведзяняты грызлі</Bear_Grizzly.lifeStages.0.labelPlural>
+  <Bear_Grizzly.lifeStages.0.labelMale>медзведзянё грызлі</Bear_Grizzly.lifeStages.0.labelMale>
+  <Bear_Grizzly.lifeStages.0.labelMalePlural>медзведзяняты грызлі</Bear_Grizzly.lifeStages.0.labelMalePlural>
+  <Bear_Grizzly.lifeStages.0.labelFemale>медзведзяня грызлі</Bear_Grizzly.lifeStages.0.labelFemale>
+  <Bear_Grizzly.lifeStages.0.labelFemalePlural>медзведзяняты грызлі</Bear_Grizzly.lifeStages.0.labelFemalePlural>
+  <!-- маладыя -->
+  <Bear_Grizzly.lifeStages.1.label>малады мядзведзь грызлі</Bear_Grizzly.lifeStages.1.label>
+  <Bear_Grizzly.lifeStages.1.labelPlural>маладыя мядзведзі грызлі</Bear_Grizzly.lifeStages.1.labelPlural>
+  <Bear_Grizzly.lifeStages.1.labelFemale>маладая мядзведзіца грызлі</Bear_Grizzly.lifeStages.1.labelFemale>
+  <Bear_Grizzly.lifeStages.1.labelFemalePlural>маладыя мядзведзіцы грызлі</Bear_Grizzly.lifeStages.1.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.1.labelMale>малады мядзведзь грызлі</Bear_Grizzly.lifeStages.1.labelMale>
+  <Bear_Grizzly.lifeStages.1.labelMalePlural>маладыя мядзведзі грызлі</Bear_Grizzly.lifeStages.1.labelMalePlural>
+
   <!-- EN: polar bear -->
-  <Bear_Polar.label>TODO</Bear_Polar.label>
-  
+  <Bear_Polar.label>палярны мядзведзь</Bear_Polar.label>
+  <Bear_Polar.labelPlural>палярныя мядзведзі</Bear_Polar.labelPlural>
+  <!-- па палах -->
+  <Bear_Polar.labelFemale>палярная мядзведзіца</Bear_Polar.labelFemale>
+  <Bear_Polar.labelFemalePlural>палярныя мядзведзіцы</Bear_Polar.labelFemalePlural>
+  <Bear_Polar.labelMale>палярны мядзведзь</Bear_Polar.labelMale>
+  <Bear_Polar.labelMalePlural>палярныя мядзведзі</Bear_Polar.labelMalePlural>
+  <!-- маленькія -->
+  <Bear_Polar.lifeStages.0.label>палярнае медзведзяня</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.0.labelPlural>палярныя медзведзяняты</Bear_Polar.lifeStages.0.labelPlural>
+  <Bear_Polar.lifeStages.0.labelMale>палярнае медзведзянё</Bear_Polar.lifeStages.0.labelMale>
+  <Bear_Polar.lifeStages.0.labelMalePlural>палярныя медзведзяняты</Bear_Polar.lifeStages.0.labelMalePlural>
+  <Bear_Polar.lifeStages.0.labelFemale>палярнае медзведзяня</Bear_Polar.lifeStages.0.labelFemale>
+  <Bear_Polar.lifeStages.0.labelFemalePlural>палярныя медзведзяняты</Bear_Polar.lifeStages.0.labelFemalePlural>
+  <!-- маладыя -->
+  <Bear_Polar.lifeStages.1.label>малады палярны мядзведзь</Bear_Polar.lifeStages.1.label>
+  <Bear_Polar.lifeStages.1.labelPlural>маладыя палярныя мядзведзі</Bear_Polar.lifeStages.1.labelPlural>
+  <Bear_Polar.lifeStages.1.labelFemale>маладая палярная мядзведзіца</Bear_Polar.lifeStages.1.labelFemale>
+  <Bear_Polar.lifeStages.1.labelFemalePlural>маладыя палярныя мядзведзіцы</Bear_Polar.lifeStages.1.labelFemalePlural>
+  <Bear_Polar.lifeStages.1.labelMale>малады палярны мядзведзь</Bear_Polar.lifeStages.1.labelMale>
+  <Bear_Polar.lifeStages.1.labelMalePlural>маладыя палярныя мядзведзі</Bear_Polar.lifeStages.1.labelMalePlural>
 </LanguageData>

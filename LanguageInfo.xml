@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageInfo>
 	<friendlyNameNative>Беларуская</friendlyNameNative>
-	<friendlyNameEnglish>Belarusian / Беларуская</friendlyNameEnglish>
+	<friendlyNameEnglish>Belarusian</friendlyNameEnglish>
 	<canBeTiny>true</canBeTiny>
 	<credits>
 		<li Class="CreditRecord_Role">
-			<roleKey>Dungeonmaster</roleKey>
-			<creditee>Влад "FatAlien" Чыгрынаў</creditee>
+			<roleKey>Credit_Translator</roleKey>
+			<creditee>Марыя "Mašańka" Чмырова</creditee>
 		</li>
 	</credits>
 </LanguageInfo>

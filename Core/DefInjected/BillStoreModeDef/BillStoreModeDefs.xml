@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: take to best stockpile -->
-  <BestStockpile.label>TODO</BestStockpile.label>
+  <BestStockpile.label>аднесці да лепшага сховішча</BestStockpile.label>
   
   <!-- EN: drop on floor -->
-  <DropOnFloor.label>TODO</DropOnFloor.label>
+  <DropOnFloor.label>кінуць на падлогу</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
-  <SpecificStockpile.label>TODO</SpecificStockpile.label>
+  <SpecificStockpile.label>аднесці да {0}</SpecificStockpile.label>
   
 </LanguageData>

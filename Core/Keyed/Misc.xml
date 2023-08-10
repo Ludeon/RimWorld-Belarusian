@@ -155,7 +155,7 @@
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
-  <ThingMadeOfStuffLabel>TODO</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>{1} з {0}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>TODO</SomeonesRoom>

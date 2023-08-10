@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Time -->
-  <ClockTime>TODO</ClockTime>
+  <ClockTime>Час</ClockTime>
   <!-- EN: Date -->
-  <ClockDate>TODO</ClockDate>
+  <ClockDate>Дата</ClockDate>
   <!-- EN: Year -->
-  <ClockYear>TODO</ClockYear>
+  <ClockYear>Год</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
   <DateReadoutTip>TODO</DateReadoutTip>
 

@@ -2,125 +2,125 @@
 <LanguageData>
   
   <!-- EN: Cancel -->
-  <DesignatorCancel>TODO</DesignatorCancel>
+  <DesignatorCancel>Скасаваць</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
   <DesignatorCancelDesc>TODO</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
-  <DesignatorCutPlants>TODO</DesignatorCutPlants>
+  <DesignatorCutPlants>Зрэзаць расліны</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
   <DesignatorCutPlantsDesc>TODO</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>TODO</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Разабраць</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>TODO</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>TODO</DesignatorUninstall>
+  <DesignatorUninstall>Прыбраць</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
   <DesignatorUninstallDesc>TODO</DesignatorUninstallDesc>
 
   <!-- EN: Extract tree -->
-  <DesignatorExtractTree>TODO</DesignatorExtractTree>
+  <DesignatorExtractTree>Выкапаць дрэва</DesignatorExtractTree>
   <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
   <DesignatorExtractTreeDesc>TODO</DesignatorExtractTreeDesc>
 
   <!-- EN: Harvest -->
-  <DesignatorHarvest>TODO</DesignatorHarvest>
+  <DesignatorHarvest>Пажаць</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
   <DesignatorHarvestDesc>TODO</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
-  <DesignatorHarvestWood>TODO</DesignatorHarvestWood>
+  <DesignatorHarvestWood>Ссячы дрэвы</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
   <DesignatorHarvestWoodDesc>TODO</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>TODO</DesignatorHaulThings>
+  <DesignatorHaulThings>Перацягнуць рэчы</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
   <DesignatorHaulThingsDesc>TODO</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
   <MustHaulHaulables>TODO</MustHaulHaulables>
 
   <!-- EN: Hunt -->
-  <DesignatorHunt>TODO</DesignatorHunt>
+  <DesignatorHunt>Паляваць</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters. -->
   <DesignatorHuntDesc>TODO</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>TODO</DesignatorMine>
+  <DesignatorMine>Здабываць руду</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>TODO</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Згладзіць паверхню</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
   <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
-  <DesignatorPlan>TODO</DesignatorPlan>
+  <DesignatorPlan>Планаванне</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
   <DesignatorPlanDesc>TODO</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>TODO</DesignatorPlanRemove>
+  <DesignatorPlanRemove>Выдаліць планаванне</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
   <DesignatorPlanRemoveDesc>TODO</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>TODO</DesignatorForbid>
+  <DesignatorForbid>Забараніць</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
   <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>TODO</DesignatorUnforbid>
+  <DesignatorUnforbid>Дазволіць</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
   <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>TODO</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Павялічыць хатнюю вобласць</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
   <DesignatorAreaHomeExpandDesc>TODO</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>TODO</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Скараціць хатнюю вобласць</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
   <DesignatorAreaHomeClearDesc>TODO</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>TODO</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Вобласць пабудовы даху</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
   <DesignatorAreaBuildRoofExpandDesc>TODO</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>TODO</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Вобласць выдалення даху</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
   <DesignatorAreaNoRoofExpandDesc>TODO</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>TODO</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Вобласць ігнаравання даху</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>TODO</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Snow removal area -->
-  <DesignatorAreaSnowClearExpand>TODO</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Вобласць ачысткі снегу</DesignatorAreaSnowClearExpand>
   <!-- EN: Create an area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>TODO</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow removal area -->
-  <DesignatorAreaSnowClearClear>TODO</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>Скараціць вобласць ачысткі снегу</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>TODO</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>TODO</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>Павялічыць дазволеную вобласць</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorExpandAreaAllowedDesc>TODO</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>TODO</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>Скараціць дазволеную вобласць</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
   <DesignatorClearAreaAllowedDesc>TODO</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
-  <ManageAreas>TODO</ManageAreas>
+  <ManageAreas>Кіраванне вобласцямі</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
   <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
 
@@ -134,57 +134,57 @@
   <DesignatorZoneCreateStorageDumpingDesc>TODO</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>TODO</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Скараціць зону</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
   <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
   <DesignatorZoneDeleteDesc>TODO</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Павялічыць зону</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
-  <DesignatorClaim>TODO</DesignatorClaim>
+  <DesignatorClaim>Прыўласціць</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
   <DesignatorClaimDesc>TODO</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>TODO</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Выдаліць падлогу</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
   <DesignatorRemoveFloorDesc>TODO</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Выдаліць мост</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
   <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
-  <DesignatorStrip>TODO</DesignatorStrip>
+  <DesignatorStrip>Распрануць</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
   <DesignatorStripDesc>TODO</DesignatorStripDesc>
 
   <!-- EN: Open -->
-  <DesignatorOpen>TODO</DesignatorOpen>
+  <DesignatorOpen>Адчыніць</DesignatorOpen>
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>TODO</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
-  <DesignatorSlaughter>TODO</DesignatorSlaughter>
+  <DesignatorSlaughter>Закалоць</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
   <DesignatorSlaughterDesc>TODO</DesignatorSlaughterDesc>
 
   <!-- EN: Tame -->
-  <DesignatorTame>TODO</DesignatorTame>
+  <DesignatorTame>Абрахманіць</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>TODO</DesignatorTameDesc>
 
   <!-- EN: Release to wild -->
-  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
+  <DesignatorReleaseAnimalToWild>Адпусціць на волю</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
   <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
-  <DesignatorStudy>TODO</DesignatorStudy>
+  <DesignatorStudy>Вывучаць</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
   <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
 
@@ -202,9 +202,9 @@
   <!-- EN: Remove paint from walls, buildings, and floors. -->
   <DesignatorRemovePaintDesc>TODO</DesignatorRemovePaintDesc>
   <!-- EN: Remove floor paint -->
-  <DesignatorRemoveFloorPaint>TODO</DesignatorRemoveFloorPaint> 
+  <DesignatorRemoveFloorPaint>TODO</DesignatorRemoveFloorPaint>
   <!-- EN: Remove paint from floors. -->
-  <DesignatorRemoveFloorPaintDesc>TODO</DesignatorRemoveFloorPaintDesc> 
+  <DesignatorRemoveFloorPaintDesc>TODO</DesignatorRemoveFloorPaintDesc>
   <!-- EN: Paint -->
   <Paint>TODO</Paint>
   <!-- EN: Color -->
@@ -229,11 +229,11 @@
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
-  <UnchosenStuff>TODO</UnchosenStuff>
+  <UnchosenStuff>Не абраны матэрыял</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
-  <TooCloseToMapEdge>TODO</TooCloseToMapEdge>
+  <TooCloseToMapEdge>Занадта блізка да краю мапы.</TooCloseToMapEdge>
   <!-- EN: Out of bounds. -->
-  <OutOfBounds>TODO</OutOfBounds>
+  <OutOfBounds>За мяжой.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
   <CannotPlaceInUndiscovered>TODO</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->

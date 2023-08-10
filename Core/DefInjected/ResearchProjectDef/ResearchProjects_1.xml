@@ -1,45 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN: beer brewing -->
-  <Brewing.label>TODO</Brewing.label>
+  <Brewing.label>піваварства</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>TODO</Brewing.description>
+  <Brewing.description>Пабудуйце варныя і брадзільныя чопы для перапрацоўкі хмелю ў вельмі смачненькі півасік.</Brewing.description>
   
   <!-- EN: carpet making -->
-  <CarpetMaking.label>TODO</CarpetMaking.label>
+  <CarpetMaking.label>выраб дыванаў</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>TODO</CarpetMaking.description>
+  <CarpetMaking.description>Саткаць прыгожыя дываны з тканіны.</CarpetMaking.description>
   
   <!-- EN: cocoa -->
-  <Cocoa.label>TODO</Cocoa.label>
+  <Cocoa.label>какава</Cocoa.label>
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
-  <Cocoa.description>TODO</Cocoa.description>
+  <Cocoa.description>Саджаць дрэвы какавушкі, каб стварыць уласную чакаляду. Паглынанне шакаляду задавольвае неабходнасць пацехі, а яшчэ ён каштоўны на рынку.</Cocoa.description>
   
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>TODO</ComplexClothing.label>
+  <ComplexClothing.label>вопратка</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>TODO</ComplexClothing.description>
+  <ComplexClothing.description>Краўцы могуць шыць складанае адзенне: нагавіцы, плашчы, каўбойскія капелюшы і іншае.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
-  <ComplexFurniture.label>TODO</ComplexFurniture.label>
+  <ComplexFurniture.label>складаная мэбля</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>TODO</ComplexFurniture.description>
+  <ComplexFurniture.description>Пабудуйце складаную мэблю: ложкі, сталы, абедныя крэслы, фатэлі, камоды, шафы для прылад, більярдныя і покерныя сталы, вентыляцыю, саркафагі і іншае.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
-  <Devilstrand.label>TODO</Devilstrand.label>
+  <Devilstrand.label>д'ябалпасма</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>TODO</Devilstrand.description>
+  <Devilstrand.description>Расліна д'ябалпасма - гэта павольна растучы грыб, які ўраджае вылучна трывалае і тэрмаўстойлівае расліннае валакно.</Devilstrand.description>
   
   <!-- EN: drug production -->
-  <DrugProduction.label>TODO</DrugProduction.label>
+  <DrugProduction.label>выраб прэпаратаў</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>TODO</DrugProduction.description>
+  <DrugProduction.description>Пабудуйце хімічную лабараторыю для сінтэзу базавых прэпаратаў. Для вырабу адмысловых прэпаратаў патрэбны далейшыя даследаванні.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>TODO</GoJuiceProduction.label>
+  <GoJuiceProduction.label>жвава-сок</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>TODO</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Выраб жвава-сока, сінтэтычнага прэпарату для павелічэння эфектыўнасці бою, паляпшэння здольнасці стральбы, блізкага бою і перасоўвання, а таксама прытуплення болю.</GoJuiceProduction.description>
   
   <!-- EN: greatbow -->
   <Greatbow.label>TODO</Greatbow.label>
@@ -57,9 +56,9 @@
   <PassiveCooler.description>TODO</PassiveCooler.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>TODO</Pemmican.label>
+  <Pemmican.label>пеммікан</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>TODO</Pemmican.description>
+  <Pemmican.description>Зрабіць пеммікан, кансерваваную сумесь мяса і раслін, якая не псуецца вельмі доўгі час. Цудоўна для падарожжаў.</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>TODO</PenoxycylineProduction.label>
@@ -105,5 +104,5 @@
   <WakeUpProduction.label>TODO</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
   <WakeUpProduction.description>TODO</WakeUpProduction.description>
-  
+
 </LanguageData>

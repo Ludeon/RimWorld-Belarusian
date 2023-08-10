@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
   <MessageSiegersAssaulting>TODO</MessageSiegersAssaulting>
 
@@ -55,10 +54,10 @@
   <MessageConditionCauserDespawned>TODO</MessageConditionCauserDespawned>
   
   <!-- EN: Bill complete: {0}. -->
-  <MessageBillComplete>TODO</MessageBillComplete>
+  <MessageBillComplete>Замова выканана: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>TODO</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} цалкам {1_gender ? ачуняў : ачуняла}.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
   <MessagePrisonerIsEscaping>TODO</MessagePrisonerIsEscaping>
@@ -97,7 +96,7 @@
   <MessageColonyNotEnoughSilver>TODO</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
-  <MessageCriticalAlert>TODO</MessageCriticalAlert>
+  <MessageCriticalAlert>Крытычнае папярэджванне: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
   <MessageMustDesignateHarvestable>TODO</MessageMustDesignateHarvestable>
@@ -155,27 +154,27 @@
   <MessageWarningNoMedicineForRestriction>TODO</MessageWarningNoMedicineForRestriction>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>TODO</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} {1_gender ? загінуў : загінула}. Прычына: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>TODO</PawnDied>
+  <PawnDied>{1_labelShort} {1_gender ? загінуў : загінула}.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>TODO</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} зноўку можа хадзіць.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>TODO</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} {1_gender ? страціў : страціла} прытомнасць з-за моцнага змардавання.</MessageInvoluntarySleep>
 
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>TODO</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {PAWN_nameDef} is pregnant! -->
-  <MessageAnimalIsPregnant>TODO</MessageAnimalIsPregnant>
+    <MessageAnimalIsPregnant>{PAWN_nameDef} зацяжарыла!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>TODO</MessageMiscarriedStarvation>
+    <MessageMiscarriedStarvation>У {0} здарыўся выкідак з-за голаду.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>TODO</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>У {0} здарыўся выкідак з-за кепскага здароўя.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
-  <MessageGaveBirth>TODO</MessageGaveBirth>
+  <MessageGaveBirth>{0} нарадзіла.</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
   <MessagePsylinkNoSensitivity>TODO</MessagePsylinkNoSensitivity>
@@ -204,7 +203,7 @@
   <MessageTraderCaravanLeaving>TODO</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>TODO</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} {1_gender ? памерлы : памёрлая}.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
   <MessageCantSelectOffMapPawn>TODO</MessageCantSelectOffMapPawn>
   
@@ -262,7 +261,7 @@
   <MessageRottedAwayInStorage>TODO</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>TODO</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort} {1_gender ? атруціўся : атруцілася} прыгатаванай ежай: {FOOD_labelShort}. Прычына: {2}.</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>TODO</MessagePawnLostWhileFormingCaravan>
@@ -280,13 +279,13 @@
   <MessageMaxPlanetCoveragePerformanceWarning>TODO</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>TODO</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>Расліна {0} загінула з-за холаду.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>TODO</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>Расліна {0} звяла, бо яе своечасова не пажалі.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
   <MessagePlantDiedOfRot_ExposedToLight>TODO</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>TODO</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>Расліна {0} звяла.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
   <MessagePlantDiedOfPoison>TODO</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->

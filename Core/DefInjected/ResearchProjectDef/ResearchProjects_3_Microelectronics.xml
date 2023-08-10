@@ -22,9 +22,9 @@
   <HeavyTurrets.description>TODO</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>TODO</HospitalBed.label>
+  <HospitalBed.label>шпітальны ложак</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>TODO</HospitalBed.description>
+  <HospitalBed.description>Пабудова шпітальных ложкаў, якія паляпшаюць медыцынскія вынікі.</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
