@@ -9,7 +9,7 @@
   <AbandonedChild30.titleShort>кінутае дзіцё</AbandonedChild30.titleShort>
   
   <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-  <AbandonedOrphan61.baseDesc>{PAWN_gender ? кінуты : кінутая} ад народжання, {PAWN_gender ? малы : малая} [PAWN_nameDef] {PAWN_gender ? пачаў : пачала} сваё жыццё ў дзіцячым доме. \n\nЯк належыць нягодніку і TODO </AbandonedOrphan61.baseDesc>
+  <AbandonedOrphan61.baseDesc>{PAWN_gender ? кінуты : кінутая} ад народжання, {PAWN_gender ? малы : малая} [PAWN_nameDef] {PAWN_gender ? пачаў : пачала} сваё жыццё ў дзіцячым доме. \n\n{PAWN_gender нягоднік ?  : нягодніца} па натуры, {PAWN_gender ?  ён стаў : яна стала} кемлівым шкоднікам.</AbandonedOrphan61.baseDesc>
   <!-- EN: abandoned orphan -->
   <AbandonedOrphan61.title>кінуты сірата</AbandonedOrphan61.title>
   <!-- EN: orphan -->
@@ -60,72 +60,72 @@
   <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
   <AmateurAstronomer77.baseDesc>[PAWN_nameDef] {PAWN_gender ? захапляўся : захаплялась} астраноміяй. [PAWN_pronoun] гадзінамі сачыў за планетамі і зоркавымі туманнасцямі цераз тэлескоп. \n\nВядома, што [PAWN_pronoun] вызначыў маленькую камету, што праз гады абрынецца на спадарожнік [PAWN_pronoun] планеты і спыніць там горную здабычу.</AmateurAstronomer77.baseDesc>
   <!-- EN: amateur astronomer -->
-  <AmateurAstronomer77.title>TODO</AmateurAstronomer77.title>
+  <AmateurAstronomer77.title>астраном-аматар</AmateurAstronomer77.title>
   <!-- EN: astronomer -->
-  <AmateurAstronomer77.titleShort>TODO</AmateurAstronomer77.titleShort>
+  <AmateurAstronomer77.titleShort>астраном</AmateurAstronomer77.titleShort>
   
   <!-- EN: Spending many summers crawling through dirt, [PAWN_nameDef] found [PAWN_pronoun] had quite the green thumb. Instead of learning to cook the food [PAWN_pronoun] grew, [PAWN_pronoun] just grew more and more. -->
-  <AmateurBotanist79.baseDesc>TODO</AmateurBotanist79.baseDesc>
+  <AmateurBotanist79.baseDesc>Правёўшы многа год на зямлі, [PAWN_nameDef] {PAWN_gender ? зразумеў : зразумела} што ў [PAWN_possessive] добра атрымліваецца гадаваць расліны. Заместа ўжывання ў ежу раслін, якія {PAWN_gender ? ён расціў : яна расціла} {PAWN_gender ? ён садзіў усё: яна садзіла ўсё} больш і больш.</AmateurBotanist79.baseDesc>
   <!-- EN: amateur botanist -->
-  <AmateurBotanist79.title>TODO</AmateurBotanist79.title>
+  <AmateurBotanist79.title>батанік-аматар</AmateurBotanist79.title>
   <!-- EN: botanist -->
-  <AmateurBotanist79.titleShort>TODO</AmateurBotanist79.titleShort>
+  <AmateurBotanist79.titleShort>батанік</AmateurBotanist79.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a family with a military and engineering background. [PAWN_pronoun] wanted to join the army but [PAWN_possessive] father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead [PAWN_objective] to a life of galactic exploration. -->
-  <AmateurEngineer3.baseDesc>TODO</AmateurEngineer3.baseDesc>
+  <AmateurEngineer3.baseDesc>[PAWN_nameDef] {PAWN_gender ? вырас у : вырасла ў} сям'і былых вайсковых інжынераў. {PAWN_gender ?  ён хацеў : яна хацела} стаць вайсковым, але [PAWN_possessive] бацьке гэтая ідэя не спадабалась, таму зацікаўленасць [PAWN_nameDef] перайшла да вялізарных лятучых машын і інжынернай справе. Таемна {PAWN_gender ? ён спадзяваўся : яна спадзявалась} што гэта прывядзе [PAWN_possessive] да жыцця, поўнага галактычных даследванняў.</AmateurEngineer3.baseDesc>
   <!-- EN: amateur engineer -->
-  <AmateurEngineer3.title>TODO</AmateurEngineer3.title>
+  <AmateurEngineer3.title>інжырер-аматар</AmateurEngineer3.title>
   <!-- EN: engineer -->
-  <AmateurEngineer3.titleShort>TODO</AmateurEngineer3.titleShort>
+  <AmateurEngineer3.titleShort>інжынер</AmateurEngineer3.titleShort>
   
   <!-- EN: [PAWN_nameDef] trained towards [PAWN_possessive] dream of working for [PAWN_possessive] hometown's local council.\n\nFor reasons [PAWN_pronoun] never quite understood, [PAWN_pronoun] was bullied relentlessly by [PAWN_possessive] classmates. [PAWN_pronoun] chose to repress [PAWN_possessive] rage. -->
-  <AngryStudent88.baseDesc>TODO</AngryStudent88.baseDesc>
+  <AngryStudent88.baseDesc>[PAWN_nameDef] {PAWN_gender ? рыхтаваўся : рыхтавалась} да сваёй мары - працы ў мясцовым савеце [PAWN_possessive] роднага мястэчка. \n\nПа неразумелым для [PAWN_possessive] нагодам, [PAWN_possessive] бязлітасна цкавалі ў школе.[PAWN_nameDef] {PAWN_gender ? вырашыў : вырашыла} стрымліваць лютасць на іх у сябе.</AngryStudent88.baseDesc>
   <!-- EN: angry student -->
-  <AngryStudent88.title>TODO</AngryStudent88.title>
+  <AngryStudent88.title>люты студэнт</AngryStudent88.title>
   <!-- EN: student -->
-  <AngryStudent88.titleShort>TODO</AngryStudent88.titleShort>
+  <AngryStudent88.titleShort>студэнт</AngryStudent88.titleShort>
   
   <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
-  <AnimalCaretaker20.baseDesc>TODO</AnimalCaretaker20.baseDesc>
+  <AnimalCaretaker20.baseDesc>[PAWN_nameDef] любіць жывёл, бо нарадзіўся на старажытнай гаспадарцы і [PAWN_possessive] асноўнай задачай было гадаваць жывёл. \n\nЗ часам {PAWN_gender ? ён навучыўся : яна навучылася} прыручаць дзікіх жывёл і {PAWN_gender ? пачаў : пачала} марыць аб хатнім thrumbo.</AnimalCaretaker20.baseDesc>
   <!-- EN: animal caretaker -->
-  <AnimalCaretaker20.title>TODO</AnimalCaretaker20.title>
+  <AnimalCaretaker20.title>наглядчык за жывёламі</AnimalCaretaker20.title>
   <!-- EN: caretaker -->
-  <AnimalCaretaker20.titleShort>TODO</AnimalCaretaker20.titleShort>
+  <AnimalCaretaker20.titleShort>няглядчык</AnimalCaretaker20.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a technician in a lab studying animals.\n\n[PAWN_pronoun] spent [PAWN_possessive] days taking care of the animals and cleaning up after them. [PAWN_pronoun] dreamed of having [PAWN_possessive] own lab one day. -->
-  <AnimalLabTech39.baseDesc>TODO</AnimalLabTech39.baseDesc>
+  <AnimalLabTech39.baseDesc>[PAWN_nameDef] {PAWN_gender ? працаваў : працавала} тэхнікам у лабараторыі, вывучаючай жывёл. \n\n[PAWN_pronoun] днямі {PAWN_gender ? гадаваў : гадавала} іх і {PAWN_gender ? прыбіраў : прыбірала} за імі. [PAWN_nameDef] {PAWN_gender ? марыў : марыла} аб сваёй асабістай лабараторыі.</AnimalLabTech39.baseDesc>
   <!-- EN: animal lab tech -->
-  <AnimalLabTech39.title>TODO</AnimalLabTech39.title>
+  <AnimalLabTech39.title>лабараторны тэхнік</AnimalLabTech39.title>
   <!-- EN: lab tech -->
-  <AnimalLabTech39.titleShort>TODO</AnimalLabTech39.titleShort>
+  <AnimalLabTech39.titleShort>лабараторны тэхнік</AnimalLabTech39.titleShort>
   
   <!-- EN: [PAWN_nameDef] lacked typical social skills, and avoided social interaction.\n\n[PAWN_pronoun] gained satisfaction only from steady work. [PAWN_pronoun] especially disliked speaking with overly creative or outgoing individuals. -->
-  <AntisocialChild83.baseDesc>TODO</AntisocialChild83.baseDesc>
+  <AntisocialChild83.baseDesc>[PAWN_nameDef] не хапала звычайных сацыяльных навыкаў і {PAWN_gender ? ён пазбягаў : яна пазбягала} людзей. \n\n[PAWN_pronoun] атрымлівае асалоду толькі ад стабільнай працы і не падабае занадта крэатыўных асоб, ці аматараў выходзіць з дому.</AntisocialChild83.baseDesc>
   <!-- EN: antisocial child -->
-  <AntisocialChild83.title>TODO</AntisocialChild83.title>
+  <AntisocialChild83.title>па-за грамадскае дзіцё</AntisocialChild83.title>
   <!-- EN: antisocial -->
-  <AntisocialChild83.titleShort>TODO</AntisocialChild83.titleShort>
+  <AntisocialChild83.titleShort>па-за грамадскі</AntisocialChild83.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood on a post-apocalyptic world. [PAWN_pronoun] fought for survival from a young age, on a planet where trust did not exist.\n\n[PAWN_pronoun] told everyone that [PAWN_pronoun] had no luck. -->
-  <ApocalypseChild23.baseDesc>TODO</ApocalypseChild23.baseDesc>
+  <ApocalypseChild23.baseDesc>Дзяцінства [PAWN_nameDef] прайшло ў разбураным свеце. З маленства {PAWN_gender ? ён змагаўся : яна змагалася} за жыццё на планеце, дзе не існуе шчырасці. \n\n{PAWN_gender ? ён усім : яна ўсім} распавядае што [PAWN_objective] не пашанцавала.</ApocalypseChild23.baseDesc>
   <!-- EN: apocalypse child -->
-  <ApocalypseChild23.title>TODO</ApocalypseChild23.title>
+  <ApocalypseChild23.title>дзіцё разбуранага свету</ApocalypseChild23.title>
   <!-- EN: apocalypse -->
-  <ApocalypseChild23.titleShort>TODO</ApocalypseChild23.titleShort>
+  <ApocalypseChild23.titleShort>разбураны свет</ApocalypseChild23.titleShort>
   
   <!-- EN: [PAWN_nameDef] was chosen at an early age by the village elders to keep the sacred rituals of the Oracle.\n\nAn irrepressibly curious child, [PAWN_nameDef] caused a religious crisis for [PAWN_possessive] tribe when [PAWN_pronoun] accidentally flipped a switch to open the "tombs" of the Gods - cryptosleep caskets inhabited by some very confused ancestors. -->
-  <ApprenticeOracle83.baseDesc>TODO</ApprenticeOracle83.baseDesc>
+  <ApprenticeOracle83.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў вызначаны: была вызначаная} вясковымі старэйшынамі каб захаваць святыя рытуалы Аракула. \n\nЯк нястрыманае, цікаўнае дзіцё, [PAWN_pronoun] {PAWN_gender ? справакаваў : справакавала}  рэлігійны крызіс, калі выпадкова {PAWN_gender ? ціснуў : ціснула} перамыкач, які адчыняў "палац" Багоў - капсулы крыптасну, ў якіх апынуліся дужа збянтэбаныя продкі.</ApprenticeOracle83.baseDesc>
   <!-- EN: apprentice oracle -->
-  <ApprenticeOracle83.title>TODO</ApprenticeOracle83.title>
+  <ApprenticeOracle83.title>вучань Аракула</ApprenticeOracle83.title>
   <!-- EN: oracle -->
-  <ApprenticeOracle83.titleShort>TODO</ApprenticeOracle83.titleShort>
+  <ApprenticeOracle83.titleShort>аракул</ApprenticeOracle83.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up helping in [PAWN_possessive] father's smithy.\n\nThey were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.\n\nSometimes, after work, [PAWN_nameDef] would practice using the swords [PAWN_pronoun] forged. -->
-  <ApprenticeSmith37.baseDesc>TODO</ApprenticeSmith37.baseDesc>
+  <ApprenticeSmith37.baseDesc>[PAWN_nameDef] {PAWN_gender ? сталеў : сталела}, дапамагаючы ў бацькоўскай кавальні. \n\nЯны былі адны з апошніх кавалёў на гэтай планеце, і ім прыходзілася самім шукаць сыравіну. \n\nЧасамі, пасля працы, [PAWN_nameDef] {PAWN_gender ? практыкаваўся : практыкавалася} са зброяй, якую {PAWN_gender ? ён скаваў : яна скавала}.</ApprenticeSmith37.baseDesc>
   <!-- EN: apprentice smith -->
-  <ApprenticeSmith37.title>TODO</ApprenticeSmith37.title>
+  <ApprenticeSmith37.title>вучань каваля</ApprenticeSmith37.title>
   <!-- EN: apprentice -->
-  <ApprenticeSmith37.titleShort>TODO</ApprenticeSmith37.titleShort>
+  <ApprenticeSmith37.titleShort>вучань</ApprenticeSmith37.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on one of the urbworlds and had to fend for [PAWN_objective]self all [PAWN_possessive] life. [PAWN_pronoun] never trusted anyone, relying on [PAWN_possessive] persuasiveness and cunning to survive.\n\n[PAWN_pronoun] soon became skilled with firearms and knives as well as words. -->
   <ArtfulDodger78.baseDesc>TODO</ArtfulDodger78.baseDesc>
