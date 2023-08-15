@@ -128,35 +128,35 @@
   <ApprenticeSmith37.titleShort>вучань</ApprenticeSmith37.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on one of the urbworlds and had to fend for [PAWN_objective]self all [PAWN_possessive] life. [PAWN_pronoun] never trusted anyone, relying on [PAWN_possessive] persuasiveness and cunning to survive.\n\n[PAWN_pronoun] soon became skilled with firearms and knives as well as words. -->
-  <ArtfulDodger78.baseDesc>TODO</ArtfulDodger78.baseDesc>
+  <ArtfulDodger78.baseDesc>[PAWN_nameDef] {PAWN_gender ? сталеў у: сталела ў} адным з Ніжніх Светаў і не {PAWN_gender ? клапаціўся : клапацілася} пра сябе ўсё сваё жыццё. [PAWN_pronoun] ніколі нікому не {PAWN_gender ? давяраў і разлічваў : давярала і разлічвала} толькі на сваю пераканальнасць і прагу да жыцця. Хутка {PAWN_gender ? ён навучыўся : яна навучылася} карыстацца халоднай і вогнепальнай зброяй так жа добра, як і словамі.</ArtfulDodger78.baseDesc>
   <!-- EN: artful dodger -->
-  <ArtfulDodger78.title>TODO</ArtfulDodger78.title>
+  <ArtfulDodger78.title>выкрутлівы малы</ArtfulDodger78.title>
   <!-- EN: dodger -->
-  <ArtfulDodger78.titleShort>TODO</ArtfulDodger78.titleShort>
+  <ArtfulDodger78.titleShort>выкрутлівы</ArtfulDodger78.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on a [PAWN_possessive] family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology. -->
-  <ArtisanFarmer23.baseDesc>TODO</ArtisanFarmer23.baseDesc>
+  <ArtisanFarmer23.baseDesc>[PAWN_nameDef] {PAWN_gender ? сталеў : сталела} на сямейнай гаспадарцы ў СуперСвеце. Яны былі адны з апошніх, хто аддаваў перавагу традыцыйнай гаспадарцы на гэтай планеце, ігнаруючы тутэйшыя тэхналогіі.</ArtisanFarmer23.baseDesc>
   <!-- EN: artisan farmer -->
-  <ArtisanFarmer23.title>TODO</ArtisanFarmer23.title>
+  <ArtisanFarmer23.title>земляроб-рамеснік</ArtisanFarmer23.title>
   <!-- EN: farmer -->
-  <ArtisanFarmer23.titleShort>TODO</ArtisanFarmer23.titleShort>
+  <ArtisanFarmer23.titleShort>земляроб</ArtisanFarmer23.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends. -->
-  <ArtisticWeirdo56.baseDesc>TODO</ArtisticWeirdo56.baseDesc>
+  <ArtisticWeirdo56.baseDesc>[PAWN_nameDef] {PAWN_gender ? сталеў у : сталела ў} доме, побач з сумятлівай сталіцай аднаго з Сярэдніх Светаў. {PAWN_gender ? ён быў таленавіты : яна была таленавітая} ў мастацтве і вырабленні чагосьці, але часта {PAWN_gender ? рабіў : рабіла} дзіўныя рэчы і таму {PAWN_gender ? меў : мела} няшмат сяброў.</ArtisticWeirdo56.baseDesc>
   <!-- EN: artistic weirdo -->
-  <ArtisticWeirdo56.title>TODO</ArtisticWeirdo56.title>
+  <ArtisticWeirdo56.title>мастак-дзівак</ArtisticWeirdo56.title>
   <!-- EN: weirdo -->
-  <ArtisticWeirdo56.titleShort>TODO</ArtisticWeirdo56.titleShort>
+  <ArtisticWeirdo56.titleShort>дзівак</ArtisticWeirdo56.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
-  <ArtSlave57.baseDesc>TODO</ArtSlave57.baseDesc>
+  <ArtSlave57.baseDesc>[PAWN_nameDef] {PAWN_gender ? нарадзіўся : нарадзілася}  на цёмным баку свайго сінхронна верцячагася з планетай Ніжняга Свету. Пасля адной спрэчкі, [PAWN_possessive] бацька прадаў [PAWN_nameDef] тутэйшаму пану як мастака-раба. Абіраючы паміж стварэннем мастацтва і пакараннем, [PAWN_pronoun] {PAWN_gender ? здаўся : здалася}  і з таго часу сацыяльна {PAWN_gender ? няздольны : няздольная}. </ArtSlave57.baseDesc>
   <!-- EN: art slave -->
-  <ArtSlave57.title>TODO</ArtSlave57.title>
+  <ArtSlave57.title>мастак-раб</ArtSlave57.title>
   <!-- EN: artist -->
-  <ArtSlave57.titleShort>TODO</ArtSlave57.titleShort>
+  <ArtSlave57.titleShort>мастак</ArtSlave57.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
-  <AspergersRebel13.baseDesc>TODO</AspergersRebel13.baseDesc>
+  <AspergersRebel13.baseDesc>[PAWN_nameDef] {PAWN_gender ? сталеў : сталела} паўстанцам на ў былом квітнеючым свеце, зараз разбураным вайной. Сіндром Аспергера вызначыў [PAWN_possessive] сацыяльныя цяжкасці і няздольнасць да дбання пра іншых, але вельмі хутка {PAWN_gender ? ён прызвычаіўся : яна прызвычаілася} да складаных задач накшталт даследванняў і пальбы.</AspergersRebel13.baseDesc>
   <!-- EN: aspergers rebel -->
   <AspergersRebel13.title>TODO</AspergersRebel13.title>
   <!-- EN: rebel -->
@@ -1528,39 +1528,39 @@
   <SentimentalChild55.titleShort>TODO</SentimentalChild55.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s family were space traders. One day, [PAWN_nameDef]'s cryptosleep pod failed in transit. [PAWN_pronoun] had to spend years awake on the ship as the other slept.\n\n[PAWN_pronoun] filled [PAWN_possessive] days creating beautiful contraptions from the ship's cargo - but [PAWN_pronoun] didn't learn a lot of basic planetary living skills. -->
-  <ShipChild46.baseDesc>TODO</ShipChild46.baseDesc>
+  <ShipChild46.baseDesc>Сям'я [PAWN_nameDef] была касмічнымі гандлярамі. Адным днём капсула крыптасну [PAWN_nameDef] сапсавалася падчас падарожжа, і {PAWN_gender ? яму : ёй} прыйшлося страціць годы на караблі, пакуль астатнія спалі.\n\n{PAWN_gender ? ён марнаваў: яна марнавала} дні будуючы прыгожыя і дзіўныя механізмы з карабельнага грузу, але так і не {PAWN_gender ? навучыўся : навучылася} грунтоўным навыкам жыцця на паверхні</ShipChild46.baseDesc>
   <!-- EN: ship child -->
-  <ShipChild46.title>TODO</ShipChild46.title>
+  <ShipChild46.title>карабельнае дзіця</ShipChild46.title>
   <!-- EN: ship child -->
-  <ShipChild46.titleShort>TODO</ShipChild46.titleShort>
+  <ShipChild46.titleShort>карабельнае дзіця</ShipChild46.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an apprentice technician on trade ships plying their routes between the stations and planets of [PAWN_possessive] home system. In this job, [PAWN_pronoun] learned to fix and improve many machines.\n\nSometimes, [PAWN_possessive] ship was assigned to short exploratory jaunts into dangerous regions of space. -->
-  <ShipTechnician0.baseDesc>TODO</ShipTechnician0.baseDesc>
+  <ShipTechnician0.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў : была} пачынаючым карабельным тэхнікам на гандлёвых суднах, курсуючых паміж станцыямі і планетамі [PAWN_possessive] роднай зоркавай сістэмы. На гэтай працы {PAWN_gender ? ён навучыўся: яна навучылася} наладцы і паляпшэнню шматлікіх машын.\n\nЧасамі, [PAWN_possessive] карабель прызначаўся на кароткія даследчыцкія шпацыры па космасу.</ShipTechnician0.baseDesc>
   <!-- EN: ship technician -->
-  <ShipTechnician0.title>TODO</ShipTechnician0.title>
+  <ShipTechnician0.title>карабельны тэхнік</ShipTechnician0.title>
   <!-- EN: technician -->
-  <ShipTechnician0.titleShort>TODO</ShipTechnician0.titleShort>
+  <ShipTechnician0.titleShort>тэхнік</ShipTechnician0.titleShort>
   
   <!-- EN: [PAWN_nameDef] fell into a coma at a young age and spent years dreaming about shooting. When [PAWN_pronoun] awoke, [PAWN_pronoun] was useless at most tasks - but [PAWN_pronoun] could aim pretty well. -->
-  <ShootingComa59.baseDesc>TODO</ShootingComa59.baseDesc>
+  <ShootingComa59.baseDesc>Яшчэ ў дзяцінстве [PAWN_nameDef] {PAWN_gender ? апынуўся : апынулася} ў коме і цэлыя годы {PAWN_gender ? марыў : марыла} пра страляніну. Калі [PAWN_pronoun] нарэшце {PAWN_gender ? прачнуўся : прачнулася}, [PAWN_pronoun] {PAWN_gender ? быў амаль бескарысным: была амаль бескарыснай} ў любой справе, але {PAWN_gender ? мог : магла} добра цэліцца.</ShootingComa59.baseDesc>
   <!-- EN: shooting coma -->
-  <ShootingComa59.title>TODO</ShootingComa59.title>
+  <ShootingComa59.title>пальба ў коме</ShootingComa59.title>
   <!-- EN: coma child -->
-  <ShootingComa59.titleShort>TODO</ShootingComa59.titleShort>
+  <ShootingComa59.titleShort>дзіця комы</ShootingComa59.titleShort>
   
   <!-- EN: Freya was born into a small, poor family. She was bullied relentlessly, beaten and hated. As she grew up she developed an   interest in guns. She usually studied from books, but occasionally managed to get some practice time with the real thing. Freya later   discovered a talent for art and began to teach herself how to draw and paint. -->
-  <ShunnedGirl30.baseDesc>TODO</ShunnedGirl30.baseDesc>
+  <ShunnedGirl30.baseDesc>[PAWN_nameDef] {PAWN_gender ? нарадзіўся: нарадзілася} ў маленькай сям'і жабракоў. [PAWN_objective] бязлітасна цкавалі, білі і ненавідзелі. Пасталеўшы, [PAWN_pronoun] {PAWN_gender ? зацікавіўся : зацікавілася} вогнепальнай зброяй і {PAWN_gender ? вывучаў : вывучала} яе па кнігам, аднак часам атрымлівалася папрактыкавацца з рэальнымі экзэмплярамі. Пазней {PAWN_gender ? ён адкрыў : яна адкрыла} ў сябе талент да мастацтва і пачала вучыцца маляваць</ShunnedGirl30.baseDesc>
   <!-- EN: shunned girl -->
   <ShunnedGirl30.title>TODO</ShunnedGirl30.title>
   <!-- EN: shunned -->
   <ShunnedGirl30.titleShort>TODO</ShunnedGirl30.titleShort>
   
   <!-- EN: It is not uncommon for a sickly child to be cast away. What is uncommon is for that child to survive and even thrive with such a weak body.\n\nUsing [PAWN_possessive] quick wit and silver tongue, [PAWN_nameDef] was able to get out of almost any situation - most of the time at the cost others around him. -->
-  <SicklyLiar3.baseDesc>TODO</SicklyLiar3.baseDesc>
+  <SicklyLiar3.baseDesc>Для хворага дзіця звычайна быць выгнанцам грамадства. Незвычайна для такога дзіця выжыць і квітнець з такім кволым целам.\n\n[PAWN_possessive] кемлівасць і язык без касцей дазволілі [PAWN_nameDef] {PAWN_gender ? унікнуць : ўнікнуць} амаль кожнай непрыемнай сітуацыі, але часта за кошт іншых вакол [PAWN_possessive]</SicklyLiar3.baseDesc>
   <!-- EN: sickly liar -->
-  <SicklyLiar3.title>TODO</SicklyLiar3.title>
+  <SicklyLiar3.title>хворы хлус</SicklyLiar3.title>
   <!-- EN: liar -->
-  <SicklyLiar3.titleShort>TODO</SicklyLiar3.titleShort>
+  <SicklyLiar3.titleShort>хлус</SicklyLiar3.titleShort>
   
   <!-- EN: Abandoned as a little girl, [PAWN_nameDef] was found by a farmer. Being infertile [PAWN_objective]self, the farmer kept [PAWN_objective] as a slave. The constant beatings left [PAWN_objective] scarred and unable to handle violence. After many years, [PAWN_pronoun] ran away. -->
   <SlaveFarmer99.baseDesc>TODO</SlaveFarmer99.baseDesc>
