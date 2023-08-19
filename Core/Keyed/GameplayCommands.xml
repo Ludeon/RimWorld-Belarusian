@@ -13,26 +13,26 @@
 
   <!-- Power -->
   <!-- EN: Toggle power -->
-  <CommandTogglePowerLabel>Пераключ. сілкаванне</CommandTogglePowerLabel>
+  <CommandTogglePowerLabel>Пераключ. сілкаванне</CommandTogglePowerLabel><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: Toggle power. -->
   <CommandTogglePowerDesc>Пераключыць сілкаванне.</CommandTogglePowerDesc>
 
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>Прызначыць пераключэнне сілкавання</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Прызначыць пераключ. сілкавання</CommandDesignateTogglePowerLabel><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>Прызначыць пераключэнне сілкавання для гэтай штукі. Сяленец хутка прыйдзе, каб пстрыкнуць пераключальнік.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>Прызначыць пераключэнне сілкавання для гэтай рэчы. Сяленец хутка прыйдзе, каб пстрыкнуць пераключальнік.</CommandDesignateTogglePowerDesc>
 
   <!-- EN: Reconnect -->
-  <CommandTryReconnectLabel>Перападлучыцца</CommandTryReconnectLabel>
+  <CommandTryReconnectLabel>Падлучыцца да іншай крыніцы</CommandTryReconnectLabel><!-- Кароткі варыянт "Перападлучыцца" не ўлазіць у кнопку -->
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
-  <CommandTryReconnectDesc>Паспрабаваць падлучыцца да іншай крыніцы сілкавання ў межах майго радыуса падлучэння. Гэта карысна, калі я падлучаны да абясточанай сеткі, але побач ёсць сілкаваная сетка.</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>Паспрабаваць падлучыцца да іншай крыніцы сілкавання ў межах майго радыуса падлучэння. Гэта карысна, калі я падлучаны(-а) да абясточанай сеткі, але побач ёсць сілкаваная сетка.</CommandTryReconnectDesc>
 
   <!-- EN: Gather spot -->
   <CommandGatherSpotToggleLabel>Месца збору</CommandGatherSpotToggleLabel>
   <!-- EN: Active - colonists will gather around this object. -->
-  <CommandGatherSpotToggleDescActive>Актыўнае - сяленцы будуць збірацца вакол гэтага аб'екта.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescActive>Актыўнае: сяленцы будуць збірацца вакол гэтага аб'екта.</CommandGatherSpotToggleDescActive>
   <!-- EN: Inactive - colonists will not gather around this object. -->
-  <CommandGatherSpotToggleDescInactive>Неактыўнае - сяленцы не будуць збірацца вакол гэтага аб'екта.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescInactive>Неактыўнае: сяленцы не будуць збірацца вакол гэтага аб'екта.</CommandGatherSpotToggleDescInactive>
 
   <!-- Drafting -->
   <!-- EN: Draft -->
@@ -52,7 +52,7 @@
   <CommandFireAtWillDesc>Пераключыць пальбу па жаданні.\n\nКалі адключана, гэты персанаж не будзе аўтаматычна страляць па аддаленым мішэням. Не ўплывае на блізкі бой.</CommandFireAtWillDesc>
 
   <!-- EN: Clear prioritized work -->
-  <CommandClearPrioritizedWork>Ачысціць прыярытызаваную працу</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWork>Ачысціць працу ў прыярытэце</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
   <CommandClearPrioritizedWorkDesc>Ачысціць любую прыярытызаваную працу, якую вы прызначылі. Персанаж вернецца да звычайных актыўнасцяў, якімі ён кіруе самастойна.</CommandClearPrioritizedWorkDesc>
 
@@ -69,7 +69,7 @@
   <!-- EN: Set owner -->
   <CommandThingSetOwnerLabel>Задаць уладальніка</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific {0}. -->
-  <CommandBedSetOwnerDesc>Прызначыць гэты ложак ва ўладальніцтва пэўнаму {0}.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Прызначыць гэты ложак ва ўладальніцтва пэўнаму {lookup: {0}; Case; 1}.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>Прызначыць гэты трон ва ўладальніцтва пэўнаму сяленцу.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
@@ -146,11 +146,10 @@
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
   <CommandAllowCutDesc>Калі адключана, сяленцы не будуць зрэзваць расліны ў гэтай зоне. Яны працягнуць засейванне новых раслін у пустыя месцы і пажынанне тых раслін, тып якіх супадае з тыпам выбраных раслін для гэтай зоны.</CommandAllowCutDesc>
 
-
   <!-- EN: Select {0_label} -->
-  <CommandSelectStoredThing>TODO</CommandSelectStoredThing>
+  <CommandSelectStoredThing>Выбраць {lookup: {0_label}; Case; 2}</CommandSelectStoredThing>
   <!-- EN: Select the item stored in here. -->
-  <CommandSelectStoredThingDesc>TODO</CommandSelectStoredThingDesc>
+  <CommandSelectStoredThingDesc>Выбраць захаваную тут рэч.</CommandSelectStoredThingDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -166,13 +165,13 @@
   <!-- EN: Extract shell -->
   <CommandExtractShell>Выняць снарад</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>Выгружае бягучы снарад, каб можна было замяніць яго на іншую зброю.</CommandExtractShellDesc>
+  <CommandExtractShellDesc>Выгружае бягучы снарад, каб можна было замяніць яго на іншыя боепрыпасы.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
   <MessageTargetBeyondMaximumRange>Мішэнь далей за максімальную дасягальнасць.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
   <MessageTargetBelowMinimumRange>Мішэнь бліжэй за мінімальную дасягальнасць.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>Папярэджанне: мінамёт не паліць, таму што задана налада «Утрымліваць пальбу».</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>Папярэджанне: мінамёт не будзе паліць, таму што задана налада «Утрымліваць пальбу».</MessageTurretWontFireBecauseHoldFire>
 
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
@@ -202,7 +201,7 @@
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
   <CommandToggleDoorForbidDesc>Калі дзверы з'яўляюцца забароненымі, сяленцы і хаўруснікі не праходзяць праз іх. Гэта не ўплывае на тое, як ворагі або жывёлы ўзаемадзейнічаюць з дзвярмі.</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
-  <CommandToggleDoorHoldOpen>Утрымліваць адчыненымі</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpen>Утрымл. адчыненымі</CommandToggleDoorHoldOpen><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: When active, your colonists will not close the door after passing through. -->
   <CommandToggleDoorHoldOpenDesc>Калі актыўна, вашы сяленцы не будуць зачыняць дзверы пасля іх праходжання.</CommandToggleDoorHoldOpenDesc>
 
@@ -222,7 +221,7 @@
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
   <CommandInstallDesc>Гэтая рэч зараз запакавана для захоўвання і транспартавання. Выкарыстайце гэту каманду, каб усталяваць яе ў пэўным месцы.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>Пераўсталяваць у...</CommandReinstall>
+  <CommandReinstall>Усталяваць у новае месца...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
   <CommandReinstallDesc>Прызначыць дэмантаж і пераўсталёўку гэтай рэчы ў іншае месца.</CommandReinstallDesc>
   <!-- EN: Replant -->
@@ -244,7 +243,7 @@
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>Аўтаматычная пераўзбройка</CommandAutoRearm>
+  <CommandAutoRearm>Аўтаматыч. пераўзброй.</CommandAutoRearm><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>Калі ўключана, гэта пастка будзе аўтаматычна замяняцца пасля таго, як спружыніць.</CommandAutoRearmDesc>
 
@@ -252,7 +251,7 @@
   <!-- EN: Animals attack -->
   <CommandReleaseAnimalsLabel>Атака жывёл</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>Калі ўключана, свойскія жывёлы адпраўляюцца атакаваць аддаленыя мішэні. Калі адключана, яны застаюцца побач з гаспадаром і сцерагуць яго.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>Калі ўключана, свойскія жывёлы адпраўляюцца атакаваць аддаленыя мішэні. Калі адключана, яны застаюцца побач з гаспадаром і вартуюць яго.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
   <CommandReleaseAnimalsFail_NoAnimals>Няма наяўных жывёл.</CommandReleaseAnimalsFail_NoAnimals>
 
@@ -270,7 +269,7 @@
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
-  <CommandHoldFire>Утрымліваць пальбу</CommandHoldFire>
+  <CommandHoldFire>Утрымл. пальбу</CommandHoldFire><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Скончыць любую бягучую атаку.</CommandHoldFireDesc>
 
@@ -278,7 +277,7 @@
   <!-- EN: No {CHARGENOUN_plural} left. -->
   <CommandReload_NoCharges>Не засталося {CHARGENOUN_plural}.</CommandReload_NoCharges>
   <!-- EN: {COOLDOWNGERUND} for {TIME}. -->
-  <CommandReload_Cooldown>TODO</CommandReload_Cooldown>
+  <CommandReload_Cooldown>{COOLDOWNGERUND} {TIME}.</CommandReload_Cooldown>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
   <CommandReload_NoAmmo>Для пераўзбройкі патрабуецца {COUNT} адзінак {lookup: {AMMO_label}; Case; 1}</CommandReload_NoAmmo>
 
@@ -294,7 +293,7 @@
   <!-- EN: Tuned to -->
   <CommandSelectMineralToScanFor>Настроены на</CommandSelectMineralToScanFor>
   <!-- EN: Select the mineral type to scan for. -->
-  <CommandSelectMineralToScanForDesc>TODO</CommandSelectMineralToScanForDesc><!-- text_todo -->
+  <CommandSelectMineralToScanForDesc>Выбраць тып выкапня для сканіравання.</CommandSelectMineralToScanForDesc><!-- text_todo -->
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
@@ -304,15 +303,15 @@
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>Сфарміраваць караван</CommandFormCaravan>
+  <CommandFormCaravan>Сфармір. караван</CommandFormCaravan><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Сфарміраваць групу сяленцаў, здольную падарожнічаць да новых тэрыторый. Сяленцы збіруць усе прызначаныя запасы і суправаджаючых жывёл, пакінуць бягучую тэрыторыю і будуць чакаць далейшых загадаў.</CommandFormCaravanDesc>
   <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
-  <CommandFormCaravanDescAtSpot>TODO</CommandFormCaravanDescAtSpot>
+  <CommandFormCaravanDescAtSpot>Гэта месца будзе выкарыстоўвацца ў якасці месца збору для каравана. Усе тавары і жывёлы будуць збірацца тут перад адпраўленнем.</CommandFormCaravanDescAtSpot>
 
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>Сфарміраваць караван зноў</CommandReformCaravan>
+  <CommandReformCaravan>Сфармір. караван зноў</CommandReformCaravan><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
   <CommandReformCaravanDesc>Зноў сфарміраваць групу сяленцаў у караван. Яны пакінуць бягучую тэрыторыю і будуць чакаць далейшых загадаў.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
@@ -358,7 +357,7 @@
 
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>Скасаваць фарміраванне каравана</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>Скасаваць фармірав. каравана</CommandCancelFormingCaravan><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: Terminate the caravan formation process. -->
   <CommandCancelFormingCaravanDesc>Скончыць працэс фарміравання каравана.</CommandCancelFormingCaravanDesc>
 
@@ -376,9 +375,9 @@
 
   <!-- Show map -->
   <!-- EN: Zoom in -->
-  <CommandShowMap>Павялічыць маштаб</CommandShowMap>
+  <CommandShowMap>Наблізіць</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
-  <CommandShowMapDesc>Павялічыць маштаб на гэтай тэрыторыі.</CommandShowMapDesc>
+  <CommandShowMapDesc>Наблізіць камеру на гэтай тэрыторыі.</CommandShowMapDesc>
 
   <!-- Trade -->
   <!-- EN: Trade -->
@@ -386,7 +385,7 @@
   <!-- EN: Trade with this faction. -->
   <CommandTradeDesc>Гандляваць з гэтай фракцыяй.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>Няма ніводнага прытомнага чалавека, хто здольны весці перамовы.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>Няма ніводнага прытомнага і здольнага весці перамовы чалавека.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
   <CommandTradeFailNeedPermit>Ніхто з вашых людзей не мае неабходнага дазволу ў фракцыі: {0}</CommandTradeFailNeedPermit>
 
@@ -402,9 +401,9 @@
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
   <CommandFulfillTradeOfferDesc>Задаволіць попыт селішча ў таварах і атрымаць вашу ўзнагароду.</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
-  <CommandFulfillTradeOfferFailInsufficient>Ваш караван павінен мець {0}, каб задаволіць гандлёвую прапанову.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferFailInsufficient>Ваш караван павінен мець {lookup: {0}; Case; 2}, каб задаволіць гандлёвую прапанову.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
-  <CommandFulfillTradeOfferConfirm>Даць {0}?</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOfferConfirm>Даць {lookup: {0}; Case; 2}?</CommandFulfillTradeOfferConfirm>
 
   <!-- Take off -->
   <!-- EN: Take off -->
@@ -416,13 +415,13 @@
 
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
-  <CommandSetTargetFuelLevel>Задаць мэтавы ўзровень паліва</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevel>Задаць узровень паліва</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
   <CommandSetTargetFuelLevelDesc>Задаць мэтавы ўзровень паліва. Сяленцы будуць спрабаваць заправіць гэта палівам да пэўнага ўзроўню.</CommandSetTargetFuelLevelDesc>
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>Пераключыць аўтаматычную перазапраўку</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>Пераключ. аўтамат. перазапраўку</CommandToggleAllowAutoRefuel><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
   <CommandToggleAllowAutoRefuelDesc>Задае, ці дазволена аўтаматычная перазапраўка.</CommandToggleAllowAutoRefuelDesc>
 
@@ -468,7 +467,7 @@
 
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>Аўтаматычная загрузка</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>Аўтаматыч. загрузка</CommandAutoloadTransporters><!-- Скарочана, бо не ўлазіць у кнопку -->
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
   <CommandAutoloadTransportersDesc>Пераключыць загрузку ўсяго неабходнага грузу па меры таго, як ён становіцца наяўным.</CommandAutoloadTransportersDesc>
 
@@ -476,25 +475,25 @@
   <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>Вылучыць папярэдні ў групе запуску</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>Вылучыць папярэдні транспартны под у гэтай групе запуску.</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>Вылучыць папярэднюю транспартную капсулу ў гэтай групе запуску.</CommandSelectPreviousTransporterDesc>
 
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
   <CommandSelectAllTransporters>Вылучыць групу запуску</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
-  <CommandSelectAllTransportersDesc>Вылучыць усе транспартныя поды ў гэтай групе запуску.</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransportersDesc>Вылучыць усе транспартныя капсулы ў гэтай групе запуску.</CommandSelectAllTransportersDesc>
 
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
   <CommandSelectNextTransporter>Вылучыць наступны ў групе запуску</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>Вылучыць наступны транспартны под у гэтай групе запуску.</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>Вылучыць наступную транспартную капсулу ў гэтай групе запуску.</CommandSelectNextTransporterDesc>
 
   <!-- Vent -->
   <!-- EN: Designate open/close -->
-  <CommandDesignateOpenCloseVentLabel>Прызначыць адчыненне/зачыненне</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentLabel>Прызначыць адчыненне (зачыненне)</CommandDesignateOpenCloseVentLabel><!-- Трошкі зменена, каб умясціць у кнопку -->
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>Прызначыць адчыненне/зачыненне гэтай адтуліны для вентыляцыі. Сяленец хутка прыйдзе, каб выканаць заданне.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>Прызначыць адчыненне (зачыненне) гэтай адтуліны для вентыляцыі. Сяленец хутка прыйдзе, каб выканаць заданне.</CommandDesignateOpenCloseVentDesc>
 
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
@@ -564,39 +563,39 @@
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>Кінуць {0_nameDef}</CommandDropPawn>
+  <CommandDropPawn>Кінуць {lookup: {0_nameDef}; Case; 2}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
   <CommandDropPawnDesc>Кінуць чалавека, якога зараз нясуць.</CommandDropPawnDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectCarriedPawn>TODO</CommandSelectCarriedPawn>
+  <CommandSelectCarriedPawn>Выбраць {lookup: {0_nameDef}; Case; 2}</CommandSelectCarriedPawn>
   <!-- EN: Select the creature being carried. -->
-  <CommandSelectCarriedPawnDesc>TODO</CommandSelectCarriedPawnDesc>
+  <CommandSelectCarriedPawnDesc>Выбраць істоту, якую зараз нясуць.</CommandSelectCarriedPawnDesc>
   <!-- EN: Select {0_label} -->
-  <CommandSelectCarriedThing>TODO</CommandSelectCarriedThing>
+  <CommandSelectCarriedThing>Выбраць {lookup: {0_label}; Case; 2}</CommandSelectCarriedThing>
   <!-- EN: Select the carried item. -->
-  <CommandSelectCarriedThingDesc>TODO</CommandSelectCarriedThingDesc>
+  <CommandSelectCarriedThingDesc>Выбраць рэч, якую зараз нясуць.</CommandSelectCarriedThingDesc>
   <!-- EN: Select {0_label} -->
-  <CommandSelectContainerThing>TODO</CommandSelectContainerThing>
+  <CommandSelectContainerThing>Выбраць {lookup: {0_label}; Case; 2}</CommandSelectContainerThing>
   <!-- EN: Select the containing item. -->
-  <CommandSelectContainerThingDesc>TODO</CommandSelectContainerThingDesc>
+  <CommandSelectContainerThingDesc>Выбраць кантэйнер.</CommandSelectContainerThingDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectCarryingPawn>TODO</CommandSelectCarryingPawn>
+  <CommandSelectCarryingPawn>Выбраць {lookup: {0_nameDef}; Case; 2}</CommandSelectCarryingPawn>
   <!-- EN: Select the carrying creature. -->
-  <CommandSelectCarryingPawnDesc>TODO</CommandSelectCarryingPawnDesc>
+  <CommandSelectCarryingPawnDesc>Выбраць істоту, якая нясе.</CommandSelectCarryingPawnDesc>
   <!-- EN: Select {0_nameDef} -->
-  <CommandSelectContainedPawn>TODO</CommandSelectContainedPawn>
+  <CommandSelectContainedPawn>Выбраць {lookup: {0_nameDef}; Case; 2}</CommandSelectContainedPawn>
   <!-- EN: Select the contained creature. -->
-  <CommandSelectContainedPawnDesc>TODO</CommandSelectContainedPawnDesc>
+  <CommandSelectContainedPawnDesc>Выбраць істоту, якую змяшчае кантэйнер.</CommandSelectContainedPawnDesc>
   <!-- EN: Select {0_label} -->
-  <CommandSelectContainedThing>TODO</CommandSelectContainedThing>
+  <CommandSelectContainedThing>Выбраць {lookup: {0_label}; Case; 2}</CommandSelectContainedThing>
   <!-- EN: Select the contained item. -->
-  <CommandSelectContainedThingDesc>TODO</CommandSelectContainedThingDesc>
+  <CommandSelectContainedThingDesc>Выбраць рэч, якую змяшчае кантэйнер.</CommandSelectContainedThingDesc>
 
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
   <TakeDrug>Спажыць наркотык...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>Выбраць наркотык з інвентару, каб спажыць яго неадкладна.</TakeDrugDesc>
+  <TakeDrugDesc>Выбраць наркотык з інвентару, каб неадкладна спажыць яго.</TakeDrugDesc>
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
@@ -613,35 +612,35 @@
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>Скасаваць {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>Скончыць {RITUAL_labelDef} неадкладна. Абавязак правядзення рытуалу застанецца. Вы можаце перазапусціць рытуал пазней.</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>Неадкладна скончыць «{RITUAL_labelDef}». Абавязак правядзення рытуалу застанецца. Вы можаце зноў правесці яго пазней.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
-  <CommandCancelRitualConfirm>Вы ўпэўнены, што жадаеце скасаваць {RITUAL_labelDef}?</CommandCancelRitualConfirm>
+  <CommandCancelRitualConfirm>Вы ўпэўнены, што жадаеце скасаваць «{RITUAL_labelDef}»?</CommandCancelRitualConfirm>
 
   <!-- Storage linking -->
   <!-- EN: Link settings -->
-  <LinkStorageSettings>TODO</LinkStorageSettings>
+  <LinkStorageSettings>Звязаць налады</LinkStorageSettings>
   <!-- EN: Link storage settings for multiple selected buildings so that they share storage settings.\n\nThe group will start with the settings of whatever you selected first. -->
-  <LinkStorageSettingsDesc>TODO</LinkStorageSettingsDesc>
+  <LinkStorageSettingsDesc>Звязванне дазваляе мець агульныя складавыя налады для некалькіх выбраных будынкаў.\n\nНовая група будзе мець складавыя налады першага выбранага будынка.</LinkStorageSettingsDesc>
   <!-- EN: You must select two or more buildings to link their storage settings. -->
-  <LinkStorageDisabledSelectTwo>TODO</LinkStorageDisabledSelectTwo>
+  <LinkStorageDisabledSelectTwo>Вам трэба выбраць два і больш будынкаў, каб звязаць іх складавыя налады.</LinkStorageDisabledSelectTwo>
   <!-- EN: Already linked. -->
-  <AlreadyLinked>TODO</AlreadyLinked>
+  <AlreadyLinked>Налады ўжо звязаны.</AlreadyLinked>
   <!-- EN: Unlink settings -->
-  <UnlinkStorageSettings>TODO</UnlinkStorageSettings>
+  <UnlinkStorageSettings>Адвязаць налады</UnlinkStorageSettings>
   <!-- EN: Unlink this from other buildings' storage settings so its settings can be set independently. -->
-  <UnlinkStorageSettingsDesc>TODO</UnlinkStorageSettingsDesc>
+  <UnlinkStorageSettingsDesc>Адвязаць складавыя налады гэтага будынка, каб рэдагаваць іх асобна ад іншых будынкаў.</UnlinkStorageSettingsDesc>
   <!-- EN: Linked storage settings -->
-  <LinkedStorageSettings>TODO</LinkedStorageSettings>
+  <LinkedStorageSettings>Звязаныя складавыя налады</LinkedStorageSettings>
   <!-- EN: {0} buildings -->
-  <NumBuildings>TODO</NumBuildings>
+  <NumBuildings>{0_numCase ? будынак : будынкі : будынкаў}</NumBuildings>
   <!-- EN: Stores -->
-  <StoresThings>TODO</StoresThings>
+  <StoresThings>Змяшчае</StoresThings>
   <!-- EN: Select all linked -->
-  <SelectAllLinked>TODO</SelectAllLinked>
+  <SelectAllLinked>Выбраць усе звязаныя</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
-  <SelectAllLinkedDesc>TODO</SelectAllLinkedDesc>
+  <SelectAllLinkedDesc>Выбраць усе будынкі складаў, якія злучаны з гэтым будынкам.</SelectAllLinkedDesc>
 
   <!-- EN: {0_labelShort} is unconscious. -->
-  <CommandDisabledUnconscious>TODO</CommandDisabledUnconscious>
+  <CommandDisabledUnconscious>{0_labelShort} непрытомны.</CommandDisabledUnconscious>
 
 </LanguageData>
