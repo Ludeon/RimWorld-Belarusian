@@ -40,7 +40,7 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>Скасаваць прызыў</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>Пераключыць жаўнерскі прызыў.\n\nПрызваныя людзі атрымліваюць загады і б'юцца. Яны не будуць працаваць, есці або адпачываць.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Пераключыць жаўнерскі прызыў.\n\nПрызваныя людзі атрымліваюць загады і ваююць. Яны не будуць працаваць, есці або адпачываць.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} не можа хадзіць.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
@@ -83,7 +83,7 @@
   <!-- EN: Reassign -->
   <BuildingReassign>Перапрызначыць</BuildingReassign>
   <!-- EN: Unassign -->
-  <BuildingUnassign>Скасаваць прызначэнне</BuildingUnassign>
+  <BuildingUnassign>Зняць прызначэнне</BuildingUnassign>
   <!-- EN: For prisoners -->
   <CommandBedSetForPrisonersLabel>Для зняволеных</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
@@ -117,9 +117,9 @@
   <!-- EN: Hide -->
   <CommandHideZoneLabel>Схаваць</CommandHideZoneLabel>
   <!-- EN: Unhide -->
-  <CommandUnhideZoneLabel>Скасаваць схаванне</CommandUnhideZoneLabel>
+  <CommandUnhideZoneLabel>Паказаць</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>Схаваць/скасаваць схаванне гэтай зоны.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Схаваць/паказаць гэтую зону.</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Выдаліць</CommandDeleteZoneLabel>
@@ -144,7 +144,7 @@
   <!-- EN: Allow cutting -->
   <CommandAllowCut>Дазволіць зрэзванне</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
-  <CommandAllowCutDesc>Калі адключана, сяленцы не будуць зрэзваць расліны ў гэтай зоне. Яны працягнуць засейванне новых раслін у пустыя месцы і пажынанне тых раслін, тып якіх супадае з тыпам выбраных раслін для гэтай зоны.</CommandAllowCutDesc>
+  <CommandAllowCutDesc>Калі адключана, сяленцы не будуць зрэзваць расліны ў гэтай зоне. Яны працягнуць засейванне новых раслін у пустыя месцы і пажынанне тых раслін, тып якіх супадае з тыпам раслін, якія выбраны для гэтай зоны.</CommandAllowCutDesc>
 
   <!-- EN: Select {0_label} -->
   <CommandSelectStoredThing>Выбраць {lookup: {0_label}; Case; 2}</CommandSelectStoredThing>
@@ -177,7 +177,7 @@
   <!-- EN: Launch ship -->
   <CommandShipLaunch>Запусціць карабель</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>Пачаць дзеянні па запуску карабля з бягучай канфігурацыяй.</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>Пачаць працэс запуску карабля з бягучай канфігурацыяй.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
   <CommandShipLaunchReport>Паказаць справаздачу аб запуску</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
@@ -201,7 +201,7 @@
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
   <CommandToggleDoorForbidDesc>Калі дзверы з'яўляюцца забароненымі, сяленцы і хаўруснікі не праходзяць праз іх. Гэта не ўплывае на тое, як ворагі або жывёлы ўзаемадзейнічаюць з дзвярмі.</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
-  <CommandToggleDoorHoldOpen>Утрымл. адчыненымі</CommandToggleDoorHoldOpen><!-- Скарочана, бо не ўлазіць у кнопку -->
+  <CommandToggleDoorHoldOpen>Трымаць адчыненымі</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
   <CommandToggleDoorHoldOpenDesc>Калі актыўна, вашы сяленцы не будуць зачыняць дзверы пасля іх праходжання.</CommandToggleDoorHoldOpenDesc>
 
@@ -549,7 +549,7 @@
   <!-- EN: Cancel -->
   <CommandCancelMonumentMarker>Скасаваць</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
-  <CommandCancelMonumentMarkerDesc>Незваротна выдаліць метку гэтага манумента.</CommandCancelMonumentMarkerDesc>
+  <CommandCancelMonumentMarkerDesc>Незваротна выдаліць метку гэтага помніка.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
@@ -605,16 +605,16 @@
   <!-- EN: Leave {RITUAL_label} -->
   <CommandLeaveRitual>Пакінуць {RITUAL_label}</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>Скончыць прымаць удзел у рытуале з назвай {RITUAL_labelDef}. Рытуал будзе працягвацца, пакуль у ім прымае ўдзел прынамсі адзін чалавек.</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>Скончыць прымаць удзел у рытуале {RITUAL_labelDef}. Рытуал будзе працягвацца, пакуль у ім прымае ўдзел прынамсі адзін чалавек.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
   <CommandLeaveLastParticipant>Гэта апошні ўдзельнік рытуалу {RITUAL_labelDef}.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>Скасаваць {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>Неадкладна скончыць «{RITUAL_labelDef}». Абавязак правядзення рытуалу застанецца. Вы можаце зноў правесці яго пазней.</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>Неадкладна скончыць {RITUAL_labelDef}. Абавязак правядзення рытуалу застанецца. Вы можаце зноў правесці яго пазней.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
-  <CommandCancelRitualConfirm>Вы ўпэўнены, што жадаеце скасаваць «{RITUAL_labelDef}»?</CommandCancelRitualConfirm>
+  <CommandCancelRitualConfirm>Вы ўпэўнены, што жадаеце скасаваць {RITUAL_labelDef}?</CommandCancelRitualConfirm>
 
   <!-- Storage linking -->
   <!-- EN: Link settings -->
