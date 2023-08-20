@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: Autosaving -->
-  <Autosaving>TODO</Autosaving>
+  <Autosaving>Аўтазахаванне</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>TODO</GameStartDialog>
   <!-- EN: Colony -->
@@ -33,31 +33,31 @@
   
   <!-- General-use words -->
   <!-- EN: Yes -->
-  <Yes>TODO</Yes>
+  <Yes>Так</Yes>
   <!-- EN: No -->
-  <No>TODO</No>
+  <No>Не</No>
   <!-- EN: No {0} -->
-  <NoSubject>TODO</NoSubject>
+  <NoSubject>Няма {0}</NoSubject>
   <!-- EN: new -->
-  <New>TODO</New>
+  <New>новы</New>
   <!-- EN: Gender -->
   <Gender>TODO</Gender>
   <!-- EN: Sex -->
   <Sex>TODO</Sex>
   <!-- EN: min -->
-  <min>TODO</min>
+  <min>мін.</min>
   <!-- EN: max -->
-  <max>TODO</max>
+  <max>макс.</max>
   <!-- EN: chance -->
-  <chance>TODO</chance>
+  <chance>змяніць</chance>
   <!-- EN: context -->
-  <context>TODO</context>
+  <context>кантэкст</context>
   <!-- EN: multiplier -->
-  <multiplier>TODO</multiplier>
+  <multiplier>множнік</multiplier>
   <!-- EN: damage -->
-  <damage>TODO</damage>
+  <damage>шкода</damage>
   <!-- EN: radius -->
-  <radius>TODO</radius>
+  <radius>радыус</radius>
   <!-- EN: expired -->
   <expired>TODO</expired>
   <!-- EN: duration (days) -->
@@ -65,42 +65,42 @@
   <!-- EN: interval (days) -->
   <intervalDays>TODO</intervalDays>
   <!-- EN: repeat -->
-  <repeat>TODO</repeat>
+  <repeat>паўтарыць</repeat>
   <!-- EN: default -->
-  <default>TODO</default>
+  <default>па змаўчанню</default>
   <!-- EN: distance -->
   <distance>TODO</distance>
   <!-- EN: YES -->
-  <YesUppercase>TODO</YesUppercase>
+  <YesUppercase>ТАК</YesUppercase>
   <!-- EN: NO -->
-  <NoUppercase>TODO</NoUppercase>
+  <NoUppercase>НЕ</NoUppercase>
   <!-- EN: kg -->
-  <kg>TODO</kg>
+  <kg>кг</kg>
   <!-- EN: Day -->
-  <Day>TODO</Day>
+  <Day>Дзень</Day>
   <!-- EN: day -->
-  <day>TODO</day>
+  <day>дзень</day>
   <!-- EN: Default -->
   <Default>TODO</Default>
   <!-- EN: Average -->
-  <Average>TODO</Average>
+  <Average>Сярэдні</Average>
   <!-- EN: Cause -->
-  <Cause>TODO</Cause>
+  <Cause>Прычына</Cause>
   <!-- EN: etc -->
-  <Etc>TODO</Etc>
+  <Etc>г.д.</Etc>
   <!-- EN: ${0} -->
-  <MoneyFormat>TODO</MoneyFormat>
+  <MoneyFormat>${0}</MoneyFormat>
   <!-- EN: Factors -->
   <Factors>TODO</Factors>
   <!-- EN: Uses -->
-  <Uses>TODO</Uses>
+  <Uses>Карыстанні</Uses>
   <!-- EN: Translation -->
-  <Translation>TODO</Translation>
+  <Translation>Пераклад</Translation>
 
   <!-- Content generation-->
   
   <!-- EN: {0} meat -->
-  <MeatLabel>TODO</MeatLabel>
+  <MeatLabel>{0} мяса</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>TODO</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
