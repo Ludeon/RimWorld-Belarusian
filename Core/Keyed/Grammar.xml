@@ -2,69 +2,69 @@
 <LanguageData>
 
   <!-- EN: a -->
-  <IndefiniteArticle>TODO</IndefiniteArticle>
+  <IndefiniteArticle></IndefiniteArticle>
   <!-- EN: the -->
-  <DefiniteArticle>TODO</DefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
   <!-- EN: a {0} -->
-  <IndefiniteForm>TODO</IndefiniteForm>
+  <IndefiniteForm>{0}</IndefiniteForm>
   <!-- EN: the {0} -->
-  <DefiniteForm>TODO</DefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
 
   <!-- EN: its -->
-  <Proits>TODO</Proits>
+  <Proits>гэта</Proits>
   <!-- EN: his -->
-  <Prohis>TODO</Prohis>
+  <Prohis>яго</Prohis>
   <!-- EN: her -->
-  <Proher>TODO</Proher>
+  <Proher>яе</Proher>
   <!-- EN: Its -->
-  <ProitsCap>TODO</ProitsCap>
+  <ProitsCap>Гэта</ProitsCap>
   <!-- EN: His -->
-  <ProhisCap>TODO</ProhisCap>
+  <ProhisCap>Яго</ProhisCap>
   <!-- EN: Her -->
-  <ProherCap>TODO</ProherCap>
+  <ProherCap>Яе</ProherCap>
 
   <!-- EN: it -->
-  <ProitObj>TODO</ProitObj>
+  <ProitObj>яно</ProitObj>
   <!-- EN: him -->
-  <ProhimObj>TODO</ProhimObj>
+  <ProhimObj>яго</ProhimObj>
   <!-- EN: her -->
-  <ProherObj>TODO</ProherObj>
+  <ProherObj>яе</ProherObj>
   <!-- EN: It -->
-  <ProitObjCap>TODO</ProitObjCap>
+  <ProitObjCap>Яно</ProitObjCap>
   <!-- EN: Him -->
-  <ProhimObjCap>TODO</ProhimObjCap>
+  <ProhimObjCap>Яго</ProhimObjCap>
   <!-- EN: Her -->
-  <ProherObjCap>TODO</ProherObjCap>
+  <ProherObjCap>Яе</ProherObjCap>
 
   <!-- EN: he -->
-  <Prohe>TODO</Prohe>
+  <Prohe>ён</Prohe>
   <!-- EN: she -->
-  <Proshe>TODO</Proshe>
+  <Proshe>яна</Proshe>
   <!-- EN: it -->
-  <Proit>TODO</Proit>
+  <Proit>яно</Proit>
   <!-- EN: He -->
-  <ProheCap>TODO</ProheCap>
+  <ProheCap>Ён</ProheCap>
   <!-- EN: She -->
-  <ProsheCap>TODO</ProsheCap>
+  <ProsheCap>Яна</ProsheCap>
   <!-- EN: It -->
-  <ProitCap>TODO</ProitCap>
+  <ProitCap>Яно</ProitCap>
 
   <!-- EN: {0} and {1}. -->
-  <ClauseSequence2>TODO</ClauseSequence2>
+  <ClauseSequence2>{0} і {1}.</ClauseSequence2>
   <!-- EN: {0}. Also, {1} and {2}. -->
-  <ClauseSequence3>TODO</ClauseSequence3>
+  <ClauseSequence3>{0}. Яшчэ {1} і {2}.</ClauseSequence3>
   <!-- EN: {0} and {1}. In addition {2} and {3}. -->
-  <ClauseSequence4>TODO</ClauseSequence4>
+  <ClauseSequence4>{0} і {1}. А таксама {2} і {3}.</ClauseSequence4>
   <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
-  <ClauseSequence5>TODO</ClauseSequence5>
+  <ClauseSequence5>{0} і {1}. Дадаткова {2} і {3}. Нарэшці, {4}.</ClauseSequence5>
   <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
-  <ClauseSequence6>TODO</ClauseSequence6>
+  <ClauseSequence6>{0}. {1} і {2}. Яшчэ {3} і {4}. Нарэшці, {5}.</ClauseSequence6>
   <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
-  <ClauseSequence7>TODO</ClauseSequence7>
+  <ClauseSequence7>{0} і {1}. {2} і {3}. Яшчэ {4} і {5}. Нарэшці, {6}.</ClauseSequence7>
   <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
-  <ClauseSequence8>TODO</ClauseSequence8>
+  <ClauseSequence8>{0} і {1}. Яшчэ {2} і {3}. {4} і {5}. Врэшці-рэшт, {6} і {7}.</ClauseSequence8>
 
   <!-- EN: {0} or {1} -->
-  <XorY>TODO</XorY>
+  <XorY>{0} ці {1}</XorY>
 
 </LanguageData>
