@@ -13,25 +13,25 @@
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>Гэтыя сяленцы ў дрэнным настроі, і гэта можа перайсці ў нязначнае вар'яцтва ў любы час:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>Гэтыя сяленцы ў вельмі дрэнным настроі, і гэты можа перайсці ў значнае вар'яцтва ў любы час:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Гэтыя сяленцы ў вельмі дрэнным настроі, і гэта можа перайсці ў значнае вар'яцтва ў любы час:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
   <BreakRiskExtremeDesc>Гэтыя сяленцы крытычна напружаны, і гэта можа перайсці ў радыкальнае (і, верагодна, гвалтоўнае) вар'яцтва ў любы час:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>Праглядзіце ўкладку «Патрэбы» гэтых сяленцаў, каб вызначыць, што іх турбуе.\n\nКаб палепшыць самаадчуванне сяленцаў, вы можаце гатаваць ім смачныя стравы, дадаць часу для адпычынку, пабудаваць лепшыя спосабы адпачынку, зрабіць іх асяроддзе больш прыгожым, дазволіць ім выпіваць, паліць і многа чаго яшчэ.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Праглядзіце ўкладку «Патрэбы» гэтых сяленцаў, каб вызначыць, што іх турбуе.\n\nКаб палепшыць самаадчуванне сяленцаў, вы можаце гатаваць ім смачныя стравы, дадаць часу для адпычынку, стварыць больш прыемныя аб'екты для адпачынку, зрабіць іх асяроддзе больш прыгожым, дазволіць ім выпіваць, паліць і многа чаго яшчэ.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Сяленцу патрабуецца дапамога</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Сяленцам патрабуецца дапамога</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>Гэтыя сяленцы няздольны самастойна ўстаць з зямлі:\n\n{0}\nАдпраўце іншага сяленца, каб выратаваць іх і аднесці ў ложак.\n\n(Для ратавання выберыце іншага сяленца, потым клікніце правай кнопкай мышы па ахвяры і выберыце пункт «Выратаваць»).</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Гэтыя сяленцы няздольны самастойна ўстаць з зямлі:\n\n{0}\nАдпраўце іншых сяленцаў, каб выратаваць іх і аднесці ў ложкі.\n\n(Для ратавання выберыце іншага сяленца, потым клікніце правай кнопкай мышы па ахвяры і выберыце пункт «Выратаваць»).</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>Гэтыя сяленцы няздольны самастойна ўстаць з зямлі:\n\n{0}\nАдпраўце іншага сяленца, каб выратаваць іх і аднесці ў ложак.\n\n(Для ратавання выберыце іншага сяленца, потым клікніце левым курком па ахвяры і выберыце пункт «Выратаваць»).</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>Гэтыя сяленцы няздольны самастойна ўстаць з зямлі:\n\n{0}\nАдпраўце іншых сяленцаў, каб выратаваць іх і аднесці ў ложкі.\n\n(Для ратавання выберыце іншага сяленца, потым клікніце левым курком па ахвяры і выберыце пункт «Выратаваць»).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Патрэбны абарончыя пабудовы</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>Вы тут ужо некаторы час і вас, верагодна, прыкмецілі. Хутка пачнуцца напады.\n\nВам трэба падрыхтаваць абарончыя пабудовы, напрыклад, мяхі з пяском або пасткі.</NeedDefensesDesc>
+  <NeedDefensesDesc>Вы тут ужо некаторы час, і вас, верагодна, прыкмецілі. Хутка пачнуцца напады.\n\nВам трэба падрыхтаваць абарончыя пабудовы, напрыклад, мяхі з пяском або пасткі.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>Патрэбны лекар</NeedDoctor>
@@ -51,12 +51,12 @@
   <!-- EN: Low food -->
   <LowFood>Мала ежы</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>TODO</LowFoodDesc>
+  <LowFoodDesc>У вас небяспечна мала ежы.\n\n    Прыдатнай для спажывання ежы на складзе: {0}\n    Сяленцы і зняволеныя атрымліваюць {1} адз. ежы\n    Гэтай ежы хопіць на {2_numCase ? дзень : дня : дзён}\n\nВырасціце, набудзьце, знайдзіце або забейце якую-небудзь ежу.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Мала лекаў</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>У вас ёсць ўсяго {0_numCase ? медыкамент : медыкамента : медыкаментаў} на складзе.\n\nНабудзьце больш лекаў у гандлёўцаў.</LowMedicineDesc>
+  <LowMedicineDesc>У вас ёсць усяго {0_numCase ? медыкамент : медыкамента : медыкаментаў} на складзе.\n\nНабудзьце больш лекаў у гандлёўцаў.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
   <NoMedicineDesc>У вас не засталося лекаў на складзе.\n\nНабудзьце больш лекаў у гандлёўцаў.</NoMedicineDesc>
 
@@ -68,7 +68,7 @@
   <!-- EN: Colonist left unburied -->
   <AlertColonistLeftUnburied>Сяленец пакінуты непахаваным</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
-  <AlertColonistLeftUnburiedDesc>Адзін з сяленецаў пакінуты непахаваным.\n\nГэта можа негатыўна паўплываць на настрой іншых сяленцаў.</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>Адзін з сяленцаў пакінуты непахаваным.\n\nГэта можа негатыўна паўплываць на настрой іншых сяленцаў.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Паляўнічаму не хапае зброі для далёкага бою</HunterLacksWeapon>
@@ -93,7 +93,7 @@
   <!-- EN: Animal starvation -->
   <StarvationAnimals>Голад жывёл</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>Гэтыя жывёлы селішча галодныя:\n\n{0}\nЗнайдзіце ім якой-небудзь ежы.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Гэтыя жывёлы селішча галадаюць:\n\n{0}\nЗнайдзіце ім якой-небудзь ежы.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>Змардаванасць</Exhaustion>
@@ -126,14 +126,14 @@
   <!-- EN: Boredom -->
   <Boredom>Нуда</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>Гэтым людзям патрабуцца адпачынак, або ім ужо надакучылі ўсе наяўныя тыпы адпачынку:\n\n{0}\n\nЗрабіце іх адпачынак больш разнастайным.\n\n{PAWN_labelShort} можа карыстацца наступнымі наяўнымі тыпамі адпачынку:\n\n{2}</BoredomDesc>
+  <BoredomDesc>Гэтым людзям патрабуецца адпачынак, або ім ужо надакучылі ўсе наяўныя тыпы адпачынку:\n\n{0}\n\nЗрабіце іх адпачынак больш разнастайным.\n\n{PAWN_labelShort} можа карыстацца наступнымі наяўнымі тыпамі адпачынку:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>Патрабуюцца батарэі</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
-  <NeedBatteriesDesc>У вас ёсць сонечныя панэлі і ветракі, але няма батарэй. Гэта значыць, што вы будзеце страчваць сілкаванне кожны раз, калі заходзіць сонца або сцішаецца вецер.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>У вас ёсць сонечныя панэлі і ветракі, але няма батарэй. Вы будзеце страчваць сілкаванне кожны раз, калі заходзіць сонца або сцішаецца вецер.</NeedBatteriesDesc>
   <!-- EN: Build a battery or two to guarantee sustained power. -->
-  <NeedBatteriesResearchedDesc>Пабудуйце адну або некалькі батарэй, каб гарантаваць бесперапаннае сілкаванне.</NeedBatteriesResearchedDesc>
+  <NeedBatteriesResearchedDesc>Пабудуйце адну або некалькі батарэй, каб гарантаваць бесперапыннае сілкаванне.</NeedBatteriesResearchedDesc>
   <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
   <NeedBatteriesNotResearchedDesc>Даследуйце і пабудуйце адну або некалькі батарэй, каб гарантаваць бесперапыннае сілкаванне.</NeedBatteriesNotResearchedDesc>
 
@@ -172,7 +172,7 @@
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Гіпатэрмія</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>Гэтыя сяленцы пакутуюць ад гіпатэрміі:\n\n{0}\nУпэўніцеся, што іх адзенне адпавядае пары года і што ўнутраныя прасторы нагрэтыя як належыць.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Гэтыя сяленцы пакутуюць ад гіпатэрміі:\n\n{0}\nУпэўніцеся, што іх адзенне адпавядае пары года, і што ўнутраныя прасторы нагрэтыя як належыць.</AlertHypothermiaDesc>
 
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0_numCase ? пацыент : пацыенты : пацыентаў} чакаюць аперацыі</PatientsAwaitingMedicalOperation>
@@ -192,7 +192,7 @@
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Людзі рызыкуюць памерці з-за сур'ёзных хвароб:\n\n{0}\nКалі гэта магчыма, разглядзіце ампутацыю або замену заражаных канечнасцяў, каб захаваць жыццё сяленцаў.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
-  <BilliardsNeedsSpace>Більярдны стол патрабуе месца</BilliardsNeedsSpace>
+  <BilliardsNeedsSpace>Більярдны стол патрабуе больш месца</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
   <BilliardsNeedsSpaceDesc>Нешта знаходзіцца побач з вашым більярдным сталом і перашкаджае сяленцам карыстацца ім.\n\nДля більярднага стала патрабуецца вольнае месца з усіх бакоў.</BilliardsNeedsSpaceDesc>
 
@@ -228,12 +228,12 @@
   <!-- EN: Building unusable due to roof -->
   <BuildingCantBeUsedRoofed>Пабудова непрыдатная для выкарыстання з-за даху</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>Адна або некалькі з вашых пабудоў знаходзяцца пад дахам і не могуць быць выкарыстаны пакуль вы не прыбераце яго.</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>Адна або некалькі з вашых пабудоў знаходзяцца пад дахам і не могуць быць выкарыстаны, пакуль вы не прыбераце яго.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
   <AlertHeatstroke>Цеплавы ўдар</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>Наступныя людзі пакутуюць ад цеплавога ўдару:\n\n{0}\nАдпраўце іх у менш спякотнае месца. Вы можаце астуджваць памяшканні з дапамогай пасіўных ахаладжальнікаў або электрычных кандыцыянераў. Глыбокія падземныя прасторы натуральна менш спякотныя, калі яны абмежаваны дзвярмі звонку.</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>Наступныя людзі пакутуюць ад цеплавога ўдару:\n\n{0}\nАдпраўце іх у менш спякотнае месца. Вы можаце астуджваць памяшканні з дапамогай пасіўных ахаладжальнікаў або электрычных кандыцыянераў. Глыбокія падземныя прасторы захоўваюць прыродную прахалоду, калі яны абмежаваны дзвярмі звонку.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Госць засмучаны</QuestPartMoodBelowThreshold>
@@ -310,7 +310,7 @@
   <!-- EN: Hungry hitched animal -->
   <AlertHitchedAnimalHungryNoFood>Прывязаныя жывёлы галодныя</AlertHitchedAnimalHungryNoFood>
   <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
-  <AlertHitchedAnimalHungryNoFoodDesc>Некаторыя з прывязаных да месца стаянкі каравана жывёл галодныя. Магчыма, побач з імі няма ежы, якая ім падыходзіць.\n\nПрынясіце ім ежы, або выдаліце месца стаянкі каравана, каб яны маглі знайсці сабе ежу самастойна.\n\nНаступныя прывязаныя жывёлы галодныя:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertHitchedAnimalHungryNoFoodDesc>Некаторыя з жывёл, прывязаных да месца стаянкі каравана, галодныя. Магчыма, побач з імі няма ежы, якая ім падыходзіць.\n\nПрынясіце ім ежы, або выдаліце месца стаянкі каравана, каб яны маглі знайсці сабе ежу самастойна.\n\nНаступныя прывязаныя жывёлы галодныя:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
   <AlertTimedRaidsArrivingIn>Напады пачнуцца праз {0}</AlertTimedRaidsArrivingIn>
