@@ -107,7 +107,7 @@
   <!-- EN: Detonate -->
   <CommandDetonateLabel>Узарваць</CommandDetonateLabel>
   <!-- EN: Start the countdown to detonation. -->
-  <CommandDetonateDesc>Пачаць адваротны адлік да ўзарвання.</CommandDetonateDesc>
+  <CommandDetonateDesc>Пачаць адваротны адлік да выбуху.</CommandDetonateDesc>
 
   <!-- EN: Rename -->
   <CommandRenameZoneLabel>Пераназваць</CommandRenameZoneLabel>
@@ -119,7 +119,7 @@
   <!-- EN: Unhide -->
   <CommandUnhideZoneLabel>Паказаць</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>Схаваць/паказаць гэтую зону.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Схаваць/паказаць гэту зону.</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Выдаліць</CommandDeleteZoneLabel>
@@ -161,11 +161,11 @@
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
   <CommandStopForceAttackDesc>Спыняе прымусовую атаку і дазваляе турэлі паліць як яна жадае.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
-  <CommandStopAttackFailNotForceAttacking>Прымусовая атака не ў працэсе.</CommandStopAttackFailNotForceAttacking>
+  <CommandStopAttackFailNotForceAttacking>Прымусовая атака не вядзецца.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
   <CommandExtractShell>Выняць снарад</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>Выгружае бягучы снарад, каб можна было замяніць яго на іншыя боепрыпасы.</CommandExtractShellDesc>
+  <CommandExtractShellDesc>Выгружае бягучы снарад, каб можна было замяніць яго на іншы ладунак.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
   <MessageTargetBeyondMaximumRange>Мішэнь далей за максімальную дасягальнасць.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
@@ -231,19 +231,19 @@
 
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
-  <CommandMakeBeaconStockpileDesc>Стварыць такі склад вакол гэтага будынка, які будзе супадаць з радыусам дзеяння маяка.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>Стварыць такі склад вакол гэтай пабудовы, які будзе супадаць з радыусам дзеяння маяка.</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
   <CommandMakeBeaconStockpileLabel>Стварыць склад</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>Стварыць такую зону росту вакол гэтага будынка, якая будзе супадаць з радыусам дзеяння лямпы.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>Стварыць такую зону росту вакол гэтай пабудовы, якая будзе супадаць з радыусам дзеяння лямпы.</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
   <CommandSunLampMakeGrowingZoneLabel>Стварыць зону росту</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>Аўтаматыч. пераўзброй.</CommandAutoRearm><!-- Скарочана, бо не ўлазіць у кнопку -->
+  <CommandAutoRearm>Аўтазамена</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>Калі ўключана, гэта пастка будзе аўтаматычна замяняцца пасля таго, як спружыніць.</CommandAutoRearmDesc>
 
@@ -299,19 +299,19 @@
   <!-- EN: Build copy -->
   <CommandBuildCopy>Пабудаваць копію</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>Пабудаваць копію гэтага будынка.</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>Зрабіць копію гэтай пабудовы.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>Сфармір. караван</CommandFormCaravan><!-- Скарочана, бо не ўлазіць у кнопку -->
+  <CommandFormCaravan>Сабраць караван</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Сфарміраваць групу сяленцаў, здольную падарожнічаць да новых тэрыторый. Сяленцы збіруць усе прызначаныя запасы і суправаджаючых жывёл, пакінуць бягучую тэрыторыю і будуць чакаць далейшых загадаў.</CommandFormCaravanDesc>
   <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
-  <CommandFormCaravanDescAtSpot>Гэта месца будзе выкарыстоўвацца ў якасці месца збору для каравана. Усе тавары і жывёлы будуць збірацца тут перад адпраўленнем.</CommandFormCaravanDescAtSpot>
+  <CommandFormCaravanDescAtSpot>Гэта месца будзе выкарыстоўвацца для збору каравана. Усе тавары і жывёлы будуць збірацца тут перад адпраўленнем.</CommandFormCaravanDescAtSpot>
 
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>Сфармір. караван зноў</CommandReformCaravan><!-- Скарочана, бо не ўлазіць у кнопку -->
+  <CommandReformCaravan>Сабраць караван зноў</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
   <CommandReformCaravanDesc>Зноў сфарміраваць групу сяленцаў у караван. Яны пакінуць бягучую тэрыторыю і будуць чакаць далейшых загадаў.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
@@ -357,9 +357,9 @@
 
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>Скасаваць фармірав. каравана</CommandCancelFormingCaravan><!-- Скарочана, бо не ўлазіць у кнопку -->
+  <CommandCancelFormingCaravan>Скасаваць збіранне каравана</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>Скончыць працэс фарміравання каравана.</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>Скончыць працэс збірання каравана.</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
@@ -411,7 +411,7 @@
   <!-- EN: Get on board the ship and escape the planet. -->
   <CommandTakeOffDesc>Узняцца на борт карабля і пакінуць планету.</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
-  <CommandTakeOffConfirmation>Вы ўпэўнены, што жадаеце запусціць карабель?\n\nКожны на гэтай тэрыторыі пакіне планету, астатнія застануцца.</CommandTakeOffConfirmation>
+  <CommandTakeOffConfirmation>Вы ўпэўнены, што жадаеце запусціць карабель?\n\nКожны на гэтай тэрыторыі пакіне планету, астатнія будуць вымушаны застацца.</CommandTakeOffConfirmation>
 
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
@@ -421,7 +421,7 @@
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>Пераключ. аўтамат. перазапраўку</CommandToggleAllowAutoRefuel><!-- Скарочана, бо не ўлазіць у кнопку -->
+  <CommandToggleAllowAutoRefuel>Запраўляць аўтаматычна</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
   <CommandToggleAllowAutoRefuelDesc>Задае, ці дазволена аўтаматычная перазапраўка.</CommandToggleAllowAutoRefuelDesc>
 
@@ -467,13 +467,13 @@
 
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>Аўтаматыч. загрузка</CommandAutoloadTransporters><!-- Скарочана, бо не ўлазіць у кнопку -->
+  <CommandAutoloadTransporters>Аўтазагрузка</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
   <CommandAutoloadTransportersDesc>Пераключыць загрузку ўсяго неабходнага грузу па меры таго, як ён становіцца наяўным.</CommandAutoloadTransportersDesc>
 
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
-  <CommandSelectPreviousTransporter>Вылучыць папярэдні ў групе запуску</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporter>Вылучыць папярэднюю ў групе запуску</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
   <CommandSelectPreviousTransporterDesc>Вылучыць папярэднюю транспартную капсулу ў гэтай групе запуску.</CommandSelectPreviousTransporterDesc>
 
@@ -533,13 +533,13 @@
   <!-- EN: Dismiss -->
   <CommandShuttleDismiss>Адпусціць</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
-  <CommandShuttleDismissDesc>Выгрузіць усё, што ёсць ў чоўне, і адправіць яго назад.</CommandShuttleDismissDesc>
+  <CommandShuttleDismissDesc>Выгрузіць усё, што ёсць у чоўне, і адправіць яго назад.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
   <CommandPlaceBlueprints>Размясціць праекты</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>Размясціць усе неабходныя праекты дзе гэта магчыма зрабіць.</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>Размясціць усе неабходныя праекты там, дзе гэта магчыма.</CommandPlaceBlueprintsDesc>
   <!-- EN: Place {0} blueprints -->
   <CommandPlaceBlueprintsSpecific>Размясціць праект {0}</CommandPlaceBlueprintsSpecific>
   <!-- EN: Place all {0} blueprints where possible. -->
@@ -638,7 +638,7 @@
   <!-- EN: Select all linked -->
   <SelectAllLinked>Выбраць усе звязаныя</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
-  <SelectAllLinkedDesc>Выбраць усе будынкі складаў, якія злучаны з гэтым будынкам.</SelectAllLinkedDesc>
+  <SelectAllLinkedDesc>Выбраць усе будынкі складоў, якія злучаны з гэтым будынкам.</SelectAllLinkedDesc>
 
   <!-- EN: {0_labelShort} is unconscious. -->
   <CommandDisabledUnconscious>{0_labelShort} непрытомны.</CommandDisabledUnconscious>
