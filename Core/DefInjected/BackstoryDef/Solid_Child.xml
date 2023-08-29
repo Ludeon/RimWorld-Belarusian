@@ -44,7 +44,7 @@
   <AccursedChild88.titleShort>праклятае дзіцё</AccursedChild88.titleShort>
   
   <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-  <AdventuringChild30.baseDesc>[PAWN_nameDef] {PAWN_gender ? гадаваўся : гадавалася} каб стаць інжынерам, але на працягу гадоў {PAWN_gender ?  ён планаваў : яна планавала} збегчы на грузавым караблі і пачаць новае, больш авантурнае жыццё. \n\nАдной ноччу, як [PAWN_possesive] бацькі паклаліся спаць, {PAWN_gender ? ён пракраўся : яна пракралася} на борт грузавога карабля амаль перад яго адлётам.</AdventuringChild30.baseDesc>
+  <AdventuringChild30.baseDesc>[PAWN_nameDef] {PAWN_gender ? гадаваўся : гадавалася}, каб стаць інжынерам, але на працягу гадоў {PAWN_gender ? ён планаваў : яна планавала} збегчы на грузавым караблі і пачаць новае, больш авантурнае жыццё.\n\nАдной ноччу, як [PAWN_possesive] бацькі паклаліся спаць, {PAWN_gender ? ён пракраўся : яна пракралася} на борт грузавога карабля амаль перад яго адлётам.</AdventuringChild30.baseDesc>
   <!-- EN: adventuring child -->
   <AdventuringChild30.title>авантурнае дзіцё</AdventuringChild30.title>
   <!-- EN: adventurer -->
