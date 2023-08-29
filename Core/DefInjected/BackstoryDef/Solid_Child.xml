@@ -23,7 +23,7 @@
   <Abductee43.titleShort>выкрадзенае дзіця</Abductee43.titleShort>
   
   <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
-  <Abductee7.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў выкрадзены : была выкрадзена} ксеналюдзьмі яшчэ немаўлём. Яны эксперыментавалі на {PAWN_gender ? ім : ёй} каб зразумець [PAWN_possesive] генэтычнае будаванне. \n\n Калі [PAWN_pronoun] {PAWN_gender ? пасталеў : пасталела}, [PAWN_nameDef] апынуўся крыху моцным да сваіх захопнікаў і {PAWN_gender ? ўцёк : ўцякла}.</Abductee7.baseDesc>
+  <Abductee7.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў выкрадзены : была выкрадзена} ксеналюдзьмі яшчэ немаўлём. Яны эксперыментавалі на {PAWN_gender ? ім : ёй}, каб зразумець [PAWN_possesive] генетычную структуру.\n\nКалі [PAWN_pronoun] {PAWN_gender ? пасталеў : пасталела}, [PAWN_nameDef] апынуўся занадта моцным для сваіх захопнікаў і {PAWN_gender ? ўцёк : ўцякла}.</Abductee7.baseDesc>
   <!-- EN: abductee -->
   <Abductee7.title>Выкрадзенае дзіця</Abductee7.title>
   <!-- EN: abductee -->
