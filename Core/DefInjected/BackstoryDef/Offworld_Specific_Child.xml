@@ -37,7 +37,7 @@
   <Scout44.titleShort>TODO</Scout44.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
-  <ShelterChild50.baseDesc>[PAWN_nameDef] {PAWN_gender ? вырас у : вырасла ў} сховішчы, глыбока пад зямлёй атручанага свету. [PAWN_pronoun] {PAWN_gender ? атрымаў усебаковую: атрымала ўсебаковую} адукацыю , але не {PAWN_gender ?  меў : мела} магчымасці рабіць фізічную працу.</ShelterChild50.baseDesc>
+  <ShelterChild50.baseDesc>[PAWN_nameDef] {PAWN_gender ? вырас у : вырасла ў} сховішчы, глыбока пад зямлёй атручанага свету. [PAWN_pronoun] {PAWN_gender ? атрымаў усебаковую: атрымала ўсебаковую} адукацыю , але не {PAWN_gender ? меў : мела} магчымасці займацца фізічнай працай.</ShelterChild50.baseDesc>
   <!-- EN: shelter child -->
   <ShelterChild50.title>дзіця сховішча</ShelterChild50.title>
   <!-- EN: shelterkid -->
