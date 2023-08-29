@@ -93,7 +93,7 @@
   <AnimalCaretaker20.titleShort>няглядчык</AnimalCaretaker20.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a technician in a lab studying animals.\n\n[PAWN_pronoun] spent [PAWN_possessive] days taking care of the animals and cleaning up after them. [PAWN_pronoun] dreamed of having [PAWN_possessive] own lab one day. -->
-  <AnimalLabTech39.baseDesc>[PAWN_nameDef] {PAWN_gender ? працаваў : працавала} тэхнікам у лабараторыі, вывучаючай жывёл. \n\n[PAWN_pronoun] днямі {PAWN_gender ? гадаваў : гадавала} іх і {PAWN_gender ? прыбіраў : прыбірала} за імі. [PAWN_nameDef] {PAWN_gender ? марыў : марыла} аб сваёй асабістай лабараторыі.</AnimalLabTech39.baseDesc>
+  <AnimalLabTech39.baseDesc>[PAWN_nameDef] {PAWN_gender ? працаваў : працавала} тэхнікам у лабараторыі, вывучаючай жывёл.\n\n[PAWN_pronoun] днямі {PAWN_gender ? гадаваў : гадавала} іх і {PAWN_gender ? прыбіраў : прыбірала} за імі. [PAWN_nameDef] {PAWN_gender ? марыў : марыла} аб сваёй асабістай лабараторыі.</AnimalLabTech39.baseDesc>
   <!-- EN: animal lab tech -->
   <AnimalLabTech39.title>лабараторны тэхнік</AnimalLabTech39.title>
   <!-- EN: lab tech -->
