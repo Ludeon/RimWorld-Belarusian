@@ -65,7 +65,7 @@
   <PsychiatricPatient94.titleShort>TODO</PsychiatricPatient94.titleShort>
   
   <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
-  <Sheriff52.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў : была} праваахоўнікам у ізаляваным індустрыяльным мястэчке. [PAWN_pronoun] {PAWN_gender ?  займаўся : займалася} дробнымі злачынствамі, вырашэннем спрэчак і выпадковай стралянінай у салуне.</Sheriff52.baseDesc>
+  <Sheriff52.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў : была} праваахоўнікам у ізаляваным індустрыяльным мястэчке. [PAWN_pronoun] {PAWN_gender ? займаўся : займалася} дробнымі злачынствамі, вырашэннем спрэчак і выпадковай стралянінай у салуне пад п'яную руку.</Sheriff52.baseDesc>
   <!-- EN: sheriff -->
   <Sheriff52.title>шэрыф</Sheriff52.title>
   <!-- EN: sheriff -->
