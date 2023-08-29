@@ -114,7 +114,7 @@
   <ApocalypseChild23.titleShort>разбураны свет</ApocalypseChild23.titleShort>
   
   <!-- EN: [PAWN_nameDef] was chosen at an early age by the village elders to keep the sacred rituals of the Oracle.\n\nAn irrepressibly curious child, [PAWN_nameDef] caused a religious crisis for [PAWN_possessive] tribe when [PAWN_pronoun] accidentally flipped a switch to open the "tombs" of the Gods - cryptosleep caskets inhabited by some very confused ancestors. -->
-  <ApprenticeOracle83.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў вызначаны: была вызначаная} вясковымі старэйшынамі каб захаваць святыя рытуалы Аракула. \n\nЯк нястрыманае, цікаўнае дзіцё, [PAWN_pronoun] {PAWN_gender ? справакаваў : справакавала}  рэлігійны крызіс, калі выпадкова {PAWN_gender ? ціснуў : ціснула} перамыкач, які адчыняў "палац" Багоў - капсулы крыптасну, ў якіх апынуліся дужа збянтэбаныя продкі.</ApprenticeOracle83.baseDesc>
+  <ApprenticeOracle83.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў вызначаны: была вызначаная} вясковымі старэйшынамі, каб захаваць святыя рытуалы Аракула.\n\nЯк нястрыманае, цікаўнае дзіцё, [PAWN_pronoun] {PAWN_gender ? справакаваў : справакавала} рэлігійны крызіс, калі выпадкова {PAWN_gender ? ціснуў : ціснула} перамыкач, які адчыняў "палац" Багоў: капсулы крыптасну, ў якіх апынуліся дужа збянтэжаныя продкі.</ApprenticeOracle83.baseDesc>
   <!-- EN: apprentice oracle -->
   <ApprenticeOracle83.title>вучань Аракула</ApprenticeOracle83.title>
   <!-- EN: oracle -->
