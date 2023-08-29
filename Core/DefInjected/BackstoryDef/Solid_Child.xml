@@ -79,7 +79,7 @@
   <AmateurEngineer3.titleShort>інжынер</AmateurEngineer3.titleShort>
   
   <!-- EN: [PAWN_nameDef] trained towards [PAWN_possessive] dream of working for [PAWN_possessive] hometown's local council.\n\nFor reasons [PAWN_pronoun] never quite understood, [PAWN_pronoun] was bullied relentlessly by [PAWN_possessive] classmates. [PAWN_pronoun] chose to repress [PAWN_possessive] rage. -->
-  <AngryStudent88.baseDesc>[PAWN_nameDef] {PAWN_gender ? рыхтаваўся : рыхтавалась} да сваёй мары - працы ў мясцовым савеце [PAWN_possessive] роднага мястэчка. \n\nПа неразумелым для [PAWN_possessive] нагодам, [PAWN_possessive] бязлітасна цкавалі ў школе.[PAWN_nameDef] {PAWN_gender ? вырашыў : вырашыла} стрымліваць лютасць на іх у сябе.</AngryStudent88.baseDesc>
+  <AngryStudent88.baseDesc>[PAWN_nameDef] {PAWN_gender ? рыхтаваўся : рыхтавалась} да сваёй мары: працы ў мясцовым савеце [PAWN_possessive] роднага мястэчка.\n\nПа неразумелым для [PAWN_possessive] нагодам, [PAWN_possessive] бязлітасна цкавалі ў школе. [PAWN_nameDef] {PAWN_gender ? вырашыў : вырашыла} стрымліваць лютасць на іх у сябе.</AngryStudent88.baseDesc>
   <!-- EN: angry student -->
   <AngryStudent88.title>люты студэнт</AngryStudent88.title>
   <!-- EN: student -->
