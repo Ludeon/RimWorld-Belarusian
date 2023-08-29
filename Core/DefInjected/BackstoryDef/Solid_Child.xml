@@ -4,7 +4,7 @@
   <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
   <AbandonedChild30.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў : была} кемлівым, вясёлым дзіцём. Аднойчы [PAWN_pronoun] {PAWN_gender ? уцёк : ўцякла} ад сваіх заможных бацькоў і {PAWN_gender ? схаваўся : схавалася} ў закінутым рудным складзе. З-за магчымасці кланавання, [PAWN_possesive] бацькі вырашылі, што лепш зрабіць сабе {PAWN_gender ? лепшага сына : лепшую дачку}, чым марнаваць час на пошукі.</AbandonedChild30.baseDesc>
   <!-- EN: abandoned child -->
-  <AbandonedChild30.title>кінутае дзіцё</AbandonedChild30.title>
+  <AbandonedChild30.title>пакінутае дзіцё</AbandonedChild30.title>
   <!-- EN: abandoned -->
   <AbandonedChild30.titleShort>кінутае дзіцё</AbandonedChild30.titleShort>
   
