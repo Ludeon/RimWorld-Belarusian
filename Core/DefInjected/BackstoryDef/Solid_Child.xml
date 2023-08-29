@@ -16,7 +16,7 @@
   <AbandonedOrphan61.titleShort>сірата</AbandonedOrphan61.titleShort>
   
   <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-  <Abductee43.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў выкрадзены : была выкрадзена} ў маленстве і {PAWN_gender ? быў прымушаны : была прымушана} да маруднай працы на пірацкім караблі.</Abductee43.baseDesc>
+  <Abductee43.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў выкрадзены : была выкрадзена} ў маленстве і {PAWN_gender ? прымушаны : прымушана} да маруднай працы на пірацкім караблі.</Abductee43.baseDesc>
   <!-- EN: abductee -->
   <Abductee43.title>выкрадзенае дзіця</Abductee43.title>
   <!-- EN: abductee -->
