@@ -58,7 +58,7 @@
   <AdventurousYouth70.titleShort>авантурнае дзіцё</AdventurousYouth70.titleShort>
   
   <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-  <AmateurAstronomer77.baseDesc>[PAWN_nameDef] {PAWN_gender ? захапляўся : захаплялась} астраноміяй. [PAWN_pronoun] гадзінамі сачыў за планетамі і зоркавымі туманнасцямі цераз тэлескоп. \n\nВядома, што [PAWN_pronoun] вызначыў маленькую камету, што праз гады абрынецца на спадарожнік [PAWN_pronoun] планеты і спыніць там горную здабычу.</AmateurAstronomer77.baseDesc>
+  <AmateurAstronomer77.baseDesc>[PAWN_nameDef] {PAWN_gender ? захапляўся : захаплялась} астраноміяй. [PAWN_pronoun] гадзінамі сачыў за планетамі і зоркавымі туманнасцямі праз тэлескоп. \n\nВядома, што [PAWN_pronoun] вызначыў маленькую камету, што праз гады абрынецца на спадарожнік [PAWN_pronoun] планеты і спыніць там горную здабычу.</AmateurAstronomer77.baseDesc>
   <!-- EN: amateur astronomer -->
   <AmateurAstronomer77.title>астраном-аматар</AmateurAstronomer77.title>
   <!-- EN: astronomer -->
