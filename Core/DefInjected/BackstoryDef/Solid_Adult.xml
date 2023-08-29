@@ -1542,7 +1542,7 @@
   <ShockTrooper15.titleShort>жаўнер</ShockTrooper15.titleShort>
   
   <!-- EN: As a lawyer, [PAWN_nameDef] could convict a deaf man for stealing music. [PAWN_possessive] sharp mind and lack of empathy let [PAWN_objective] say anything to get the other person to talk. With the right amount of money, [PAWN_pronoun] knew, any case can be won.\n\n[PAWN_possessive] childhood cough never went away. -->
-  <SicklyLawyer49.baseDesc>Як і належыць адвакату, [PAWN_nameDef] можа абвінаваціць нямога ў зняважлівых выкрыках. [PAWN_possessive] востры розум і немагчымасць да спачування дазволіць любога чалавека размаўляць. [PAWN_pronoun] ведаў што з неабходнай колькасцю грошай можна перамагчы ў любым судзе.\n\n Кашаль пераследуе [PAWN_possessive] з дзяцінства.</SicklyLawyer49.baseDesc>
+  <SicklyLawyer49.baseDesc>Як і належыць адвакату, [PAWN_nameDef] можа абвінаваціць нямога ў зняважлівых выкрыках. [PAWN_possessive] востры розум і няздольнасць да спачування дазваляе яму размовіць любога чалавека. [PAWN_pronoun] ведаў, што з неабходнай колькасцю грошай можна перамагчы ў любым судзе.\n\nКашаль пераследуе [PAWN_possessive] з дзяцінства.</SicklyLawyer49.baseDesc>
   <!-- EN: sickly lawyer -->
   <SicklyLawyer49.title>хворы адвакат</SicklyLawyer49.title>
   <!-- EN: lawyer -->
