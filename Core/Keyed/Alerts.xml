@@ -2,336 +2,336 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>TODO</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Клікніце, каб перайсці да праблемы</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>TODO</BreakRiskMinor>
+  <BreakRiskMinor>Рызыка нязначнага вар'яцтва</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>TODO</BreakRiskMajor>
+  <BreakRiskMajor>Рызыка значнага вар'яцтва</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>TODO</BreakRiskExtreme>
+  <BreakRiskExtreme>Рызыка радыкальнага вар'яцтва</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>TODO</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Гэтыя сяленцы ў дрэнным настроі, і гэта можа перайсці ў нязначнае вар'яцтва ў любы час:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>TODO</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Гэтыя сяленцы ў вельмі дрэнным настроі, і гэта можа перайсці ў значнае вар'яцтва ў любы час:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>TODO</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>Гэтыя сяленцы крытычна напружаны, і гэта можа перайсці ў радыкальнае (і, верагодна, гвалтоўнае) вар'яцтва ў любы час:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>TODO</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Праглядзіце ўкладку «Патрэбы» гэтых сяленцаў, каб вызначыць, што іх турбуе.\n\nКаб палепшыць самаадчуванне сяленцаў, вы можаце гатаваць ім смачныя стравы, дадаць часу для адпычынку, стварыць больш прыемныя аб'екты для адпачынку, зрабіць іх асяроддзе больш прыгожым, дазволіць ім выпіваць, паліць і многа чаго яшчэ.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue>TODO</ColonistNeedsRescue>
+  <ColonistNeedsRescue>Сяленцу патрабуецца дапамога</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
-  <ColonistsNeedRescue>TODO</ColonistsNeedRescue>
+  <ColonistsNeedRescue>Сяленцам патрабуецца дапамога</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>TODO</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Гэтыя сяленцы няздольны самастойна ўстаць з зямлі:\n\n{0}\nАдпраўце іншых сяленцаў, каб выратаваць іх і аднесці ў ложкі.\n\n(Для ратавання выберыце іншага сяленца, потым клікніце правай кнопкай мышы па ахвяры і выберыце пункт «Выратаваць»).</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>TODO</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>Гэтыя сяленцы няздольны самастойна ўстаць з зямлі:\n\n{0}\nАдпраўце іншых сяленцаў, каб выратаваць іх і аднесці ў ложкі.\n\n(Для ратавання выберыце іншага сяленца, потым клікніце левым курком па ахвяры і выберыце пункт «Выратаваць»).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>TODO</NeedDefenses>
+  <NeedDefenses>Патрэбны абарончыя пабудовы</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>TODO</NeedDefensesDesc>
+  <NeedDefensesDesc>Вы тут ужо некаторы час, і вас, верагодна, прыкмецілі. Хутка пачнуцца напады.\n\nВам трэба падрыхтаваць абарончыя пабудовы, напрыклад, мяхі з пяском або пасткі.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>TODO</NeedDoctor>
+  <NeedDoctor>Патрэбны лекар</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>TODO</NeedDoctorDesc>
+  <NeedDoctorDesc>Гэтым сяленцам патрабуецца медыцынскі дагляд, але ў вас няма здаровых лекараў.\n\n{0}\nПрызначце здароваму сяленцу тып працы «Лекар». Раны могуць ніколі не загаіцца і застацца назаўсёды, калі пакінуць іх без лячэння.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
-  <NeedMiner>TODO</NeedMiner>
+  <NeedMiner>Патрэбны шахцёр</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>TODO</NeedMinerDesc>
+  <NeedMinerDesc>Вы прызначылі шахцёрскія работы, але ніводнаму сяленцу не прызначаны тып працы «Шахцёр».\n\nПрызначце камусьці тып працы «Шахцёр».</NeedMinerDesc>
 
   <!-- EN: Need warden -->
-  <NeedWarden>TODO</NeedWarden>
+  <NeedWarden>Патрэбны наглядчык</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>TODO</NeedWardenDesc>
+  <NeedWardenDesc>У вас ёсць зняволены, але ніводнаму сяленцу не прызначаны тып працы «Наглядчык».\n\nПрызначце камусьці тып працы «Наглядчык».</NeedWardenDesc>
 
   <!-- EN: Low food -->
-  <LowFood>TODO</LowFood>
+  <LowFood>Мала ежы</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>TODO</LowFoodDesc>
+  <LowFoodDesc>У вас небяспечна мала ежы.\n\n    Прыдатнай для спажывання ежы на складзе: {0}\n    Сяленцы і зняволеныя атрымліваюць {1} адз. ежы\n    Гэтай ежы хопіць на {2_numCase ? дзень : дня : дзён}\n\nВырасціце, набудзьце, знайдзіце або забейце якую-небудзь ежу.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
-  <LowMedicine>TODO</LowMedicine>
+  <LowMedicine>Мала лекаў</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>TODO</LowMedicineDesc>
+  <LowMedicineDesc>У вас ёсць усяго {0_numCase ? медыкамент : медыкамента : медыкаментаў} на складзе.\n\nНабудзьце больш лекаў у гандлёўцаў.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>TODO</NoMedicineDesc>
-  
+  <NoMedicineDesc>У вас не засталося лекаў на складзе.\n\nНабудзьце больш лекаў у гандлёўцаў.</NoMedicineDesc>
+
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>TODO</NeedColonistBeds>
+  <NeedColonistBeds>Патрэбны ложкі для сяленцаў</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>TODO</NeedColonistBedsDesc>
-  
+  <NeedColonistBedsDesc>У вас больш сяленцаў, чым ложкаў для іх. Камусьці недзе спаць.\n\nПабудуйце больш ложкаў або перапрызначце ложкі зняволеных для выкарыстання сяленцамі.\n\nКалі ў вас не хапае рэсурсаў, вы можаце пабудаваць спальныя месцы: яны дармавыя і могуць быць размешчаны імгненна.</NeedColonistBedsDesc>
+
   <!-- EN: Colonist left unburied -->
-  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburied>Сяленец пакінуты непахаваным</AlertColonistLeftUnburied>
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
-  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburiedDesc>Адзін з сяленцаў пакінуты непахаваным.\n\nГэта можа негатыўна паўплываць на настрой іншых сяленцаў.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
-  <HunterLacksWeapon>TODO</HunterLacksWeapon>
+  <HunterLacksWeapon>Паляўнічаму не хапае зброі для далёкага бою</HunterLacksWeapon>
   <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.\n\nThe following colonists are assigned as hunters and need ranged weapons -->
-  <HunterLacksWeaponDesc>TODO</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Сяленец прызначаны паляваць, але ў яго няма зброі для далёкага бою.\n\nЁн не будзе займацца гэтай працай, пакуль не атрымае неабходную зброю.\n\nГэтыя сяленцы прызначаны паляваць і ім патрабуецца зброя для далёкага бою</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>TODO</AlertTatteredApparel>
+  <AlertTatteredApparel>Падранае адзенне</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>TODO</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Гэтыя сяленцы носяць падранае адзенне і сумуюць з-за гэтага:\n\n{0}\nЗнайдзіце ім адзенне, якое не так моцна пашкоджана.\n\nВы можаце пашыць адзенне на месцы для вырабу і на кравецкім стале або набыць яго ў гандлёўцаў.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>TODO</AlertUnhappyNudity>
+  <AlertUnhappyNudity>Голыя і засмучаныя</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>TODO</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>Гэтыя сяленцы голыя, і ім гэта не падабаецца:\n\n{0}\nЗнайдзіце ім якое-небудзь адзенне.\n\nВы можаце пашыць аддзенне на месцы для вырабу і на кравецкім стале або набыць яго ў гандлёўцаў.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
-  <Starvation>TODO</Starvation>
+  <Starvation>Голад</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>TODO</StarvationDesc>
+  <StarvationDesc>Гэтыя сяленцы галадаюць:\n\n{0}\nЗнайдзіце ім якой-небудзь ежы.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>TODO</StarvationAnimals>
+  <StarvationAnimals>Голад жывёл</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>TODO</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Гэтыя жывёлы селішча галадаюць:\n\n{0}\nЗнайдзіце ім якой-небудзь ежы.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
-  <Exhaustion>TODO</Exhaustion>
+  <Exhaustion>Змардаванасць</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>TODO</ExhaustionDesc>
+  <ExhaustionDesc>Гэтыя сяленцы змардаваны і ім патрабуецца адпачынак:\n\n{0}\nДазвольце ім адпачыць. Ім патрабуецца ложак, якім могуць карыстацца сяленцы. Таксама ўпэўніцеся, што яны не ў прызыве.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>TODO</NeedFoodHopper>
+  <NeedFoodHopper>Патрэбна лейка для ежы</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>TODO</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>У вас ёсць размеркавальнік пажыўных рэчываў, але няма лейкі побач з ім.\n\nЯна патрэбна, каб ён мог працаваць і ў яго можна было загружаць сырыя прадукты.\n\nПабудуйце лейку побач з размеркавальнікам.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
-  <NeedMealSource>TODO</NeedMealSource>
+  <NeedMealSource>Патрэбна месца для гатавання ежы</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>TODO</NeedMealSourceDesc>
+  <NeedMealSourceDesc>У вас няма месца, дзе можна гатаваць стравы з сырых прадуктаў.\n\nПабудуйце кухонную пліту, вогнішча або размеркавальнік пажыўных рэчываў.\n\n(Калі яны будуць размешчаны ў цэлі, сяленцы не змогуць карыстацца імі).</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>TODO</NeedJoySource>
+  <NeedJoySource>Патрэбны больш разнастайныя тыпы адпачынку</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>TODO</NeedJoySourceDesc>
+  <NeedJoySourceDesc>У селішчы {1} ёсць усяго {0_numCase ? тып : тыпы : тыпаў} адпачынку, але на бягучым узроўні чаканняў ({2}) сяленцам патрабуецца {3_numCase ? розны тып : розныя тыпы : розных тыпаў} адпачынку, каб заставацца задаволенымі. Забяспечце разнастайнасць шляхам давання новых, іншых тыпаў адпачынку.\n\n{4}\n\n{5}\n\nУвага: вы можаце вызначыць тып адпачынку любой рэчы на ўкладке «Статыстыка», якую можна адкрыць з дапамогай клавішы «i».</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
+  <AvailableRecreationTypes>Наяўныя тыпы адпачынку</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>TODO</MissingRecreationTypes>
+  <MissingRecreationTypes>Адсутныя тыпы адпачынку</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>На бягучым узроўні чаканняў ({0}) звыкласць зніжаецца на {1} за дзень няспання. Раіцца мець хаця б {2_numCase ? тып : тыпы : тыпаў} адпачынку.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>TODO</bored>
+  <bored>сумуе</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>TODO</Boredom>
+  <Boredom>Нуда</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>TODO</BoredomDesc>
+  <BoredomDesc>Гэтым людзям патрабуецца адпачынак, або ім ужо надакучылі ўсе наяўныя тыпы адпачынку:\n\n{0}\n\nЗрабіце іх адпачынак больш разнастайным.\n\n{PAWN_labelShort} можа карыстацца наступнымі наяўнымі тыпамі адпачынку:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>TODO</NeedBatteries>
+  <NeedBatteries>Патрабуюцца батарэі</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
-  <NeedBatteriesDesc>TODO</NeedBatteriesDesc>
+  <NeedBatteriesDesc>У вас ёсць сонечныя панэлі і ветракі, але няма батарэй. Вы будзеце страчваць сілкаванне кожны раз, калі заходзіць сонца або сцішаецца вецер.</NeedBatteriesDesc>
   <!-- EN: Build a battery or two to guarantee sustained power. -->
-  <NeedBatteriesResearchedDesc>TODO</NeedBatteriesResearchedDesc>
+  <NeedBatteriesResearchedDesc>Пабудуйце адну або некалькі батарэй, каб гарантаваць бесперапыннае сілкаванне.</NeedBatteriesResearchedDesc>
   <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
-  <NeedBatteriesNotResearchedDesc>TODO</NeedBatteriesNotResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>Даследуйце і пабудуйце адну або некалькі батарэй, каб гарантаваць бесперапыннае сілкаванне.</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
-  <BrawlerHasRangedWeapon>TODO</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeapon>Задзірака носіць зброю для далёкага бою.</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>TODO</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>Адзін з вашых сяленцаў мае рысу «Задзірака» і носіць зброю для далёкага бою. Гэта вымушае яго сумаваць.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
-  <ShieldUserHasRangedWeapon>TODO</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeapon>Шчыт перашкаджае выкарыстоўваць зброю для далёкага бою</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>TODO</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Адзін з вашых сяленцаў носіць пояс-шчыт і зброю для далёкага бою. Ён не можа паліць з гэтый зброі праз шчыт (не датычыцца мішэняў, якія ўжо непасрэдна дацягваюцца да сяленца).</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>TODO</NeedResearchProject>
+  <NeedResearchProject>Патрэбны праект для даследавання</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>TODO</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>У вас ёсць абсталяванне для даследаванняў, але вы не выбралі праект.\n\nАдкрыйце меню даследаванняў і выберыце праект.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>TODO</ColonistsIdle>
+  <ColonistsIdle>{0_numCase ? сяленец : сяленцы : сяленцаў} незаняты</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>TODO</ColonistsIdleDesc>
-  
+  <ColonistsIdleDesc>Гэтыя сяленцы бяздзейна блукаюць:\n\n{0}\nВам, верагодна, трэба заняць іх чым-небудзь карысным.</ColonistsIdleDesc>
+
   <!-- EN: Caravan idle -->
-  <CaravanIdle>TODO</CaravanIdle>
+  <CaravanIdle>Караван прастойвае</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
-  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+  <CaravanIdleDesc>Гэтыя караваны чакаюць, каб вы прызначылі іх наступнае месца прызначэння:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Medical treatment needed -->
-  <ColonistNeedsTreatment>TODO</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>Патрэбны медыцынскі дагляд</ColonistNeedsTreatment>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>TODO</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Гэтым людзям патрэбны медыцынскі дагляд. Без яго яны могуць загінуць з-за ран, або гэтыя раны могуць застацца назаўсёды.\n\n{0}\nАдпраўце іх у медыцынскі ложак, каб даглядаць іх.\n\n(Спачатку выберыце ложак і прызначце яго медыцынскім з дапамогай адпаведнага пераключальніка. Потым выберыце параненага чалавека і клікніце правай кнопкай мышы па медыцынскаму ложку, каб зрабіць яго пацыентам).</ColonistNeedsTreatmentDesc>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDescController>TODO</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatmentDescController>Гэтым людзям патрэбны медыцынскі дагляд. Без яго яны могуць загінуць з-за ран, або гэтыя раны могуць застацца назаўсёды.\n\n{0}\nАдпраўце іх у медыцынскі ложак, каб даглядаць іх.\n\n(Спачатку выберыце ложак і прызначце яго медыцынскім з дапамогай адпаведнага пераключальніка. Потым выберыце параненага чалавека і клікніце левым курком па медыцынскаму ложку, каб зрабіць яго пацыентам).</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
-  <AlertHypothermia>TODO</AlertHypothermia>
+  <AlertHypothermia>Гіпатэрмія</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>TODO</AlertHypothermiaDesc>
-  
+  <AlertHypothermiaDesc>Гэтыя сяленцы пакутуюць ад гіпатэрміі:\n\n{0}\nУпэўніцеся, што іх адзенне адпавядае пары года, і што ўнутраныя прасторы нагрэтыя як належыць.</AlertHypothermiaDesc>
+
   <!-- EN: {0} patients await medical operation -->
-  <PatientsAwaitingMedicalOperation>TODO</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>{0_numCase ? пацыент : пацыенты : пацыентаў} чакаюць аперацыі</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>TODO</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Гэтыя пацыенты чакаюць аперацыі:\n\n{0}\nУпэўніцеся, што ў вас ёсць усё неабходнае медыцынскае абсталяванне і незаняты лекар.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
-  <FireInHomeArea>TODO</FireInHomeArea>
+  <FireInHomeArea>Пажар!</FireInHomeArea>
   <!-- EN: There is a fire in the home area. -->
-  <FireInHomeAreaDesc>TODO</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Нешта гарыць у хатняй вобласці.</FireInHomeAreaDesc>
 
   <!-- EN: Medical emergency -->
-  <PawnsWithLifeThreateningDisease>TODO</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>Медыцынская трывога</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>TODO</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Людзі рызыкуюць памерці з-за сур'ёзных хвароб:\n\n{0}\nУпэўніцеся, што яны атрымліваюць найлепшы наяўны медыцынскі дагляд.</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>TODO</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Людзі рызыкуюць памерці з-за сур'ёзных хвароб:\n\n{0}\nКалі гэта магчыма, разглядзіце ампутацыю або замену заражаных канечнасцяў, каб захаваць жыццё сяленцаў.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
-  <BilliardsNeedsSpace>TODO</BilliardsNeedsSpace>
+  <BilliardsNeedsSpace>Більярдны стол патрабуе больш месца</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
-  <BilliardsNeedsSpaceDesc>TODO</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>Нешта знаходзіцца побач з вашым більярдным сталом і перашкаджае сяленцам карыстацца ім.\n\nДля більярднага стала патрабуецца вольнае месца з усіх бакоў.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Chess table needs chairs -->
-  <ChessTablesNeedChairs>TODO</ChessTablesNeedChairs>
+  <ChessTablesNeedChairs>Для шахматнага стала патрабуюцца крэслы</ChessTablesNeedChairs>
   <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
-  <ChessTablesNeedChairsDesc>TODO</ChessTablesNeedChairsDesc>
+  <ChessTablesNeedChairsDesc>Побач з адным з вашых шахматных сталоў няма ніводнага крэсла.\n\nПабудуйце крэслы або табурэткі побач з шахматным сталом, каб дазволіць вашым сяленцам карыстацца ім. Адначасова шахматны стол могуць выкарыстоўваць да двух чалавек.</ChessTablesNeedChairsDesc>
 
   <!-- EN: Poker table needs chairs -->
-  <PokerTablesNeedChairs>TODO</PokerTablesNeedChairs>
+  <PokerTablesNeedChairs>Для покернага стала патрабуюцца крэслы</PokerTablesNeedChairs>
   <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
-  <PokerTablesNeedChairsDesc>TODO</PokerTablesNeedChairsDesc>
+  <PokerTablesNeedChairsDesc>Побач з адным з вашых покерных сталоў няма ніводнага крэсла.\n\nПабудуйце крэслы або табурэткі побач з покерным сталом, каб дазволіць вашым сяленцам карыстацца ім. Адначасова покерны стол могуць выкарыстоўваць да васьмі чалавек.</PokerTablesNeedChairsDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>TODO</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>Шчыт перашкаджае паляўнічаму карыстацца зброяй для далёкага бою</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>TODO</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Адзін з вашых паляўнічых носіць пояс-шчыт, які перашкаджае яму страляць са зброі для далёкага бою.\n\nЁн не будзе здольны паляваць да таго, пакуль шчыт не будзе прыбраны.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>TODO</NeedWarmClothes>
+  <NeedWarmClothes>Патрабуецца цёплае адзенне</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>TODO</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>Прынамсі {0_numCase : сяленцу : сяленцам : сяленцам} не будзе хапаць цёплага адзення калі надыдуць халады.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>TODO</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>Усім вашым сяленцам не будзе хапаць цёплага адзення калі надыдуць халады.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>TODO</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>Тэмпература звонку дасягне {0}.\n\nВы можаце пашыць цёплае адзенне на кравецкім стале або набыць яго ў гандлёўцаў.</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>TODO</ImmobileCaravan>
+  <ImmobileCaravan>Караван не можа рухацца</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>TODO</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Адзін з вашых караванаў не можа рухацца, таму што ён вязе занадта шмат рэчаў.\n\nВы можаце працягнуць рух каравана, калі выкінеце нешта з дапамогай укладкі «РЭЧЫ».</ImmobileCaravanDesc>
 
   <!-- EN: Building unusable due to roof -->
-  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofed>Пабудова непрыдатная для выкарыстання з-за даху</BuildingCantBeUsedRoofed>
   <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
-  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofedDesc>Адна або некалькі з вашых пабудоў знаходзяцца пад дахам і не могуць быць выкарыстаны, пакуль вы не прыбераце яго.</BuildingCantBeUsedRoofedDesc>
 
   <!-- EN: Heatstroke -->
-  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <AlertHeatstroke>Цеплавы ўдар</AlertHeatstroke>
   <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+  <AlertHeatstrokeDesc>Наступныя людзі пакутуюць ад цеплавога ўдару:\n\n{0}\nАдпраўце іх у менш спякотнае месца. Вы можаце астуджваць памяшканні з дапамогай пасіўных ахаладжальнікаў або электрычных кандыцыянераў. Глыбокія падземныя прасторы захоўваюць прыродную прахалоду, калі яны абмежаваны дзвярмі звонку.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
-  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThreshold>Госць засмучаны</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
-  
+  <QuestPartMoodBelowThresholdDesc>Заданне {0} патрабуе, каб вы трымалі гэтага чалавека ў добрым настроі, аднак жа ён у дрэнным настроі. Зрабіце нешта, каб ён адчуваў сябе лепш:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+
   <!-- EN: Shuttle leaving in {0} -->
-  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>Човен адпраўляецца праз {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDesc>Човен адправіцца праз {1}. Заданне {0} патрабуе загрузіць у яго наступных людзей і рэчы да адпраўлення:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
-  <QuestPartShuttleLeaveDelayDescHidden>TODO</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleLeaveDelayDescHidden>Човен адправіцца праз {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Shuttle arriving in {0} -->
-  <QuestPartShuttleArriveDelay>TODO</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelay>Човен прыбывае праз {0}</QuestPartShuttleArriveDelay>
   <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
-  <QuestPartShuttleArriveDelayDesc>TODO</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDesc>Човен прыбудзе праз {1}. Заданне {0} патрабуе загрузіць у яго наступных людзей і рэчы да адпраўлення:\n\n{2}</QuestPartShuttleArriveDelayDesc>
   <!-- EN: A shuttle will arrive in {0}. -->
-  <QuestPartShuttleArriveDelayDescHidden>TODO</QuestPartShuttleArriveDelayDescHidden>
+  <QuestPartShuttleArriveDelayDescHidden>Човен прыбудзе праз {0}.</QuestPartShuttleArriveDelayDescHidden>
 
   <!-- EN: Monument will be destroyed -->
-  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonument>Помнік будзе зруйнаваны</DisallowedBuildingInsideMonument>
   <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
-  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonumentDesc>Вы зрабілі недазволеную пабудову ўнутры вашага помніка. Ён будзе лічыцца зруйнаваным праз {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <!-- EN: Countdown activator {0} -->
-  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <ActivatorCountdown>Актыватар з адваротным адлікам {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>Актыватар адлічвае час, які застаўся да абуджэння механоідаў паблізу.</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
-  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <ActivatorCountdownMultiple>{0_numCase ? актыватар : актыватары : актыватараў} з адваротным адлікам</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>{0_numCase ? актыватар адлічвае : актыватары адлічваюць : актыватараў адлічваюць} час, які застаўся да абуджэння механоідаў паблізу.</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
-  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <QuestExpiresSoon>Тэрмін задання скончыцца праз {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Тэрмін задання «{0}» скончыцца праз {1}.</QuestExpiresSoonDesc>
 
   <!-- EN: Animal filth -->
-  <AlertAnimalFilth>TODO</AlertAnimalFilth>
+  <AlertAnimalFilth>Бруд ад жывёл</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
-  <AlertAnimalFilthDesc>TODO</AlertAnimalFilthDesc>
+  <AlertAnimalFilthDesc>Недзе ўнутры знаходзіцца жывёла, якая пэцкае чыстую падлогу.\n\nАд жывёл, якія ходзяць па звычайнай падлоге, застаецца вялізная колькасць бруду. Трымайце гэтых жывёл звонку або сцяліце для іх салому: на ёй яны будуць пакідаць значна менш бруду.\n\nВы можаце вызначыць хуткасць стварэння бруду на ўкладке «Статыстыка», якую можна адкрыць з дапамогай клавішы «i».\n\nПраблемныя жывёлы:\n{0}</AlertAnimalFilthDesc>
 
   <!-- EN: Pen needed -->
-  <AlertAnimalPenNeeded>TODO</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeeded>Патрэбны пастаўнік</AlertAnimalPenNeeded>
   <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
-  <AlertAnimalPenNeededDesc>TODO</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededDesc>Некаторыя з вашых свойскіх жывёл звыклі бадзяцца. Яны разбрыдуцца, калі трымаць іх не ў пастаўніку або не прывязваць да месца стаянкі каравана.</AlertAnimalPenNeededDesc>
   <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
-  <AlertAnimalPenNeededNoHandlers>TODO</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededNoHandlers>У вас няма ніводнага жывёлагадоўца, які можа адвесці жывёл у пастаўнік.\n\nПрызначце камусьці тып працы «Жывёлагадовец».</AlertAnimalPenNeededNoHandlers>
   <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
-  <AlertAnimalPenNeededDescExplanation>TODO</AlertAnimalPenNeededDescExplanation>
-  
+  <AlertAnimalPenNeededDescExplanation>Пабудуйце паказальнік пастаўніка на абгароджанай плотам, сценамі або барыкадамі тэрыторыі, каб стварыць пастаўнік. Выберыце паказальнік пастаўніка, каб вызначыць, колькі і якіх жывёлы можа знаходзіцца ў ім.\n\nВашы жывёлагадоўцы будуць аўтаматычна адводзіць жывёл у пастаўнікі, да якіх яны прызначаны.\n\nПастаўніку патрэбны дзверы або брама, каб жывёлы маглі ў яго ўвайсці.</AlertAnimalPenNeededDescExplanation>
+
   <!-- EN: Pen not enclosed -->
-  <AlertAnimalPenNotEnclosed>TODO</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosed>Пастаўнік не абгароджаны</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>Паказальнік пастаўніка не абгароджаны.\n\nАбгарадзіце яго з дапамогай плота, барыкад, сцен або дзвярэй, каб вашы жывёлы не разбрыліся.\n\nКалі ў вас ёсць толькі неабгароджаныя пастаўнікі, вашы жывёлагадоўцы таксама змогуць вярнуць жывёл дадому, але яны будуць павінны выконваць гэта час ад часу, калі жывёлы зноў пачнуць разбрыдацца.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: {ANIMAL_labelShort} in animal pen -->
-  <AlertPredatorInAnimalPen>TODO</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} знаходзіцца ў пастаўніку</AlertPredatorInAnimalPen>
   <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
-  <AlertPredatorInAnimalPenDesc>TODO</AlertPredatorInAnimalPenDesc>
+  <AlertPredatorInAnimalPenDesc>Драпежная жывёла {ANIMAL_labelShort} увайшла ў пастаўнік.\n\nЯна можа пачаць паляваць на вашых жывёл.\n\nВы можаце забіць яе або спадзявацца, што яна пакіне пастаўнік самастойна.</AlertPredatorInAnimalPenDesc>
 
   <!-- EN: Animal wandering away -->
-  <AlertAnimalIsRoaming>TODO</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoaming>Жывёлы разбрыдаюцца</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
-  <AlertAnimalIsRoamingDesc>TODO</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoamingDesc>Некаторыя з вашых свойскіх жывёл звыклі бадзяцца і ўжо пачалі разбрыдацца. Яны знікнуць, калі дасягнуць краю мапы.\n\nКалі ў вас ёсць абгароджаны пастаўнік, вашы жывёлагадоўцы могуць вярнуць гэтых жывёл назад. Жывёлы ў пастаўніку не будуць бадзяцца.\n\nНаступныя жывёлы разбрыдаюцца:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
-  <AlertPennedAnimalHungry>TODO</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungry>Жывёлы ў пастаўніку галодныя</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
-  <AlertPennedAnimalHungryDesc>TODO</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>Некаторыя з вашых сельскагаспадарчых жывёл галодныя.\n\nВыберыце паказальнік пастаўніка і праглядзіце ўкладку «Ежа» для дадатковых звестак.\n\nДля траваедных жывёл можа быць патрэбны больш вялікі пастаўнік, у якім расце больш травы. Іншым жывёлам можа быць патрэбна сена і падобная ежа на складзе.\n\nНаступныя сельскагаспадарчыя жывёлы галодныя:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
-  <AlertHitchedAnimalHungryNoFood>TODO</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFood>Прывязаныя жывёлы галодныя</AlertHitchedAnimalHungryNoFood>
   <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
-  <AlertHitchedAnimalHungryNoFoodDesc>TODO</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertHitchedAnimalHungryNoFoodDesc>Некаторыя з жывёл, прывязаных да месца стаянкі каравана, галодныя. Магчыма, побач з імі няма ежы, якая ім падыходзіць.\n\nПрынясіце ім ежы, або выдаліце месца стаянкі каравана, каб яны маглі знайсці сабе ежу самастойна.\n\nНаступныя прывязаныя жывёлы галодныя:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
-  <AlertTimedRaidsArrivingIn>TODO</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingIn>Напады пачнуцца праз {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>TODO</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>Наступныя месцы прыцягнулі ўвагу ворагаў, і яны хутка пачнуць нападаць на іх.\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
-  <AlertTimedRaidsArrivingAt>TODO</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingAt>Прыбыццё ў {0} праз {1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
-  <FactionWillBecomeHostileIfNotLeavingWithin>TODO</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithin>Фракцыя стане варожай, калі вы застаняцеся</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>TODO</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Гэтыя фракцыі стануць варожымі ў адносінах да вас, калі вы застаняцеся даўжэй у іх сяленні або аванпосце:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->
-  <AlertMinifiedTreeAboutToDie>TODO</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDie>{0_numCase ? дрэва гіне : дрэва гінуць : дрэваў гінуць}</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
-  <AlertMinifiedTreeAboutToDieDesc>TODO</AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDieDesc>{0_numCase ? выкапанае дрэва засохне : выкапаных дрэва засохнуць : выкапаных дрэваў засохнуць} менш, чым праз дзень. Гэта зробіць некаторых сяленцаў засмучанымі з-за іх перакананняў.\n\nВы можаце прадухіліць гэта, калі зноў павысаджваеце гэтыя дрэвы.</AlertMinifiedTreeAboutToDieDesc>
 
   <!-- EN: Need research bench -->
-  <NeedResearchBench>TODO</NeedResearchBench>
+  <NeedResearchBench>Патрэбны стол для даследаванняў</NeedResearchBench>
   <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
-  <NeedResearchBenchDesc>TODO</NeedResearchBenchDesc>
-  
+  <NeedResearchBenchDesc>У вас ёсць актыўны праект для даследавання: «{0}». Каб працягнуць яго, вам трэба пабудаваць {1}.</NeedResearchBenchDesc>
+
 </LanguageData>
