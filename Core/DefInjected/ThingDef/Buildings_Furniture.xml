@@ -1,136 +1,136 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: animal bed -->
-  <AnimalBed.label>TODO</AnimalBed.label>
+  <AnimalBed.label>ложак для жывёлы</AnimalBed.label>
   <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
-  <AnimalBed.description>TODO</AnimalBed.description>
-  
+  <AnimalBed.description>Мяккі ложак, на якім могуць спаць жывёлы любога памеру.</AnimalBed.description>
+
   <!-- EN: animal sleeping box -->
-  <AnimalSleepingBox.label>TODO</AnimalSleepingBox.label>
+  <AnimalSleepingBox.label>скрынка для жывёлы</AnimalSleepingBox.label>
   <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
-  <AnimalSleepingBox.description>TODO</AnimalSleepingBox.description>
-  
+  <AnimalSleepingBox.description>Невялікая скрыначка, у якой могуць спаць маленькія жывёлы, напрыклад: куры, каты або маленькія сабакі.</AnimalSleepingBox.description>
+
   <!-- EN: animal sleeping spot -->
-  <AnimalSleepingSpot.label>TODO</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.label>спальнае месца для жывёлы</AnimalSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where animals should sleep. -->
-  <AnimalSleepingSpot.description>TODO</AnimalSleepingSpot.description>
-  
+  <AnimalSleepingSpot.description>Прызначае месца на зямлі, дзе павінны спаць жывёлы.</AnimalSleepingSpot.description>
+
   <!-- EN: armchair -->
-  <Armchair.label>TODO</Armchair.label>
+  <Armchair.label>фатэль</Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
-  <Armchair.description>TODO</Armchair.description>
-  
+  <Armchair.description>Вялікае, мяккае і выгоднае сядзенне. Добра падыходзіць для адпачынку. Можна выкарыстоўваць побач са сталамі, рабочымі станцыямі і ўвогуле ўсюды.</Armchair.description>
+
   <!-- EN: bed -->
-  <Bed.label>TODO</Bed.label>
+  <Bed.label>ложак</Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Bed.description>TODO</Bed.description>
-  
+  <Bed.description>Утульны матрац з пасцеллю на раме для адпачынку.</Bed.description>
+
   <!-- EN: bedroll -->
-  <Bedroll.label>TODO</Bedroll.label>
+  <Bedroll.label>спальнік</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <Bedroll.description>TODO</Bedroll.description>
-  
+  <Bedroll.description>Просты ложак, размешчаны доле, звычайна зроблены з тканіны або скуры, падбітай футрам. Ён лёгкі, яго можна скруціць для зручнага транспартавання, але ён не такі выгодны, як звычайны ложак. Спальнікі можна выкарыстоўваць у караванах падчас падарожжа для лепшага сну.</Bedroll.description>
+
   <!-- EN: double bedroll -->
-  <BedrollDouble.label>TODO</BedrollDouble.label>
+  <BedrollDouble.label>падвойны спальнік</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <BedrollDouble.description>TODO</BedrollDouble.description>
-  
+  <BedrollDouble.description>Просты падвойны ложак, размешчаны доле, звычайна зроблены з тканіны або скуры, падбітай футрам. Ён лёгкі, яго можна скруціць для зручнага транспартавання, але ён не такі выгодны, як звычайны ложак. Спальнікі можна выкарыстоўваць у караванах падчас падарожжа для лепшага сну.</BedrollDouble.description>
+
   <!-- EN: dining chair -->
-  <DiningChair.label>TODO</DiningChair.label>
+  <DiningChair.label>крэсла</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>TODO</DiningChair.description>
-  
+  <DiningChair.description>Выгоднае і прывабнае крэсла. Можна выкарыстоўваць побач са сталамі, рабочымі станцыямі і ўвогуле ўсюды.</DiningChair.description>
+
   <!-- EN: double bed -->
-  <DoubleBed.label>TODO</DoubleBed.label>
+  <DoubleBed.label>падвойны ложак</DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
-  <DoubleBed.description>TODO</DoubleBed.description>
-  
+  <DoubleBed.description>Просты шырокі ложак, на якім могуць змясціцца два чалавекі.</DoubleBed.description>
+
   <!-- EN: double sleeping spot -->
-  <DoubleSleepingSpot.label>TODO</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.label>падвойнае спальнае месца</DoubleSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
-  <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
-  
+  <DoubleSleepingSpot.description>Невыгоднае месца на зямлі, прызначанае двум людзям, каб яны маглі спаць разам.</DoubleSleepingSpot.description>
+
   <!-- EN: dresser -->
-  <Dresser.label>TODO</Dresser.label>
+  <Dresser.label>камода</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
-  <Dresser.description>TODO</Dresser.description>
-  
+  <Dresser.description>Невялікая шафа, якая робіць ложкі паблізу трошкі больш выгоднымі. Размяшчэнне дзвюх і болей камод побач з адным ложкам не аказвае дадатковага эфекту.</Dresser.description>
+
   <!-- EN: end table -->
-  <EndTable.label>TODO</EndTable.label>
+  <EndTable.label>тумбачка</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
-  <EndTable.description>TODO</EndTable.description>
-  
+  <EndTable.description>Невялікі прыложкавы столік, які робіць ложкі паблізу трошкі больш выгоднымі. Ён павінен размяшчацца непасрэдна побач з узгалоўем ложка. Размяшчэнне дзвюх і болей тумбачак побач з адным ложкам не аказвае дадатковага эфекту.</EndTable.description>
+
   <!-- EN: hospital bed -->
-  <HospitalBed.label>TODO</HospitalBed.label>
+  <HospitalBed.label>шпітальны ложак</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>TODO</HospitalBed.description>
-  
+  <HospitalBed.description>Ложак, спраектаваны для выкарыстання ў шпіталях. Ён змяшчае ўсё неабходнае медыцынскае абсталяванне, і яго можна дапасаваць да пэўнага пацыента. Шпітальны ложак дазваляе атрымліваць лепшыя медыцынскія вынікі ў параўнанні са звычайным ложкам.</HospitalBed.description>
+
   <!-- EN: plant pot -->
-  <PlantPot.label>TODO</PlantPot.label>
+  <PlantPot.label>гаршчок для раслін</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <PlantPot.description>TODO</PlantPot.description>
-  
+  <PlantPot.description>Высаджванне дэкаратыўных кветак у гаршку паляпшае настрой людзей паблізу.</PlantPot.description>
+
   <!-- EN: royal bed -->
-  <RoyalBed.label>TODO</RoyalBed.label>
+  <RoyalBed.label>ложак для знаці</RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
-  <RoyalBed.description>TODO</RoyalBed.description>
-  
+  <RoyalBed.description>Раскошны, інкруставаны золатам ложак, які падыходзіць для асоб знатнага паходжання; вельмі выгодны і прыгожы, твор мастацтва сам па сабе. Змяшчае двух чалавек.</RoyalBed.description>
+
   <!-- EN: shelf -->
-  <Shelf.label>TODO</Shelf.label>
+  <Shelf.label>стэлаж</Shelf.label>
   <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
-  <Shelf.description>TODO</Shelf.description>
-  
+  <Shelf.description>Стэлаж з трыма паліцамі, кожная клетка якога можа змяшчаць у тры разы больш прадметаў, чым звычайная клетка падлогі. Прадметы на паліцах ніколі не псуюцца і не ўплываюць на прыгажосць асяроддзя.\n\nПаколькі месца ў стэлажы абмежавана, яго паліцы не могуць змяшчаць адломкі, збудаванні, расліны і вялікія трупы.</Shelf.description>
+
   <!-- EN: small shelf -->
-  <ShelfSmall.label>TODO</ShelfSmall.label>
+  <ShelfSmall.label>маленькая паліца</ShelfSmall.label>
   <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
-  <ShelfSmall.description>TODO</ShelfSmall.description>
-  
+  <ShelfSmall.description>Невялікі стэлаж з трыма паліцамі, кожная клетка якога можа змяшчаць у тры разы больш прадметаў, чым звычайная клетка падлогі. Прадметы на паліцах ніколі не псуюцца і не ўплываюць на прыгажосць асяроддзя.\n\nПаколькі месца ў стэлажы абмежавана, яго паліцы не могуць змяшчаць адломкі, збудаванні, расліны і вялікія трупы.</ShelfSmall.description>
+
   <!-- EN: sleeping spot -->
-  <SleepingSpot.label>TODO</SleepingSpot.label>
+  <SleepingSpot.label>спальнае месца</SleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
-  <SleepingSpot.description>TODO</SleepingSpot.description>
-  
+  <SleepingSpot.description>Невыгоднае месца на зямлі, прызначанае людзям для сну.</SleepingSpot.description>
+
   <!-- EN: standing lamp -->
-  <StandingLamp.label>TODO</StandingLamp.label>
+  <StandingLamp.label>таршэр</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>TODO</StandingLamp.description>
-  
+  <StandingLamp.description>Электрычная стаячая лямпа, якая асвятляе тэрыторыю. Свет патрэбны людзям, каб яны маглі перасоўвацца і працаваць без штрафаў к хуткасці.</StandingLamp.description>
+
   <!-- EN: stool -->
-  <Stool.label>TODO</Stool.label>
+  <Stool.label>табурэтка</Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
-  <Stool.description>TODO</Stool.description>
-  
+  <Stool.description>Простая падстаўка, на якой можна сядзець. Не вельмі выгодная, але ж лепш чым нічога. Можна выкарыстоўваць побач са сталамі, рабочымі станцыямі і ўвогуле ўсюды.</Stool.description>
+
   <!-- EN: sun lamp -->
-  <SunLamp.label>TODO</SunLamp.label>
+  <SunLamp.label>лямпа сонечнага свету</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
-  <SunLamp.description>TODO</SunLamp.description>
+  <SunLamp.description>Прамысловая лямпа, якая вырабляе дастатковую для вырашчвання раслін колькасць святла, пры гэтым спажывае вялізную колькасць электраэнергіі, але аўтаматычна выключаецца ўначы.</SunLamp.description>
   <!-- EN: Off for plant resting period -->
-  <SunLamp.comps.CompSchedule.offMessage>TODO</SunLamp.comps.CompSchedule.offMessage>
-  
+  <SunLamp.comps.CompSchedule.offMessage>Выключана на перыяд «адпачынку» раслін.</SunLamp.comps.CompSchedule.offMessage>
+
   <!-- EN: table (1x2) -->
-  <Table1x2c.label>TODO</Table1x2c.label>
+  <Table1x2c.label>стол (1x2)</Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table1x2c.description>TODO</Table1x2c.description>
-  
+  <Table1x2c.description>Людзі ядуць за сталом, калі побач з ім ёсць крэслы, звернутыя да яго.</Table1x2c.description>
+
   <!-- EN: table (2x2) -->
-  <Table2x2c.label>TODO</Table2x2c.label>
+  <Table2x2c.label>стол (2x2)</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x2c.description>TODO</Table2x2c.description>
-  
+  <Table2x2c.description>Людзі ядуць за сталом, калі побач з ім ёсць крэслы, звернутыя да яго.</Table2x2c.description>
+
   <!-- EN: table (2x4) -->
-  <Table2x4c.label>TODO</Table2x4c.label>
+  <Table2x4c.label>стол (2x4)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x4c.description>TODO</Table2x4c.description>
-  
+  <Table2x4c.description>Людзі ядуць за сталом, калі побач з ім ёсць крэслы, звернутыя да яго.</Table2x4c.description>
+
   <!-- EN: table (3x3) -->
-  <Table3x3c.label>TODO</Table3x3c.label>
+  <Table3x3c.label>стол (3x3)</Table3x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table3x3c.description>TODO</Table3x3c.description>
-  
+  <Table3x3c.description>Людзі ядуць за сталом, калі побач з ім ёсць крэслы, звернутыя да яго.</Table3x3c.description>
+
   <!-- EN: torch lamp -->
-  <TorchLamp.label>TODO</TorchLamp.label>
+  <TorchLamp.label>паходня</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <TorchLamp.description>TODO</TorchLamp.description>
-  
+  <TorchLamp.description>Драўляны факел, прызначаны для асвятлення тэрыторыі. Свет патрэбны людзям, каб яны маглі перасоўвацца і працаваць без штрафаў к хуткасці. Паходня можа быць аўтаматычна дазапраўлена дровамі. Яна таксама вырабляе невялікую колькасць цяпла.</TorchLamp.description>
+
 </LanguageData>
