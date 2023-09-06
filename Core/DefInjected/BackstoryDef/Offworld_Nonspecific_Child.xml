@@ -72,7 +72,7 @@
   <Pyromaniac18.titleShort>TODO</Pyromaniac18.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
-  <ShopKid36.baseDesc>Маці [PAWN_nameDef] часта хварэла, таму {PAWN_gender ? яму : ёй} давялося {PAWN_gender ? самаму : самой} даглядаць за крамай, якая была адзінай крыніцай заробку ў сям'і. [PAWN_pronoun] трохі ведае пра атрэфакты, якія {PAWN_gender ? прадаваў : прадавала} і добра цяміць у мастацтве гандлю.</ShopKid36.baseDesc>
+  <ShopKid36.baseDesc>Маці [PAWN_nameDef] часта хварэла, таму {PAWN_gender ? яму : ёй} давялося {PAWN_gender ? самаму : самой} даглядаць за крамай, якая была адзінай крыніцай заробку ў сям'і. [PAWN_pronoun] трохі ведае пра артэфакты, якія {PAWN_gender ? прадаваў : прадавала} і добра цяміць у мастацтве гандлю.</ShopKid36.baseDesc>
   <!-- EN: shop kid -->
   <ShopKid36.title>дзіця крамы</ShopKid36.title>
   <!-- EN: shopkid -->
