@@ -37,7 +37,7 @@
   <AcademyStudent58.titleShort>студэнт</AcademyStudent58.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-  <AccursedChild88.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў народжаны : была народжана} пасярод месяцовага зацьмення. Старэйшыны вызначылі [PAWN_objective] як дзіцё цемры і пачалі клапаціцца пра [PAWN_objective]. \n\nУсё [PAWN_objective] дзяцінства было праведзена ў вывучэнні ведаў і рытуалаў свайго народа - пакуль [PAWN_objective] не прызвалі.</AccursedChild88.baseDesc>
+  <AccursedChild88.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў народжаны : была народжана} пасярод месяцовага зацьмення. Старэйшыны вызначылі [PAWN_objective] як дзіцё цемры і пачалі клапаціцца пра [PAWN_objective]. \n\nУсё [PAWN_objective] дзяцінства было праведзена ў вывучэнні ведаў і рытуалаў свайго народа - пакуль богі не прызвалі [PAWN_objective].</AccursedChild88.baseDesc>
   <!-- EN: accursed child -->
   <AccursedChild88.title>праклятае дзіцё</AccursedChild88.title>
   <!-- EN: cursed -->
@@ -86,7 +86,7 @@
   <AngryStudent88.titleShort>студэнт</AngryStudent88.titleShort>
   
   <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
-  <AnimalCaretaker20.baseDesc>[PAWN_nameDef] любіць жывёл, бо нарадзіўся на старажытнай гаспадарцы і [PAWN_possessive] асноўнай задачай было гадаваць жывёл. \n\nЗ часам {PAWN_gender ? ён навучыўся : яна навучылася} прыручаць дзікіх жывёл і {PAWN_gender ? пачаў : пачала} марыць аб хатнім thrumbo.</AnimalCaretaker20.baseDesc>
+  <AnimalCaretaker20.baseDesc>[PAWN_nameDef] любіць жывёл, бо нарадзіўся на старажытнай гаспадарцы і [PAWN_possessive] асноўнай задачай было гадаваць жывёл. \n\nЗ часам {PAWN_gender ? ён навучыўся : яна навучылася} прыручаць дзікіх жывёл і {PAWN_gender ? пачаў : пачала} марыць аб хатнім трумба.</AnimalCaretaker20.baseDesc>
   <!-- EN: animal caretaker -->
   <AnimalCaretaker20.title>наглядчык за жывёламі</AnimalCaretaker20.title>
   <!-- EN: caretaker -->
