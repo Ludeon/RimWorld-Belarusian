@@ -37,11 +37,11 @@
   <Scout44.titleShort>TODO</Scout44.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
-  <ShelterChild50.baseDesc>TODO</ShelterChild50.baseDesc>
+  <ShelterChild50.baseDesc>[PAWN_nameDef] {PAWN_gender ? вырас у : вырасла ў} сховішчы, глыбока пад зямлёй атручанага свету. [PAWN_pronoun] {PAWN_gender ? атрымаў усебаковую: атрымала ўсебаковую} адукацыю , але не {PAWN_gender ? меў : мела} магчымасці займацца фізічнай працай.</ShelterChild50.baseDesc>
   <!-- EN: shelter child -->
-  <ShelterChild50.title>TODO</ShelterChild50.title>
+  <ShelterChild50.title>дзіця сховішча</ShelterChild50.title>
   <!-- EN: shelterkid -->
-  <ShelterChild50.titleShort>TODO</ShelterChild50.titleShort>
+  <ShelterChild50.titleShort>дзіця сховішча</ShelterChild50.titleShort>
   
   <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
   <TestSubject15.baseDesc>TODO</TestSubject15.baseDesc>
