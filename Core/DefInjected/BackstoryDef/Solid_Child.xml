@@ -158,51 +158,51 @@
   <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
   <AspergersRebel13.baseDesc>[PAWN_nameDef] {PAWN_gender ? сталеў : сталела} паўстанцам на ў былом квітнеючым свеце, зараз разбураным вайной. Сіндром Аспергера вызначыў [PAWN_possessive] сацыяльныя цяжкасці і няздольнасць да дбання пра іншых, але вельмі хутка {PAWN_gender ? ён прызвычаіўся : яна прызвычаілася} да складаных задач накшталт даследванняў і пальбы.</AspergersRebel13.baseDesc>
   <!-- EN: aspergers rebel -->
-  <AspergersRebel13.title>TODO</AspergersRebel13.title>
+  <AspergersRebel13.title>паўстанец з Аспергерам</AspergersRebel13.title>
   <!-- EN: rebel -->
-  <AspergersRebel13.titleShort>TODO</AspergersRebel13.titleShort>
+  <AspergersRebel13.titleShort>паўстанец</AspergersRebel13.titleShort>
   
   <!-- EN: [PAWN_nameDef] had a fascination with gadgets and gizmos. [PAWN_pronoun] took apart and put together almost anything [PAWN_pronoun] could find.\n\n[PAWN_pronoun] got used to repairing toys brought to [PAWN_objective] by other children, and even fixed a few devices from [PAWN_possessive] elders. -->
-  <AspiringEngineer58.baseDesc>TODO</AspiringEngineer58.baseDesc>
+  <AspiringEngineer58.baseDesc>[PAWN_nameDef] заўсёды {PAWN_gender ? захапляўся : захаплялася} рознымі прыладамі і тэхнічнымі забаўкамі. [PAWN_pronoun] {PAWN_gender ? разбіраў і збіраў: разбірала і збірала} ледзь не ўсё што {PAWN_gender ? мог : магла} адшукаць.\n\n[PAWN_pronoun] {PAWN_gender ? прызвычаіўся : прызвычаілася} да наладкі цацак, прынесеных іншымі дзяцьмі, нават {PAWN_gender ? ладзіў : ладзіла} некалькі прылад для старэйшын.</AspiringEngineer58.baseDesc>
   <!-- EN: aspiring engineer -->
-  <AspiringEngineer58.title>TODO</AspiringEngineer58.title>
+  <AspiringEngineer58.title>пачынаючы інжынер</AspiringEngineer58.title>
   <!-- EN: tinkerer -->
-  <AspiringEngineer58.titleShort>TODO</AspiringEngineer58.titleShort>
+  <AspiringEngineer58.titleShort>рамонтнік</AspiringEngineer58.titleShort>
   
   <!-- EN: The daughter of an engineer and doctor, [PAWN_nameDef]'s early life was intellectually rich. After visiting a physics lab, [PAWN_pronoun] decided [PAWN_pronoun] wanted to be a quantum physicist.\n\nBitten by a camel, kicked off a horse, and chased by dogs, [PAWN_nameDef] developed a fear of animals. -->
-  <AspiringPhysicist47.baseDesc>TODO</AspiringPhysicist47.baseDesc>
+  <AspiringPhysicist47.baseDesc>Як у {PAWN_gender ? сына : дачкі} інжынера і доктара, у [PAWN_nameDef] было інтэлектуальна насычанае дзяцінства. Пасля наведвання фізічнай лабараторыі [PAWN_pronoun] {PAWN_gender ? вырашыў : вырашыла} зрабіцца квантавым фізікам.\n\n{PAWN_gender ? укушаны : укушаная} вярблюдам, {PAWN_gender ? паскіданы : паскіданая} з каня і {PAWN_gender ? ўцёкшы : ўцёкшая} ад сабак, [PAWN_nameDef] баіцца жывёл.</AspiringPhysicist47.baseDesc>
   <!-- EN: aspiring physicist -->
-  <AspiringPhysicist47.title>TODO</AspiringPhysicist47.title>
+  <AspiringPhysicist47.title>пачынаючы фізік</AspiringPhysicist47.title>
   <!-- EN: student -->
-  <AspiringPhysicist47.titleShort>TODO</AspiringPhysicist47.titleShort>
+  <AspiringPhysicist47.titleShort>студэнт</AspiringPhysicist47.titleShort>
   
   <!-- EN: [PAWN_nameDef] was being trained in song and dance to become the next big pop idol. [PAWN_pronoun] grew up being taken care of by company handlers.\n\n[PAWN_pronoun] never knew manual labor, but learned a lot about music and social etiquette. -->
-  <AspiringPopIdol28.baseDesc>TODO</AspiringPopIdol28.baseDesc>
+  <AspiringPopIdol28.baseDesc>[PAWN_nameDef] вучылі пець і тынчыць, рыхтуючы [PAWN_possessive] да будучыні чарговага поп-ідала. {PAWN_gender ? ён расціўся і песціўся : яна расцілася і песцілася} нянькамі кампаніі.\n\n[PAWN_pronoun] ніколі не {PAWN_gender ? ведаў : ведала} працы рукамі, але шмат ведае пра музыку і сацыяльны этыкет. <AspiringPopIdol28.baseDesc>
   <!-- EN: aspiring pop idol -->
-  <AspiringPopIdol28.title>TODO</AspiringPopIdol28.title>
+  <AspiringPopIdol28.title>уздымаючыся поп-ідал</AspiringPopIdol28.title>
   <!-- EN: pop idol -->
-  <AspiringPopIdol28.titleShort>TODO</AspiringPopIdol28.titleShort>
+  <AspiringPopIdol28.titleShort>поп-ідал</AspiringPopIdol28.titleShort>
   
   <!-- EN: [PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept. -->
-  <Athlete47.baseDesc>TODO</Athlete47.baseDesc>
+  <Athlete47.baseDesc>З ранняга узросту [PAWN_nameDef] {PAWN_gender ? быў : была} прафесіянальным атлетам. Дзякуючы [PAWN_possessive] спрытнасці, [PAWN_pronoun] {PAWN_gender ? пакінуў : пакінула} родную планету і {PAWN_gender ? ўладкаваўся : ўладкавалася} ў ВНУ навукі і тэхналогій.\n\nЗ-за напружанага графіку і самотнай натуры, [PAWN_pronoun] стаў сацыяльна нехлямяжым.</Athlete47.baseDesc>
   <!-- EN: athlete -->
-  <Athlete47.title>TODO</Athlete47.title>
+  <Athlete47.title>спартовец</Athlete47.title>
   <!-- EN: athlete -->
-  <Athlete47.titleShort>TODO</Athlete47.titleShort>
+  <Athlete47.titleShort>спартовец</Athlete47.titleShort>
   
   <!-- EN: Always fascinated by machines, [PAWN_nameDef] spent [PAWN_possessive] time studying robotics and holography. [PAWN_pronoun] preferred the company of [PAWN_possessive] scientific creations to that of other people. -->
-  <AwkwardNerd48.baseDesc>TODO</AwkwardNerd48.baseDesc>
-  <!-- EN: awkward nerd -->
-  <AwkwardNerd48.title>TODO</AwkwardNerd48.title>
+  <AwkwardNerd48.baseDesc>[PAWN_nameDef] заўсёды {PAWN_gender ? захапляўся : захаплялася} механізмамі і {PAWN_gender ? бавіў : бавіла} час вывучаючы робататэхніку і галаграфію. {PAWN_gender ? яму : ёй} больш падабалася кампанія [PAWN_possessive] стварэнняў, чым людзей.</AwkwardNerd48.baseDesc>
+  <!-- EN: awkward nerd --> 
+  <AwkwardNerd48.title>нязграбны аматар</AwkwardNerd48.title>
   <!-- EN: nerd -->
-  <AwkwardNerd48.titleShort>TODO</AwkwardNerd48.titleShort>
+  <AwkwardNerd48.titleShort>аматар</AwkwardNerd48.titleShort>
   
   <!-- EN: The only useful skill [PAWN_nameDef] learned from [PAWN_possessive] tough military school was card-counting. [PAWN_pronoun] amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.\n\nWhen [PAWN_pronoun] was finally caught, they burned half [PAWN_possessive] skin off. [PAWN_pronoun] could never face fire or violence again. -->
-  <BlackjackPlayer76.baseDesc>TODO</BlackjackPlayer76.baseDesc>
+  <BlackjackPlayer76.baseDesc>Адзіным карысным навыкам, вывучаным [PAWN_nameDef] ў ваенным вучылішчы было махлярства ў картах. [PAWN_pronoun] {PAWN_gender ? назапасіў : назапасіла}  шмат ворагаў праз махлярства ў казіно, рызыкуючы ўсё больш, пакуль расла пагроза помсты.\n\nКалі [PAWN_possessive] нарэшце схапілі, [PAWN_objective] спалілі палову [PAWN_possessive] скуры. [PAWN_pronoun] ніколі больш не зможа сутыкнуцца з агнём або гвалтам.</BlackjackPlayer76.baseDesc>
   <!-- EN: blackjack player -->
-  <BlackjackPlayer76.title>TODO</BlackjackPlayer76.title>
+  <BlackjackPlayer76.title>гулец у блэкджэк</BlackjackPlayer76.title>
   <!-- EN: gambler -->
-  <BlackjackPlayer76.titleShort>TODO</BlackjackPlayer76.titleShort>
+  <BlackjackPlayer76.titleShort>азартны гулец</BlackjackPlayer76.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s father owned the blacksmith shop in an run-down old city district. [PAWN_nameDef] would help [PAWN_possessive] father whenever [PAWN_pronoun] could.\n\nLater, [PAWN_possessive] father took [PAWN_objective] as a blacksmith's apprentice and raised [PAWN_objective] as a man. [PAWN_nameDef] also took on shooting as a hobby. -->
   <BlacksmithsSon73.baseDesc>TODO</BlacksmithsSon73.baseDesc>
