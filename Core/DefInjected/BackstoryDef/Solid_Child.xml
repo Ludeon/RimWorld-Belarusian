@@ -205,7 +205,7 @@
   <BlackjackPlayer76.titleShort>азартны гулец</BlackjackPlayer76.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s father owned the blacksmith shop in an run-down old city district. [PAWN_nameDef] would help [PAWN_possessive] father whenever [PAWN_pronoun] could.\n\nLater, [PAWN_possessive] father took [PAWN_objective] as a blacksmith's apprentice and raised [PAWN_objective] as a man. [PAWN_nameDef] also took on shooting as a hobby. -->
-  <BlacksmithsSon73.baseDesc>TODO</BlacksmithsSon73.baseDesc>
+  <BlacksmithsSon73.baseDesc>Бацька [PAWN_nameDef] меў кавальскую краму ў старым раёне горада. [PAWN_nameDef] {PAWN_gender ? дапамагаў : дапамагала} свайму бацьку калі толькі {PAWN_gender ? мог : магла}.\n\nПазней, [PAWN_possessive] бацька ўзяў [PAWN_possessive] як чалядніка і гадаваў як мужыка. [PAWN_nameDef] таксама {PAWN_gender ? займаўся : займалася} стральбой як хобі.</BlacksmithsSon73.baseDesc>
   <!-- EN: blacksmith's son -->
   <BlacksmithsSon73.title>TODO</BlacksmithsSon73.title>
   <!-- EN: blacksmith -->
