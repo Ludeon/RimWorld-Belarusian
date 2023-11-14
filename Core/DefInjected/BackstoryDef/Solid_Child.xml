@@ -212,11 +212,11 @@
   <BlacksmithsSon73.titleShort>TODO</BlacksmithsSon73.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout [PAWN_possessive] childhood.\n\n[PAWN_pronoun] learned to take care of the poor and give succor to the faithful from an early age. -->
-  <BlessedChild46.baseDesc>TODO</BlessedChild46.baseDesc>
+  <BlessedChild46.baseDesc>[PAWN_nameDef] {PAWN_gender ? нарадзіўся : нарадзілася} ў вельмі спрыяльных абставінах у адной з духоўных груп Сярэдняга Свету і {PAWN_gender ? ушаноўваўся : ушаноўвалася} ўсё сваё дзяцінства.\n\n[PAWN_pronoun] з ранняга ўзросту {PAWN_gender ? навучыўся : навучылася} клапаціцца аб небараках і дапамагаць патрабуючым.</BlessedChild46.baseDesc>
   <!-- EN: blessed child -->
-  <BlessedChild46.title>TODO</BlessedChild46.title>
+  <BlessedChild46.title>святое дзіцё</BlessedChild46.title>
   <!-- EN: blessed -->
-  <BlessedChild46.titleShort>TODO</BlessedChild46.titleShort>
+  <BlessedChild46.titleShort>святы</BlessedChild46.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born into a famously skilled family of bodyguards. [PAWN_possessive] mothers Elena and Victoria forced [PAWN_objective] into many dangerous situations, training [PAWN_objective] to put [PAWN_possessive] client's well-being over [PAWN_possessive] own.\n\n[PAWN_nameDef] was taught about many herbs and natural poisons to help [PAWN_objective] prevent clients from being poisoned. -->
   <BodyguardTrainee54.baseDesc>TODO</BodyguardTrainee54.baseDesc>
