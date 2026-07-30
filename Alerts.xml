@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClickToJumpToProblem>Націсніце, каб перайсці да праблемы</ClickToJumpToProblem>
+
+  <BreakRiskMinor>Невялікая рызыка нервовага зрыву</BreakRiskMinor>
+  <BreakRiskMajor>Вялікая рызыка нервовага зрыву</BreakRiskMajor>
+  <BreakRiskExtreme>Крытычная рызыка нервовага зрыву</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Гэтыя каланісты маюць кепскі настрой і могуць атрымаць невялікі нервовы зрыў у любы момант:\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Гэтыя каланісты маюць вельмі кепскі настрой і могуць атрымаць моцны нервовы зрыў у любы момант:\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Гэтыя каланісты знаходзяцца ў крытычным стрэсе і могуць атрымаць экстрэмальны (і, магчыма, гвалтоўны) нервовы зрыў у любы момант:\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Праверце ўкладку «Патрэбы» гэтых каланістаў, каб даведацца, што іх непакоіць.\n\nКаб палепшыць настрой каланістаў, вы можаце гатаваць для іх вытанчаную ежу, даваць больш гадзін адпачынку на дзень і лепшыя аб’екты для забаў, размяшчаць іх у прыгожым асяроддзі, дазваляць ім піць, паліць, ды шмат іншага.</BreakRiskDescEnding>
+
+  <ColonistNeedsRescue>Каланіст патрабуе выратавання</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Каланісты патрабуюць выратавання</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Гэтыя каланісты недзеяздольныя і ляжаць на зямлі:\n{0}\nАдпраўце іншага каланіста, каб выратаваць іх і аднесці ў ложак.\n\n(Каб выратаваць, абярыце іншага каланіста, націсніце правай кнопкай мышы па пацярпелым і абярыце «Выратаваць».)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDescController>Гэтыя каланісты недзеяздольныя і ляжаць на зямлі:\n{0}\n\nАдпраўце іншага каланіста, каб выратаваць іх і аднесці ў ложак.\n\n(Каб выратаваць, абярыце іншага каланіста, націсніце левы трыгер на пацярпелым і абярыце «Выратаваць».)</ColonistsNeedRescueDescController>
+
+  <NeedDefenses>Патрэбна абарона</NeedDefenses>
+  <NeedDefensesDesc>Вы прабылі тут ужо пэўны час, і вас, імаверна, заўважылі. Налёты піратаў пачнуцца зусім хутка.\n\nВам варта падрыхтаваць абарону: мяшкі з пяском ці пасткі.</NeedDefensesDesc>
+
+  <NeedDoctor>Патрэбен лекар</NeedDoctor>
+  <NeedDoctorDesc>Гэтыя каланісты патрабуюць медыцынскай дапамогі, але ў вас няма здаровых каланістаў з прызначанай працай «Лекар».\n{0}\n\nПрызначце здаровага каланіста на тып працы «Лекар». Калі пакінуць раны без лячэння, яны могуць ніколі не зажыць і стаць хранічнымі.</NeedDoctorDesc>
+
+  <NeedMiner>Патрэбен шахцёр</NeedMiner>
+  <NeedMinerDesc>Вы пазначылі горныя пароды для здабычы, але ніводзін каланіст не мае прызначанага тыпу працы «Шахцёр».\n\nПрызначце каланісту тып працы «Шахцёр».</NeedMinerDesc>
+
+  <NeedWarden>Патрэбен наглядальнік</NeedWarden>
+  <NeedWardenDesc>У вас ёсць вязень, але ніводзін каланіст не мае прызначанага тыпу працы «Наглядальнік».\n\nПрызначце каланісту тып працы «Наглядальнік».</NeedWardenDesc>
+
+  <LowFood>Мала ежы</LowFood>
+  <LowFoodDesc>У вас небяспечна мала ежы.\n\n    Поўных порцый ежы на складзе: {0}\n    Каланістаў і вязняў, якія спажываюць ежу: {1}\n    Дзён запасу ежы на складзе: {2}\n\nВырошчвайце, купляйце, шукайце ці забівайце жывёл дзеля ежы.</LowFoodDesc>
+
+  <LowMedicine>Мала медыкаментаў</LowMedicine>
+  <LowMedicineDesc>На складзе засталася толькі такая колькасць медыкаментаў: {0}.\n\nКупіце больш лекаў у гандляроў.</LowMedicineDesc>
+  <NoMedicineDesc>На складзе не засталося медыкаментаў.\n\nКупіце лікі ў гандляроў.</NoMedicineDesc>
+  
+  <NeedColonistBeds>Патрэбны ложкі для каланістаў</NeedColonistBeds>
+  <NeedColonistBedsDesc>У вас больш каланістаў, чым ложкаў. Камусьці не хопіць месца для сну.\n\nЗрабіце больш ложкаў або перарабіце ложак вязня ў ложак каланіста.\n\nКалі ў вас няма рэсурсаў, спальныя месцы бясплатныя і ствараюцца імгненна.</NeedColonistBedsDesc>
+  
+  <AlertColonistLeftUnburied>Каланіст не пахаваны</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>Цела каланіста застаецца непахаваным.\n\nГэта можа дрэнна паўплываць на настрой вашых каланістаў.</AlertColonistLeftUnburiedDesc>
+
+  <AlertTatteredApparel>Затасканае адзенне</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Гэтыя каланісты носяць затасканае адзенне, што робіць іх засмучанымі:\n{0}\n\nДайце ім адзенне, якое не так моцна пашкоджана.\n\nВы можаце пашыць адзенне на месцы для рамяства ці за кравецкім сталом альбо купіць яго ў гандляроў.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Засмучальная нагата</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Гэтыя каланісты голыя і незадаволеныя гэтым:\n{0}\n\nДайце ім нейкае адзенне.\n\nВы можаце пашыць адзенне на месцы для рамяства ці за кравецкім сталом, альбо купіць яго ў гандляроў.</AlertUnhappyNudityDesc>
+
+  <Starvation>Голад</Starvation>
+  <StarvationDesc>Гэтыя каланісты галадаюць:\n{0}\n\nДайце ім ежу.</StarvationDesc>
+
+  <StarvationAnimals>Галаданне жывёл</StarvationAnimals>
+  <StarvationAnimalsDesc>Гэтыя свойскія жывёлы галадаюць:\n{0}\n\nДайце ім ежу.</StarvationAnimalsDesc>
+
+  <Exhaustion>Выснажэнне</Exhaustion>
+  <ExhaustionDesc>Гэтыя каланісты выснажаны і патрабуюць адпачынку:\n{0}\n\nДайце ім адпачыць. Ім спатрэбіцца ложак, пазначаны для каланістаў. Таксама пераканайцеся, што яны не мабілізаваныя.</ExhaustionDesc>
+
+  <NeedFoodHopper>Патрэбен варонка для ежы</NeedFoodHopper>
+  <NeedFoodHopperDesc>У вас ёсць дазатар пажыўнай пасты без варонкі побач з ім.\n\nКаб дазатар працаваў, ён мусіць браць сырую ежу з прылеглай варонкі.\n\nПабудуйце варонку прытуленай да дазатара.</NeedFoodHopperDesc>
+
+  <NeedMealSource>Патрэбна крыніца гатавання ежы</NeedMealSource>
+  <NeedMealSourceDesc>У вас няма магчымасці гатаваць паўнавартасную ежу з сырых прадуктаў.\n\nПабудуйце кухонную пліту, вогнішча ці дазатар пажыўнай пасты.\n\n(Яна не можа знаходзіцца ў турме, інакш каланісты не змогуць ёй карыстацца.)</NeedMealSourceDesc>
+
+  <NeedJoySource>Патрэбна разнастайнасць адпачынку</NeedJoySource>
+  <NeedJoySourceDesc>У {1} даступна толькі {0} розных тыпаў забаваў, але пры бягучым узроўні чаканняў ({2}) каланістам патрэбна {3} розных тыпаў забаваў, каб заставацца задаволенымі. Забяспечце разнастайнасць забаваў, дадаўшы новы тып.\n\n{4}\n\n{5}\n\nЗаўвага: Вы можаце праверыць тып забавы любога прадмета на старонцы яго статыстыкі (кнопка «i»).</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Даступныя тыпы забаваў</AvailableRecreationTypes>
+  <MissingRecreationTypes>Адсутныя тыпы забаваў</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>Пры бягучых чаканнях ({0}) устойлівасць да кожнага тыпу забаваў падае на {1} за дзень бадзёрасці. Рэкамендуецца мець {2} тыпаў забаваў.</CurrentExpectationsAndRecreation>
+  <bored>сумуе</bored>
+
+  <Boredom>Нуда</Boredom>
+  <BoredomDesc>Гэтыя людзі альбо маюць патрэбу ў забавах, альбо прызначаныя на забавы, але ім занудзілі ўсе даступныя крыніцы забаваў:\n\n{0}\n\nЗабяспечце ім большую разнастайнасць забаваў.\n\nЗараз даступныя тыпы забаваў для {PAWN_labelShort}:\n{2}</BoredomDesc>
+
+  <NeedBatteries>Патрэбны акумулятары</NeedBatteries>
+  <NeedBatteriesDesc>У вас ёсць сонечная ці ветравая электрастанцыя, але няма акумулятараў. Вы будзеце страчваць энергію кожны раз, калі заходзіць сонца ці сціхае вецер.</NeedBatteriesDesc>
+  <NeedBatteriesResearchedDesc>Пабудуйце адзін ці два акумулятары, каб гарантаваць стабільнае сілкаванне.</NeedBatteriesResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>Даследуйце акумулятары і пабудуйце некалькі штучнак, каб гарантаваць стабільнае сілкаванне.</NeedBatteriesNotResearchedDesc>
+
+  <BrawlerHasRangedWeapon>Задзіра носіць дальнабойную зброю</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Адзін з вашых каланістаў мае рысу характару «Задзіра», але носіць дальнабойную зброю. Гэта яго раздражняе.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>У карыстальніка шчыта дальнабойная зброя</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Адзін з вашых каланістаў носіць персанальны шчыт і мае дальнабойную зброю. Ён не зможа страляць праз шчыт (за выключэннем цэляў, якія знаходзяцца ўжо ўтул да яго).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Патрэбен праект даследаванняў</NeedResearchProject>
+  <NeedResearchProjectDesc>У вас ёсць абсталяванне для даследаванняў, але вы не абралі праект.\n\n(Націсніце, каб адкрыць меню даследаванняў.)</NeedResearchProjectDesc>
+
+  <ColonistIdle>1 каланіст бяздзейнічае</ColonistIdle>
+  <ColonistsIdle>{0} каланістаў бяздзейнічаюць</ColonistsIdle>
+  <ColonistsIdleDesc>Гэтыя каланісты бязмэтна блукаюць:\n{0}\n\nВам варта знайсці для іх нейкае карыснае заняцце.</ColonistsIdleDesc>
+  
+  <CaravanIdle>Караван бяздзейнічае</CaravanIdle>
+  <CaravanIdleDesc>Гэтыя караваны чакаюць, пакуль вы задасце ім наступны пункт прызначэння:\n{0}</CaravanIdleDesc>
+
+  <ColonistNeedsTreatment>Патрэбна лячэнне</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Гэтыя людзі патрабуюць медыцынскага лячэння. Без яго яны могуць памерці ад ран або іх раны стануць хранічнымі.\n{0}\n\nПалячыце іх, адправіўшы на медыцынскі ложак.\n\n(Спачатку прызначце медыцынскі ложак, абраўшы яго і перамкнуўшы ў рэжым медыцынскага. Затым абярыце параненага і націсніце правай кнопкай мышы па ложку, каб зрабіць яго пацыентам.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDescController>Гэтыя людзі патрабуюць медыцынскага лячэння. Без яго яны могуць памерці ад ран або іх раны стануць хранічнымі.\n{0}\n\nПалячыце іх, адправіўшы на медыцынскі ложак.\n\n(Спачатку прызначце медыцынскі ложак, абраўшы яго і перамкнуўшы ў рэжым медыцынскага. Затым абярыце параненага і націсніце левы трыгер на ложку, каб зрабіць яго пацыентам.)</ColonistNeedsTreatmentDescController>
+
+  <AlertHypothermia>Пераахаладжэнне</AlertHypothermia>
+  <AlertHypothermiaDesc>Гэтыя каланісты пакутуюць ад пераахаладжэння:\n{0}\n\nПераканайцеся, што іх адзенне адпавядае сезону, а памяшканні належным чынам абаграваюцца.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>{0} пацыентаў чакаюць медыцынскую аперацыю</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Гэтыя пацыенты чакаюць медыцынскую аперацыю:\n{0}\n\nПераканайцеся, што у вас ёсць усе неабходныя медыцынскія прылады і вольны лекар.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Пажар!</FireInHomeArea>
+  <FireInHomeAreaDesc>У хатняй зоне загаранне.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Медыцынская надзвычайная сітуацыя</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Людзям пагражае смерць праз цяжкую хваробу:\n{0}\n\nПераканайцеся, што яны атрымліваюць найлепшы медыцынскі дагляд.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Людзям пагражае смерць праз цяжкую хваробу:\n{0}\n\nКалі гэта магчыма, разважце ампутацыю ці замену інфікаваных канечнасцяў, каб захаваць жыццё каланістам.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Більярд патрабуе свабоднага месца</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Адзін з вашых більярдных столаў прытулены да перашкоды, якая замінае каланістам карыстацца ім.\n\nБільярдны стол патрабуе вольнага месца з усіх бакоў, каб быць прыдатным для гульні.</BilliardsNeedsSpaceDesc>
+
+  <ChessTablesNeedChairs>Шахматны стол патрабуе крэслаў</ChessTablesNeedChairs>
+  <ChessTablesNeedChairsDesc>Каля аднаго з вашых шахматных столаў няма крэслаў.\n\nПабудуйце каля яго крэслы ці табурэты, каб каланісты маглі гуляць. За адным шахматным сталом могуць адначасова сядзець да двух чалавек.</ChessTablesNeedChairsDesc>
+
+  <PokerTablesNeedChairs>Покерны стол патрабуе крэслаў</PokerTablesNeedChairs>
+  <PokerTablesNeedChairsDesc>Каля аднаго з вашых покерных столаў няма крэслаў.\n\nПабудуйце каля яго крэслы ці табурэты, каб каланісты маглі гуляць. За адным покерным сталом могуць адначасова сядзець да васьмі чалавек.</PokerTablesNeedChairsDesc>
+
+  <HunterHasShieldAndRangedWeapon>Паляўнічы мае шчыт і дальнабойную зброю</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Адзін з вашых паляўнічых выкарыстоўвае дальнабойную зброю і носіць персанальны шчыт, які замінае страляць на адлегласці.\n\nЁн не зможа паляваць, пакуль шчыт не будзе зняты.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>Патрэбнае цёплае адзенне</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Як мінімум {0} з вашых каланістаў будуць адчуваць недахоп цёплага адзення з надыходам халадоў.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Усім вашым каланістам будзе не хапаць цёплага адзення з надыходам халадоў.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Тэмпература на вуліцы дасягне {0}.\n\nВы можаце пашыць цёплае адзенне за кравецкім сталом альбо купіць яго ў гандляроў.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>Нерухомы караван</ImmobileCaravan>
+  <ImmobileCaravanDesc>Адзін з вашых караванаў не можа рухацца, бо перагружаны.\n\nВы можаце вярнуць каравану здольнасць рухацца, выкінуўшы частку рэчаў ва ўкладцы «Рэчы».</ImmobileCaravanDesc>
+
+  <BuildingCantBeUsedRoofed>Будынак не можа выкарыстоўвацца пад дахам</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>Адзін ці некалькі вашых будынкаў могуць выкарыстоўвацца толькі без даху, але над ім ёсць дах. Будынак(і) не будзе працаваць, пакуль вы не прыбераце дах.</BuildingCantBeUsedRoofedDesc>
+
+  <AlertHeatstroke>Цеплавы ўдар</AlertHeatstroke>
+  <AlertHeatstrokeDesc>Наступныя людзі пакутуюць ад цеплавога ўдару:\n{0}\n\nПеравядзіце іх у больш прахалоднае месца. Вы можаце ахладзіць пакоі з дапамогай ахаладжальнікаў выпаральнага тыпу ці электрычных кандыцыянераў. Глыбокія падземныя прасторы таксама натуральна прахалодныя, калі аддзеленыя ад вуліцы дзвярыма.</AlertHeatstrokeDesc>
+
+  <QuestPartMoodBelowThreshold>Госць незадаволены</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>Квэст «{0}» патрабуе, каб вы падтрымлівалі добры настрой гэтага чалавека. Аднак яго настрой кепскі. Зрабіце што-небудзь, каб ён адчуў сябе лепш:\n{1}</QuestPartMoodBelowThresholdDesc>
+  
+  <QuestPartShuttleLeaveDelay>Чаўнок адлятае праз {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>Чаўнок адляціць праз {1}. Квэст «{0}» патрабуе, каб вы пагрузiлi наступных людзей ці рэчы на чаўнок да яго адлёту:\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>Чаўнок адляціць праз {0}.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <QuestPartShuttleArriveDelay>Чаўнок прыбывае праз {0}</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>Чаўнок прыбудзе праз {1}. Квэст «{0}» патрабуе, каб вы пагрузiлi наступных людзей ці рэчы на чаўнок да яго адлёту:\n{2}</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>Чаўнок прыбудзе праз {0}.</QuestPartShuttleArriveDelayDescHidden>
+
+  <DisallowedBuildingInsideMonument>Манумент будзе разбураны</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>Вы пабудавалі забаронены будынак усярэдзіне аднаго з вашых манументаў. Манумент будзе лічыцца разбураным праз {0}.</DisallowedBuildingInsideMonumentDesc>
+
+  <ActivatorCountdown>Таймер актыватара: {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>Актыватар з адлікам часу цокае, рыхтуючыся абудзіць найбліжэйшых механоідаў.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>Актыватары з адлікам часу: {0}</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>Актыватары з адлікам часу цокаюць, рыхтуючыся абудзіць найбліжэйшых механоідаў.</ActivatorCountdownDescMultiple>
+
+  <QuestExpiresSoon>Квэст заканчваецца праз {0}</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>Тэрмін дзеяння квэста «{0}» скончыцца праз {1}.</QuestExpiresSoonDesc>
+
+  <AlertAnimalFilth>Бруд ад жывёл</AlertAnimalFilth>
+  <AlertAnimalFilthDesc>Жывёла, якая стварае бруд, знаходзіцца ў памяшканні на чыстай падлозе.\n\nЖывёлы ствараюць вельмі шмат бруду, калі перасоўваюцца па звычайнай падлозе. Трымайце іх на вуліцы альбо на саламянай падсцілцы, дзе яны ствараюць значна менш бруду.\n\nВы можаце праверыць узровень стварэння бруду жывёлай у яе статыстыцы (кнопка «i»).\n\nВось гэтыя жывёлы:\n{0}</AlertAnimalFilthDesc>
+
+  <AlertAnimalPenNeeded>Патрэбны загарод</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeededDesc>Некаторыя з вашых прыручаных жывёл здольныя збягаць. Калі не трымаць іх у загарадзе ці не прывязаць да месца прывязі каравана, яны сыдуць прэч.</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededNoHandlers>У вас няма жывёлаводаў, каб адвесці жывёл у загарод.\n\nПрызначце каланіста на тып працы «Жывёлаводства».</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededDescExplanation>Стварыце загарод для жывёл, пабудаваўшы маркер загароду ўнутры абгароджанай, абарыкадаванай ці абнесенай сцяной тэрыторыі. Абярыце маркер загароду, каб убачыць, якіх жывёл ён прымае і колькі можа змясціць.\n\nВашы жывёлаводы будуць прыводзіць жывёл у прызначаны загарод аўтаматычна.\n\nЗагароду патрэбныя дзверы ці брама, каб прапускаць жывёл.</AlertAnimalPenNeededDescExplanation>
+  
+  <AlertAnimalPenNotEnclosed>Загарод не замкнёны</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosedDesc>Маркер загароду для жывёл не змяшчаецца ў замкнёнай прасторы.\n\nАбгарадзіце загарод плотам, барыкадамі, варотамі, сцянамі ці дзвярыма, каб жывёлы не выблуквалі навонкі.\n\nКалі у вас ёсць толькі незамкнёныя маркеры, жывёлаводы ўсё адно змогуць адводзіць збеглых жывёл назад, але гэта давядзецца паўтараць кожны раз, калі яны зноў будуць збягаць.</AlertAnimalPenNotEnclosedDesc>
+
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} у загарадзе для жывёл</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPenDesc>Хіжак ({ANIMAL_labelShort}) ублукаў у загарод для жывёл.\n\nЁн можа наважыцца папаляваць на вашых жывёл.\n\nВы можаце забіць яго альбо пачакаць і спадзявацца, што ён сыдзе сам.</AlertPredatorInAnimalPenDesc>
+
+  <AlertAnimalIsRoaming>Жывёла збягае</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoamingDesc>Некаторыя з вашых прыручаных жывёл пачалі блукаць. Калі яны дасягнуць краю карты, то канчаткова збягуць.\n\nКалі у вас ёсць замкнёны загарод, жывёлаводы змогуць вярнуць жывёлу назад. Жывёлы ў замкнёным загарадзе не збягаюць.\n\nНаступныя жывёлы блукаюць:\n{0}</AlertAnimalIsRoamingDesc>
+
+  <AlertPennedAnimalHungry>Галодныя жывёлы ў загарадзе</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungryDesc>Некаторыя жывёлы ў загарадзе галадаюць.\n\nАбярыце маркер загароду і выкарыстоўвайце ўкладку «Ежа», каб убачыць падрабязнасці.\n\nЖывёлам, якія сілкуюцца травой, можа спатрэбіцца большую плошчу загароду. Іншым жывёлам можа спатрэбіцца сена ці іншая ежа на складзе.\n\nНаступныя жывёлы ў загарадзе галадаюць:\n{0}</AlertPennedAnimalHungryDesc>
+
+  <AlertHitchedAnimalHungryNoFood>Галодная прывязаная жывёла</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFoodDesc>Некаторыя жывёлы, прывязаныя да месца прывязі, галадаюць. У зоне іх дасяжнасці няма прыдатнай ежы.\n\nПрынясце ім ежу альбо прыбярыце месца прывязі, каб яны маглі знайсці ежу самастойна.\n\nНаступныя прывязаныя жывёлы галадаюць:\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <AlertTimedRaidsArrivingIn>Налёты прыбудуць праз {0}</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingInDesc>Ворагі прывабленыя да наступных месцаў і неўзабаве пачнуць прыбываць у поўнай сіле.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingAt>Прыбыццё ў {0} праз {1}</AlertTimedRaidsArrivingAt>
+
+  <FactionWillBecomeHostileIfNotLeavingWithin>Фракцыя стане варожай, калі вы застанецеся</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Гэтыя фракцыі стануць варожымі, калі вы прабыдзеце даўжэй у іх паселішчы ці аванпосце:\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <AlertMinifiedTreeAboutToDie>{0} дрэў гіне</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>{0} выкапаных дрэў загінуць менш чым праз дзень. Гэта засмуціць некаторых каланістаў праз іх перакананні.\n\nВы можаце запабегчы гэтаму, перасадзіўшы гэтыя дрэвы.</AlertMinifiedTreeAboutToDieDesc>
+
+  <NeedResearchBench>Патрэбен даследчы стол</NeedResearchBench>
+  <NeedResearchBenchDesc>У вас ёсць актыўны праект даследаванняў «{0}». Гэты праект патрабуе пабудаваць {1}.</NeedResearchBenchDesc>
+  
+</LanguageData>
