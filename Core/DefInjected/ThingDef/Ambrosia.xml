@@ -2,8 +2,10 @@
 <LanguageData>
   
   <!-- EN: ambrosia -->
-  <Ambrosia.label>TODO</Ambrosia.label>
+  <Ambrosia.label>амброзія</Ambrosia.label>
   <!-- EN: A soft, rare fruit. Ambrosia tastes wonderful and produces a subtle mood-increasing chemical high. However, if eaten too often, it can generate a mild addiction. -->
-  <Ambrosia.description>TODO</Ambrosia.description>
+  <Ambrosia.description>Мяккая, рэдкая садавіна. Амброзія мае цудоўны смак і выклікае лёгкае хімічнае ап'яненне, якое падымае настрой. Аднак, калі спажываць яе занадта часта, яна можа выклікаць лёгкую залежнасць.</Ambrosia.description>
+  <Ambrosia.ingestible.ingestCommandString>З'есці {lookup: {0}; Case; 3}</Ambrosia.ingestible.ingestCommandString>
+  <Ambrosia.ingestible.ingestReportString>Есць {lookup: {0}; Case; 3}</Ambrosia.ingestible.ingestReportString>
   
 </LanguageData>

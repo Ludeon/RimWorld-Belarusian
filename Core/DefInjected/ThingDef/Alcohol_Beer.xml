@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: beer -->
-  <Beer.label>TODO</Beer.label>
+  <Beer.label>піва</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>TODO</Beer.description>
+  <Beer.description>Першы напой у гісторыі чалавецтва пасля вады. Піва можа мець прыемны смак, але яго асноўны эфект — смугленне і ап'яненне. Празмернае спажыванне можа прывесці да страты прытомнасці і, з часам, да залежнасці.</Beer.description>
   <!-- EN: Drink {0} -->
-  <Beer.ingestible.ingestCommandString>TODO</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestCommandString>Піць {lookup: {0}; Case; 3}</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <Beer.ingestible.ingestReportString>TODO</Beer.ingestible.ingestReportString>
+  <Beer.ingestible.ingestReportString>П'е {lookup: {0}; Case; 3}</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
-  <Beer.tools.bottle.label>TODO</Beer.tools.bottle.label>
+  <Beer.tools.bottle.label>пляшка</Beer.tools.bottle.label>
   <!-- EN: neck -->
-  <Beer.tools.neck.label>TODO</Beer.tools.neck.label>
+  <Beer.tools.neck.label>гарлавіна</Beer.tools.neck.label>
   
   <!-- EN: wort -->
-  <Wort.label>TODO</Wort.label>
+  <Wort.label>сусла</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>TODO</Wort.description>
+  <Wort.description>Незаброджанае піва. Гэтаму рэчыву неабходна перабордзіць у бродзільнай бочцы, перш чым яно стане прыдатным для спажывання півам.</Wort.description>
   
 </LanguageData>
