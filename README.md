@@ -12,14 +12,15 @@
 
 ### Актыўныя
 
-* [SampleText2k77](https://github.com/SampleText2k77)
-* [MonoDx](https://github.com/monodevx)
-* [Mašańka](https://github.com/MaryAlex)
+*  [CheburekWithMeat](https://github.com/CheburekWithMeat)
 
 ### Неактыўныя
 
-* [FatAlien](https://github.com/FatAliens)
-
+*[ FatAlien](https://github.com/FatAliens)
+* [SampleText2k77](https://github.com/SampleText2k77)
+* [MonoDx](https://github.com/monodevx)
+* [Mašańka](https://github.com/MaryAlex)
+*  
 ## Далучыцца
 
 Вы таксама можаце дапамагчы ў перакладзе RimWorld на беларускую мову. Уся праца каардынуецца ў Telegram-чаце, да якога вы можаце далучыцца па [спасылцы](https://t.me/+xP2-noCUk1I2NjYy).
