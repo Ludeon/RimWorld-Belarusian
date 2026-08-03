@@ -204,13 +204,13 @@
   <Difficulty_AllowBigThreats_Label>Сур'ёзныя пагрозы</Difficulty_AllowBigThreats_Label>
   <Difficulty_AllowBigThreats_Info>Дазволіць сур'ёзныя пагрозы, такія як налёты, нашэсці жукоў, зграі шалёных жывёл, падзенні караблёў механоідаў і г.д.</Difficulty_AllowBigThreats_Info>
   <Difficulty_AllowViolentQuests_Label>Пагрозы ў заданнях</Difficulty_AllowViolentQuests_Label>
-  <Difficulty_AllowViolentQuests_Info>Дазволіць заданням змяшчаць гвалтоўныя і смяртэльныя пагрозы. Калі адключана, гэтыя опцыі будуць адключаны
+  <Difficulty_AllowViolentQuests_Info>Дазволіць заданням змяшчаць гвалтоўныя і смяртэльныя пагрозы. Калі адключана, гэтыя опцыі будуць адключаны</Difficulty_AllowViolentQuests_Info>
   <Difficulty_AllowIntroThreats_Label>Базавыя пагрозы</Difficulty_AllowIntroThreats_Label>
   <Difficulty_AllowIntroThreats_Info>Уключае фіксаваныя базавыя пагрозы, якія з'яўляюцца на пачатку гульні.</Difficulty_AllowIntroThreats_Info>
   <Difficulty_PredatorsHuntHumanlikes_Label>Хіжакі палююць на людзей</Difficulty_PredatorsHuntHumanlikes_Label>
-  <Difficulty_PredatorsHuntHumanlikes_Info>Дазволіць дзікім хіжакам паляваць на людзей.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>Дазволіць зікім хіжакам паляваць на людзей.</Difficulty_PredatorsHuntHumanlikes_Info>
   <Difficulty_AllowExtremeWeatherIncidents_Label>Экстрэмальнае надвор'е</Difficulty_AllowExtremeWeatherIncidents_Label>
-  <Difficulty_AllowExtremeWeatherIncidents_Info>Дазволіць экстрэмальныя з'явы надвор'я, такія як таксічныя ападкі, вулканічная зіма і сухія навальніцы.</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Дазваляе экстрэмальныя з'явы надвор'я, такія як таксічныя ападкі, вулканічная зіма і сухія навальніцы.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <DifficultyEconomySection>Эканоміка</DifficultyEconomySection>
   <Difficulty_TradePriceFactorLoss_Label>Нявыгаднасць цэн</Difficulty_TradePriceFactorLoss_Label>
@@ -230,7 +230,7 @@
   <Difficulty_MaintenanceCostFactor_Label>Кошт перазарадкі турэлей</Difficulty_MaintenanceCostFactor_Label>
   <Difficulty_MaintenanceCostFactor_Info>Настройка кошту перазарадкі турэляў.</Difficulty_MaintenanceCostFactor_Info>
   <Difficulty_ScariaRotChance_Label>Верагоднасць агрыёзнага гніення</Difficulty_ScariaRotChance_Label>
-  <Difficulty_ScariaRotChance_Info>Верагоднасць таго, што труп жывёлы, заражанага агрыёзам, імгненна згніе пасля смерці.\n\nУвага: настройка па змаўчанні распрацавана для таго, каб збалансаваць колькасць атрыманага гульцамі мяса да аднолькавага на любой складанасці.</</p></Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>Верагоднасць таго, што труп жывёлы, заражанага агрыёзам, імгненна згніе пасля смерці.\n\nУвага: настройка па змаўчанні распрацавана для таго, каб збалансаваць колькасць атрыманага гульцамі мяса да аднолькавага на любой складанасці.</Difficulty_ScariaRotChance_Info>
   <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Смерць збітых супернікаў</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Верагоднасць імгненнай смерці суперніка пры атрыманні цяжкага ранення. Гэта ўплывае на шанец захапіць палонных і, адпаведна, на хуткасць росту калоніі.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
