@@ -184,13 +184,13 @@
   
   <!-- Select storyteller -->
   <ChooseAIStoryteller>Выбраць ШІ-апавядальніка</ChooseAIStoryteller>
-  <HowStorytellersWork>ШІ-апавядальнік стварае падзеі, такія як налёты піратаў, скіданне прыпасаў або напады жывёл. Яго выбар будзе ўплываць на гісторыю вашай калоніі. Вы можаце змяніць гэтыя налады ў любой момант.</HowStorytellersWork>
+  <HowStorytellersWork>ШІ-апавядальнік стварае падзеі, такія як налёты піратаў, скіданне прыпасаў або напады жывёл. Яго выбар будзе ўплываць на гісторыю вашай калоніі. Вы можаце змяніць гэтыя налады ў любы момант.</HowStorytellersWork>
   <MustChooseDifficulty>Калі ласка, абярыце налады складанасці.</MustChooseDifficulty>
   <Difficulty>Складанасць</Difficulty>
   <CommitmentMode>«Адказны» рэжым </CommitmentMode>
   <ReloadAnytimeMode>Захаванне ў любы момант</ReloadAnytimeMode>
   <MustChoosePermadeath>Калі ласка, абярыце «Адказны» рэжым або захаванне ў любы момант.</MustChoosePermadeath>
-  <ReloadAnytimeModeInfo>Вы можаце захаваць і загрузіць гульню ў любой момант.\n\nГэта выдатны выбар для тых, хто толькі вучыцца гуляць у RimWorld, і для тых, каму даспадобы такі стыль гульні. Гэты рэжым таксама падыдзе для вас, калі вы выкарыстоўваеце моды, якія могуць зламаць гульню, ці ж калі вы толькі маеце намер перайсці да «адказнага» рэжыму.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Вы можаце захаваць і загрузіць гульню ў любы момант.\n\nГэта выдатны выбар для тых, хто толькі вучыцца гуляць у RimWorld, і для тых, каму даспадобы такі стыль гульні. Гэты рэжым таксама падыдзе для вас, калі вы выкарыстоўваеце моды, якія могуць зламаць гульню, ці ж калі вы толькі маеце намер перайсці да «адказнага» рэжыму.</ReloadAnytimeModeInfo>
   <PermadeathModeInfo>Вы можаце захавацца толькі пры выхадзе з гульні.\n\nЗ самага пачатку RimWorld задумваўся як генератар гісторый, таму нават калі ў жывых застанецца ўсяго адзін чалавек - гэта не канец гульні, а толькі частка аповеду. Гульня распрацавана так, каб можна было аднавіцца пасля страт.\n\nПеражыванне гэтага жаху робіць гісторыю поўнай трагедый і трыумфаў. Менавіта так стваральнікі задумвалі RimWorld.\n\nЛюк Скайуокер, калі яго сям'я загінула, не загрузіў захаванне, бо такія страты і аднаўленне захопліваюць па-сапраўднаму!</PermadeathModeInfo>
   <CanChangeStorytellerSettingsDuringPlay>Апавядальніка і складанасць можна змяніць у любы момант.</CanChangeStorytellerSettingsDuringPlay>
 
@@ -224,7 +224,7 @@
   <Difficulty_ResearchSpeedFactor_Label>Хуткасць даследаванняў</Difficulty_ResearchSpeedFactor_Label>
   <Difficulty_ResearchSpeedFactor_Info>Рэгулюе хуткасць навуковых даследаванняў.</Difficulty_ResearchSpeedFactor_Info>
   <Difficulty_QuestRewardValueFactor_Label>Узнагароды за заданні</Difficulty_QuestRewardValueFactor_Label>
-  <Difficulty_QuestRewardValueFactor_Info>Рэгулюе каштоўнасць узнагарод за заданні.\n\nЗаўвага: Кошт узнагарод таксама аўтаматычна маштабуецца з улікам складанасці загроз. Змяняючы гэты параметр, вы дадаеце дадатковы множнік.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>Рэгулюе каштоўнасць узнагарод за заданні.\n\nУвага: Кошт узнагарод таксама аўтаматычна маштабуецца з улікам складанасці загроз. Змяняючы гэты параметр, вы дадаеце дадатковы множнік.</Difficulty_QuestRewardValueFactor_Info>
   <Difficulty_RaidLootPointsFactor_Label>Здабыча з нападаючых</Difficulty_RaidLootPointsFactor_Label>
   <Difficulty_RaidLootPointsFactor_Info>Рэгулюе каштоўнасць трофеяў, якія нясуць з сабой ворагі.\n\nУвага: велічыня ўзнагарод за заданні таксама змяняецца ў залежнасці ад іх складанасці. Пры змяненні гэтай настройкі выкарыстоўваецца дадатковы множнік разліку ўзнагароды.</Difficulty_RaidLootPointsFactor_Info>
   <Difficulty_MaintenanceCostFactor_Label>Кошт перазарадкі турэлей</Difficulty_MaintenanceCostFactor_Label>
