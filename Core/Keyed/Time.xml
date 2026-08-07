@@ -2,91 +2,96 @@
 <LanguageData>
 
   <!-- EN: d -->
-  <LetterDay>TODO</LetterDay>
+  <LetterDay>д</LetterDay>
   <!-- EN: h -->
-  <LetterHour>TODO</LetterHour>
+  <LetterHour>гадз</LetterHour>
   <!-- EN: m -->
-  <LetterMinute>TODO</LetterMinute>
+  <LetterMinute>хв</LetterMinute>
   <!-- EN: s -->
-  <LetterSecond>TODO</LetterSecond>
+  <LetterSecond>с</LetterSecond>
   <!-- EN: y -->
-  <LetterYear>TODO</LetterYear>
+  <LetterYear>г</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>AM</AM>
+  <!-- EN: PM -->
+  <PM>PM</PM>
 
   <!-- EN: days -->
-  <DaysLower>TODO</DaysLower>
+  <DaysLower>дзён</DaysLower>
   <!-- EN: hours -->
-  <HoursLower>TODO</HoursLower>
+  <HoursLower>гадзін</HoursLower>
   <!-- EN: seconds -->
-  <SecondsLower>TODO</SecondsLower>
+  <SecondsLower>секунд</SecondsLower>
 
   <!-- EN: spring -->
-  <SeasonSpring>TODO</SeasonSpring>
+  <SeasonSpring>вясна</SeasonSpring>
   <!-- EN: summer -->
-  <SeasonSummer>TODO</SeasonSummer>
+  <SeasonSummer>лета</SeasonSummer>
   <!-- EN: fall -->
-  <SeasonFall>TODO</SeasonFall>
+  <SeasonFall>восень</SeasonFall>
   <!-- EN: winter -->
-  <SeasonWinter>TODO</SeasonWinter>
+  <SeasonWinter>зіма</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <SeasonPermanentSummer>вечнае лета</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+  <SeasonPermanentWinter>вечная зіма</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>TODO</QuadrumAprimay>
+  <QuadrumAprimay>Сакмай</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>TODO</QuadrumJugust>
+  <QuadrumJugust>Чэрвнівень</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>TODO</QuadrumSeptober>
+  <QuadrumSeptober>Вераснад</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>TODO</QuadrumDecembary>
+  <QuadrumDecembary>Снежалюты</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>Сак</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
+  <QuadrumJugust_Short>Чэр</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>Вэр</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>Снеж</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
-  <Born>TODO</Born>
+  <Born>Дата нараджэння: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>TODO</AgeChronological>
+  <AgeChronological>Храналагічны ўзрост: {0_numCase ? год : гады : гадоў} {1_numCase ? квартал : кварталы : кварталаў} {2_numCase ? дзень : дня : дзён}</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>TODO</AgeBiological>
+  <AgeBiological>Біялагічны ўзрост: {0_numCase ? год : гады : гадоў} {1_numCase ? квартал : кварталы : кварталов} {2_numCase ? дзень : дня : дзён}</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
-  <Period1Year>TODO</Period1Year>
+  <Period1Year>1 год</Period1Year>
   <!-- EN: {0} years -->
-  <PeriodYears>TODO</PeriodYears>
+  <PeriodYears>{0_numCase ? год : гады : гадоў}</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>TODO</Period1Quadrum>
+  <Period1Quadrum>1 квартала</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>TODO</PeriodQuadrums>
+  <PeriodQuadrums>{0_numCase ? квартал : кварталы : кварталаў}</PeriodQuadrums>
   <!-- EN: 1 day -->
-  <Period1Day>TODO</Period1Day>
+  <Period1Day>1 дзень</Period1Day>
   <!-- EN: {0} days -->
-  <PeriodDays>TODO</PeriodDays>
+  <PeriodDays>{0_numCase ? дзень : дня : дзён}</PeriodDays>
   <!-- EN: 1 hour -->
-  <Period1Hour>TODO</Period1Hour>
+  <Period1Hour>1 гадз</Period1Hour>
   <!-- EN: {0} hours -->
-  <PeriodHours>TODO</PeriodHours>
+  <PeriodHours>{0} гадз</PeriodHours>
   <!-- EN: 1 second -->
-  <Period1Second>TODO</Period1Second>
+  <Period1Second>1 с</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>TODO</PeriodSeconds>
+  <PeriodSeconds>{0} с</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->
-  <Started>TODO</Started>
+  <Started>Пачалося</Started>
   <!-- EN: Lasted -->
-  <Lasted>TODO</Lasted>
+  <Lasted>Доўжыцца</Lasted>
   <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo>TODO</OccurredTimeAgo>
+  <OccurredTimeAgo>адбылося {0} таму</OccurredTimeAgo>
   <!-- EN: {0} ago -->
-  <TimeAgo>TODO</TimeAgo>
+  <TimeAgo>{0} таму</TimeAgo>
   
 </LanguageData>
