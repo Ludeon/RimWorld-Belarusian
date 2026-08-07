@@ -1,17 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- https://rimworldwiki.com/wiki/Apparel_layers -->
   
   <!-- EN: utility -->
-  <Belt.label>TODO</Belt.label>
+  <Belt.label>карыснасць</Belt.label>
   
   <!-- EN: eyes -->
   <EyeCover.label>вочы</EyeCover.label>
   
   <!-- EN: middle -->
-  <Middle.label>TODO</Middle.label>
+  <Middle.label>пракладка</Middle.label> <!-- прамежны/прамежкавы слой -->
   
   <!-- EN: skin -->
-  <OnSkin.label>на голае цела</OnSkin.label>
+  <OnSkin.label>нацеліва</OnSkin.label> <!-- https://starnik.by/pravapis/46602, або: сподняе (адзенне). "бялізна" не падыходзіць бо гэта толькі майткі і станікі  -->
   
   <!-- EN: headgear -->
   <Overhead.label>галаўны ўбор</Overhead.label>
