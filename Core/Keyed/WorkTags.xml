@@ -2,46 +2,46 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>TODO</WorkTagNone>
+  <WorkTagNone>Адсутнічае</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>TODO</WorkTagIntellectual>
+  <WorkTagIntellectual>Разумовая праца</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>TODO</WorkTagManualDumb>
+  <WorkTagManualDumb>Простая праца</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>TODO</WorkTagManualSkilled>
+  <WorkTagManualSkilled>Кваліфікаваная праца</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>TODO</WorkTagViolent>
+  <WorkTagViolent>Гвалт</WorkTagViolent>
   <!-- EN: shooting -->
-  <WorkTagShooting>TODO</WorkTagShooting>
+  <WorkTagShooting>Стральба</WorkTagShooting>
   <!-- EN: caring -->
-  <WorkTagCaring>TODO</WorkTagCaring>
+  <WorkTagCaring>Догляд</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>TODO</WorkTagSocial>
+  <WorkTagSocial>Зносіны</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>TODO</WorkTagAnimals>
+  <WorkTagAnimals>Жывёлагадоўля</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>TODO</WorkTagArtistic>
+  <WorkTagArtistic>Творчасць</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>TODO</WorkTagCrafting>
+  <WorkTagCrafting>Рамяство</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>TODO</WorkTagCooking>
+  <WorkTagCooking>Кулінарыя</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>TODO</WorkTagFirefighting>
+  <WorkTagFirefighting>Пажаратушэнне</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>TODO</WorkTagCleaning>
+  <WorkTagCleaning>Прыбіранне</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>TODO</WorkTagHauling>
+  <WorkTagHauling>Перанос</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>TODO</WorkTagPlantWork>
+  <WorkTagPlantWork>Раслінаводства</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>TODO</WorkTagMining>
+  <WorkTagMining>Горная справа</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>TODO</WorkTagHunting>
+  <WorkTagHunting>Паляванне</WorkTagHunting>
   <!-- EN: constructing -->
-  <WorkTagConstructing>TODO</WorkTagConstructing>
+  <WorkTagConstructing>Будаўніцтва</WorkTagConstructing>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <WorkTagCommoner>Праца для простых людзей</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>TODO</WorkTagAllWork>
+  <WorkTagAllWork>Любая праца</WorkTagAllWork>
 
 </LanguageData>
