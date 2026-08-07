@@ -72,18 +72,18 @@
   <Pyromaniac18.titleShort>TODO</Pyromaniac18.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
-  <ShopKid36.baseDesc>TODO</ShopKid36.baseDesc>
+  <ShopKid36.baseDesc>Маці [PAWN_nameDef] часта хварэла, таму {PAWN_gender ? яму : ёй} давялося {PAWN_gender ? самаму : самой} даглядаць за крамай, якая была адзінай крыніцай заробку ў сям'і. [PAWN_pronoun] трохі ведае пра артэфакты, якія {PAWN_gender ? прадаваў : прадавала} і добра цяміць у мастацтве гандлю.</ShopKid36.baseDesc>
   <!-- EN: shop kid -->
-  <ShopKid36.title>TODO</ShopKid36.title>
+  <ShopKid36.title>дзіця крамы</ShopKid36.title>
   <!-- EN: shopkid -->
-  <ShopKid36.titleShort>TODO</ShopKid36.titleShort>
+  <ShopKid36.titleShort>дзіця крамы</ShopKid36.titleShort>
   
   <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
-  <SicklyChild55.baseDesc>TODO</SicklyChild55.baseDesc>
+  <SicklyChild55.baseDesc>З самага маленства [PAWN_nameDef] {PAWN_gender ? пакутваў : пакутвала} ад рэдкай хваробы. Знаходзячыся ў лякарні, {PAWN_gender ? ён меў : яна мела} мінімальны кантакт з людзьмі і фізічнымі практыкаваннямі. Аднак, у стэрыльным медыцынскім асяроддзі [PAWN_pronoun] блізка {PAWN_gender ? пазнаёміўся : пазнаёмілася} з навукай і лекамі.</SicklyChild55.baseDesc>
   <!-- EN: sickly child -->
-  <SicklyChild55.title>TODO</SicklyChild55.title>
+  <SicklyChild55.title>хворае дзіцё</SicklyChild55.title>
   <!-- EN: patient -->
-  <SicklyChild55.titleShort>TODO</SicklyChild55.titleShort>
+  <SicklyChild55.titleShort>пацыэнт</SicklyChild55.titleShort>
   
   <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
   <StoryWriter67.baseDesc>TODO</StoryWriter67.baseDesc>

@@ -65,11 +65,11 @@
   <PsychiatricPatient94.titleShort>TODO</PsychiatricPatient94.titleShort>
   
   <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
-  <Sheriff52.baseDesc>TODO</Sheriff52.baseDesc>
+  <Sheriff52.baseDesc>[PAWN_nameDef] {PAWN_gender ? быў : была} праваахоўнікам у ізаляваным індустрыяльным мястэчке. [PAWN_pronoun] {PAWN_gender ? займаўся : займалася} дробнымі злачынствамі, вырашэннем спрэчак і выпадковай стралянінай у салуне пад п'яную руку.</Sheriff52.baseDesc>
   <!-- EN: sheriff -->
-  <Sheriff52.title>TODO</Sheriff52.title>
+  <Sheriff52.title>шэрыф</Sheriff52.title>
   <!-- EN: sheriff -->
-  <Sheriff52.titleShort>TODO</Sheriff52.titleShort>
+  <Sheriff52.titleShort>шэрыф</Sheriff52.titleShort>
   
   <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
   <SpaceTactician28.baseDesc>TODO</SpaceTactician28.baseDesc>
