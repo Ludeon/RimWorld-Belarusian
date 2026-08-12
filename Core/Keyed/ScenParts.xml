@@ -2,67 +2,126 @@
 <LanguageData>
 
   <!-- ======================== Non-grouped ========================-->
-  
+
+  <!-- EN: Title -->
+  <ScenarioTitle>Назва</ScenarioTitle>
   <!-- EN: Your faction will be a {0}. -->
-  <ScenPart_PlayerFaction>TODO</ScenPart_PlayerFaction>
+  <ScenPart_PlayerFaction>Тып вашай фракцыі: {0}.</ScenPart_PlayerFaction>
 
   <!-- EN: Start with 1 person. -->
-  <ScenPart_StartWithPawn>TODO</ScenPart_StartWithPawn>
+  <ScenPart_StartWithPawn>Пачатак з 1 чалавекам.</ScenPart_StartWithPawn>
   <!-- EN: Start with {0} people. -->
-  <ScenPart_StartWithPawns>TODO</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>Пачатак з {0_numCase ? чалавекам : людзьмі : людзьмі}.</ScenPart_StartWithPawns>
   <!-- EN: chosen from -->
-  <ScenPart_StartWithPawns_OutOf>TODO</ScenPart_StartWithPawns_OutOf>
+  <ScenPart_StartWithPawns_OutOf>выбраць з</ScenPart_StartWithPawns_OutOf>
   <!-- EN: random pet -->
-  <RandomPet>TODO</RandomPet>
+  <RandomPet>выпадковы гадаванец</RandomPet>
 
   <!-- EN: Start with research: {0} -->
-  <ScenPart_StartingResearchFinished>TODO</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Ужо даследавана: {0}</ScenPart_StartingResearchFinished>
   
   <!-- EN: Arrive in drop pods. -->
-  <ScenPart_ArriveInDropPods>TODO</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Прыбыццё ў ратавальных капсулах.</ScenPart_ArriveInDropPods>
 
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
-  <ScenPart_StatFactor>TODO</ScenPart_StatFactor>
+  <ScenPart_StatFactor>Усе значэнні параметра «{0}» у свеце будуць устаноўлены ў памеры {1}.</ScenPart_StatFactor>
+  
+  <!-- EN: Select -->
+  <ScenPart_SelectQuestDef>Выбраць</ScenPart_SelectQuestDef>
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
-  <ScenPart_PawnsHaveHediff>TODO</ScenPart_PawnsHaveHediff>
+  <ScenPart_PawnsHaveHediff>{0} маюць {1} шанец пачаць са станам здароўя «{2}».</ScenPart_PawnsHaveHediff>
   <!-- EN: severity: {0} -->
-  <ConfigurableSeverity>TODO</ConfigurableSeverity>
+  <ConfigurableSeverity>ступень цяжкасці: {0}</ConfigurableSeverity>
 
   <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
-  <ScenPart_SetNeed>TODO</ScenPart_SetNeed>
+  <ScenPart_SetNeed>{0} маюць {1} шанец атрымаць параметр «{2}» у дыяпазоне ад {3} да {4}.</ScenPart_SetNeed>
   <!-- EN: level: {0} -->
-  <ConfigurableLevel>TODO</ConfigurableLevel>
+  <ConfigurableLevel>узровень: {0}</ConfigurableLevel>
 
   <!-- EN: {0} have a {1} chance to start with trait: {2} -->
-  <ScenPart_PawnsHaveTrait>TODO</ScenPart_PawnsHaveTrait>
+  <ScenPart_PawnsHaveTrait>{0} маюць {1} шанец пачаць з рысай: «{2}»</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
-  <ScenPart_OnPawnDeathExplode>TODO</ScenPart_OnPawnDeathExplode>
+  <ScenPart_OnPawnDeathExplode>Персанажы і істоты выбухаюць пры смерці ({0}, радыус выбуху {1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} have a {1} chance to start naked. -->
-  <ScenPart_PawnsAreNaked>TODO</ScenPart_PawnsAreNaked>
+  <ScenPart_PawnsAreNaked>{0} пачынаюць без адзення з верагоднасцю {1}</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
-  <ScenPart_StartingPawnAgeMin>TODO</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMin>Вашым людзям будзе як мінімум {0_numCase ? год : гады : гадоў}.</ScenPart_StartingPawnAgeMin>
   <!-- EN: Your people will be at most {0} years old. -->
-  <ScenPart_StartingPawnAgeMax>TODO</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeMax>Вашым людзям будзе не больш за {0_numCase ? год : гады : гадоў}.</ScenPart_StartingPawnAgeMax>
   <!-- EN: Your people will be between {0} and {1} years old. -->
-  <ScenPart_StartingPawnAgeRange>TODO</ScenPart_StartingPawnAgeRange>
+  <ScenPart_StartingPawnAgeRange>Вашым людзям будзе ад {0} да {1_numCase ? года : гадоў : гадоў}.</ScenPart_StartingPawnAgeRange>
+
+  <!-- EN: Start with {0}. -->
+  <ScenPart_StartWithSpecificColonists>Пачатак з {0}.</ScenPart_StartWithSpecificColonists>
+  <!-- EN: {COUNT} {KINDLABEL} -->
+  <PawnCount>{COUNT_numCase ? {lookup: {KINDLABEL}; Case; 4} : {lookup: {lookup: {KINDLABEL}; Plural; 1}; Case; 4} : {lookup: {lookup: {KINDLABEL}; Plural; 1}; Case; 4}}</PawnCount>
+  
+  <!-- EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts. -->
+  <ScenPart_Error>Як мінімум адну з частак гэтага сцэнара немагчыма загрузіць праз адсутнасць мода.\n\nВы можаце загрузіць гэты сцэнар або з усімі патрэбнымі модамі, або без некаторых яго частак.</ScenPart_Error>
 
   <!-- ======================== Grouped ========================-->
 
   <!-- EN: Start with -->
-  <ScenPart_StartWith>TODO</ScenPart_StartWith>
+  <ScenPart_StartWith>Пачатковыя рэсурсы</ScenPart_StartWith>
   <!-- EN: Map is scattered with -->
-  <ScenPart_MapScatteredWith>TODO</ScenPart_MapScatteredWith>
+  <ScenPart_MapScatteredWith>Па карце будуць раскіданы</ScenPart_MapScatteredWith>
   <!-- EN: Permanent game condition(s) -->
-  <ScenPart_PermaGameCondition>TODO</ScenPart_PermaGameCondition>
+  <ScenPart_PermaGameCondition>Пастаянныя ўмовы</ScenPart_PermaGameCondition>
   <!-- EN: Incident(s) disabled -->
-  <ScenPart_DisableIncident>TODO</ScenPart_DisableIncident>
+  <ScenPart_DisableIncident>Гэтыя здарэнні адключаны</ScenPart_DisableIncident>
   <!-- EN: Incident created -->
-  <ScenPart_CreateIncident>TODO</ScenPart_CreateIncident>
+  <ScenPart_CreateIncident>Здарэнне створана</ScenPart_CreateIncident>
   <!-- EN: Can never build -->
-  <ScenPart_DisallowBuilding>TODO</ScenPart_DisallowBuilding>
+  <ScenPart_DisallowBuilding>Забараніць будаўніцтва</ScenPart_DisallowBuilding>
+
+  <!-- ======================== Layers ========================-->
+  
+  <!-- EN: Tag -->
+  <ScenPart_PlanetLayerTag>Метка</ScenPart_PlanetLayerTag>
+  <!-- EN: Must have a unique tag -->
+  <ScenPart_PlanetLayerTag_Error>Метка мусіць быць унікальнай</ScenPart_PlanetLayerTag_Error>
+  
+  <!-- EN: Settings -->
+  <ScenPart_PlanetLayerSettings>Налады</ScenPart_PlanetLayerSettings>
+  <!-- EN: Use settings def -->
+  <ScenPart_PlanetLayerSettings_UseDef>Выкарыстоўваць узор налад</ScenPart_PlanetLayerSettings_UseDef>
+  <!-- EN: Select -->
+  <ScenPart_PlanetLayerSettings_SelectDef>Выбраць</ScenPart_PlanetLayerSettings_SelectDef>
+  <!-- EN: Position -->
+  <ScenPart_PlanetLayerSettings_Position>Палажэнне</ScenPart_PlanetLayerSettings_Position>
+  <!-- EN: Radius -->
+  <ScenPart_PlanetLayerSettings_Radius>Радыус</ScenPart_PlanetLayerSettings_Radius>
+  <!-- EN: Use surface view angle -->
+  <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>Выкарыстоўваць кут агляду як на паверхні</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
+  <!-- EN: View angle -->
+  <ScenPart_PlanetLayerSettings_ViewAngle>Кут агляду</ScenPart_PlanetLayerSettings_ViewAngle>
+  <!-- EN: Extra camera height -->
+  <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>Дадатковая вышыня камеры</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
+  <!-- EN: Subdivisions -->
+  <ScenPart_PlanetLayerSettings_Subdivisions>Падзел</ScenPart_PlanetLayerSettings_Subdivisions>
+  <!-- EN: Background camera offset -->
+  <ScenPart_PlanetLayerSettings_BackgroundOffset>Зрушэнне фонавай камеры</ScenPart_PlanetLayerSettings_BackgroundOffset>
+  <!-- EN: Background parallax per 100 cells -->
+  <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>Паралакс фону на 100 клетак</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
+  
+  <!-- EN: Connections -->
+  <ScenPart_PlanetLayerConnections>Сувязі</ScenPart_PlanetLayerConnections>
+  <!-- EN: Add connection -->
+  <ScenPart_PlanetLayerConnections_Add>Дадаць сувязь</ScenPart_PlanetLayerConnections_Add>
+  <!-- EN: No zoom -->
+  <ScenPart_PlanetLayerConnections_Zoom>Без змены маштабу</ScenPart_PlanetLayerConnections_Zoom>
+  <!-- EN: Zoom in -->
+  <ScenPart_PlanetLayerConnections_ZoomIn>Павялічыць</ScenPart_PlanetLayerConnections_ZoomIn>
+  <!-- EN: Zoom out -->
+  <ScenPart_PlanetLayerConnections_ZoomOut>Паменшыць</ScenPart_PlanetLayerConnections_ZoomOut>
+  <!-- EN: Fuel cost -->
+  <ScenPart_PlanetLayerConnections_Fuel>Затраты паліва</ScenPart_PlanetLayerConnections_Fuel>
+  
+  <!-- EN: Planet layer -->
+  <ScenPart_ForcedMapPlanetLayer>Слой планеты</ScenPart_ForcedMapPlanetLayer>
 
 </LanguageData>
