@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: blood filtration -->
-  <BloodFiltration.label>TODO</BloodFiltration.label>
+  <BloodFiltration.label>фільтрацыя крыві</BloodFiltration.label>
   <!-- EN: fluid reprocessing -->
-  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
-  
+  <BloodFiltration.labelMechanoids>перапрацоўка вадкасці</BloodFiltration.labelMechanoids>
+
   <!-- EN: blood pumping -->
-  <BloodPumping.label>TODO</BloodPumping.label>
+  <BloodPumping.label>кровазварот</BloodPumping.label>
   <!-- EN: power generation -->
-  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
-  
+  <BloodPumping.labelMechanoids>сілкаванне</BloodPumping.labelMechanoids><!-- Літаральны пераклад не ўлезе ў подпіс. Тут маецца на ўвазе здольнасць сілкаваць сябе (у адсотках), таму і выкарыстаў сінонім -->
+
   <!-- EN: breathing -->
-  <Breathing.label>TODO</Breathing.label>
-  
+  <Breathing.label>дыханне</Breathing.label>
+
   <!-- EN: consciousness -->
-  <Consciousness.label>TODO</Consciousness.label>
+  <Consciousness.label>прытомнасць</Consciousness.label>
   <!-- EN: Data processing -->
-  <Consciousness.labelMechanoids>TODO</Consciousness.labelMechanoids>
-  
+  <Consciousness.labelMechanoids>Апрацоўка даных</Consciousness.labelMechanoids>
+
   <!-- EN: eating -->
-  <Eating.label>TODO</Eating.label>
-  
+  <Eating.label>харчаванне</Eating.label>
+
   <!-- EN: hearing -->
-  <Hearing.label>TODO</Hearing.label>
-  
+  <Hearing.label>слых</Hearing.label>
+
   <!-- EN: manipulation -->
-  <Manipulation.label>TODO</Manipulation.label>
-  
+  <Manipulation.label>рух</Manipulation.label>
+
   <!-- EN: digestion -->
-  <Metabolism.label>TODO</Metabolism.label>
-  
+  <Metabolism.label>страваванне</Metabolism.label>
+
   <!-- EN: moving -->
-  <Moving.label>TODO</Moving.label>
-  
+  <Moving.label>перасоўванне</Moving.label>
+
   <!-- EN: sight -->
-  <Sight.label>TODO</Sight.label>
-  
+  <Sight.label>зрок</Sight.label>
+
   <!-- EN: talking -->
-  <Talking.label>TODO</Talking.label>
+  <Talking.label>мова</Talking.label>
   <!-- EN: Communication -->
-  <Talking.labelMechanoids>TODO</Talking.labelMechanoids>
-  
+  <Talking.labelMechanoids>камунікацыя</Talking.labelMechanoids>
+
 </LanguageData>
