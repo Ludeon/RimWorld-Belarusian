@@ -4,26 +4,26 @@
   <!-- EN: boreal forest -->
   <BorealForest.label>тайга</BorealForest.label>
   <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
-  <BorealForest.description>TODO</BorealForest.description>
+  <BorealForest.description>Лясы з хваёвых дрэваў. Нягледзячы на лютыя зімы, у тайзе жывуць розныя віды малых і буйных жывёл. Але лета тайга мае цёплае.</BorealForest.description>
   
   <!-- EN: cold bog -->
   <ColdBog.label>сцюжная дрыгва</ColdBog.label>
   <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
-  <ColdBog.description>TODO</ColdBog.description>
+  <ColdBog.description>Дрыгва запоўненая дрэвамі й лазой. Большасць тутэйшай багністай зямлі не можа трымаць цяжкія канструкцыі, рух адбываецца запаволена праз удушлівую расліннасць. Хвароба гэта звыклая справа ў гэтай шчыльнай, вільготнай экасістэме.</ColdBog.description>
   
   <!-- EN: ice sheet -->
   <IceSheet.label>ляднік</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
-  <IceSheet.description>TODO</IceSheet.description>
+  <IceSheet.description>Пласты лёду якія дасягаюць некалькі кіламетраў ў таўшчыні. Тут няма глебы для вырошчвання раслін. Адзіныя жывёлы, якія тут трапляюцца, гэта тыя, якія мігруюць у іншае месца, або безнадзейна згубіліся.</IceSheet.description>
   
   <!-- EN: sea ice -->
   <SeaIce.label>марскі ляднік</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
-  <SeaIce.description>TODO</SeaIce.description>
+  <SeaIce.description>Сталыя ільдзяныя пласты, якія плаваюць на вадзе. Тут няма глебы для вырошчвання раслін, няма карысных выкапняў для здабычы і амаль няма жывёл.</SeaIce.description>
   
   <!-- EN: tundra -->
   <Tundra.label>тундра</Tundra.label>
   <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
-  <Tundra.description>TODO</Tundra.description>
+  <Tundra.description>Гэтыя пераважна замерзлыя роўнядзі амаль не маюць дрэў і расліннасці. Трапляюцца нешматлікія дробныя жывёлы, якія перамешваюцца з вялікімі вандроўнымі статкамі на выпасе і іхнімі драпежнікамі.</Tundra.description>
   
 </LanguageData>
