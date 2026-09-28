@@ -60,7 +60,7 @@
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>Храналагічны ўзрост: {0_numCase ? год : гады : гадоў} {1_numCase ? квартал : кварталы : кварталаў} {2_numCase ? дзень : дня : дзён}</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Біялагічны ўзрост: {0_numCase ? год : гады : гадоў} {1_numCase ? квартал : кварталы : кварталов} {2_numCase ? дзень : дня : дзён}</AgeBiological>
+  <AgeBiological>Біялагічны ўзрост: {0_numCase ? год : гады : гадоў} {1_numCase ? квартал : кварталы : кварталаў} {2_numCase ? дзень : дня : дзён}</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
@@ -68,7 +68,7 @@
   <!-- EN: {0} years -->
   <PeriodYears>{0_numCase ? год : гады : гадоў}</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>1 квартала</Period1Quadrum>
+  <Period1Quadrum>1 квартал</Period1Quadrum>
   <!-- EN: {0} quadrums -->
   <PeriodQuadrums>{0_numCase ? квартал : кварталы : кварталаў}</PeriodQuadrums>
   <!-- EN: 1 day -->
