@@ -87,7 +87,7 @@
   <GetModsFromForum>Спампаваць моды з форуму</GetModsFromForum>
   <OpenModsDataFolder>Адкрыць папку з модамі</OpenModsDataFolder>
   <ShowModsDataLocation>Паказаць шлях размяшчэння модаў</ShowModsDataLocation>
-  <ConfirmDisableCoreMod>Вы ўпэўнены, што хочаце адключыць ядро ​​гульні? Гульня не будзе працаваць, калі ў вас няма іншага мода, які замяняе ўсе яго асноўныя функцыі.\n\nПамятайце, іншыя мадыфікацыі могуць перавызначаць значэння ядра з дапамогай такіх жа значэнняў defName..</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Вы ўпэўнены, што хочаце адключыць ядро ​​гульні? Гульня не будзе працаваць, калі ў вас няма іншага мода, які замяняе ўсе яго асноўныя функцыі.\n\nПамятайце, іншыя мадыфікацыі могуць перавызначаць значэнні ядра з дапамогай такіх жа значэнняў defName..</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Вы ўпэўнены, што хочаце выдаліць {0}?</ConfirmDeleteMod>
   <ResolveModOrder>Упарадкаваць моды</ResolveModOrder>
   <SaveModChanges>Захаваць змены</SaveModChanges>
@@ -208,7 +208,7 @@
   <Difficulty_AllowIntroThreats_Label>Базавыя пагрозы</Difficulty_AllowIntroThreats_Label>
   <Difficulty_AllowIntroThreats_Info>Уключае фіксаваныя базавыя пагрозы, якія з'яўляюцца на пачатку гульні.</Difficulty_AllowIntroThreats_Info>
   <Difficulty_PredatorsHuntHumanlikes_Label>Хіжакі палююць на людзей</Difficulty_PredatorsHuntHumanlikes_Label>
-  <Difficulty_PredatorsHuntHumanlikes_Info>Дазволіць зікім хіжакам паляваць на людзей.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>Дазволіць дзікім хіжакам паляваць на людзей.</Difficulty_PredatorsHuntHumanlikes_Info>
   <Difficulty_AllowExtremeWeatherIncidents_Label>Экстрэмальнае надвор'е</Difficulty_AllowExtremeWeatherIncidents_Label>
   <Difficulty_AllowExtremeWeatherIncidents_Info>Дазваляе экстрэмальныя з'явы надвор'я, такія як таксічныя ападкі, вулканічная зіма і сухія навальніцы.</Difficulty_AllowExtremeWeatherIncidents_Info>
 
@@ -258,7 +258,7 @@
   <Difficulty_AllowCaveHives_Label>Стварэнне вулляў пры генерацыі карты</Difficulty_AllowCaveHives_Label>
   <Difficulty_AllowCaveHives_Info>Спячыя вуллі насякомых могуць з'яўляцца ў прыродных пячорах.\n\nГэтая налада прымяняецца толькі падчас генерацыі карты і не ўплывае на жукоў, якія пракопваюцца падчас гульні.</Difficulty_AllowCaveHives_Info>
   <Difficulty_UnwaveringPrisoners_Label>Дадаць непахісных палонных</Difficulty_UnwaveringPrisoners_Label>
-  <Difficulty_UnwaveringPrisoners_Info>Гэта опцыя дадае палонных з непахіснай вернасцю, якіх немагчыма завербаваць.\n\nАдключэнне гэтай опцыі проста прыбярэ такіх палонных, але не павялічыць колькасць звычайных.\n\nНепахісных палонных усё яшчэ можна адпускаць для паляпшэння адносін, прадаваць, занявольваць ці выкарыстоўваць на ворганы.\n\У цэлым гэтая опцыя дазваляе некалькі разнастаіць і спрасціць гульнявы ​​працэс, ухіляючы ў некаторых выпадках складанасць маральнага выбару.</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_UnwaveringPrisoners_Info>Гэта опцыя дадае палонных з непахіснай вернасцю, якіх немагчыма завербаваць.\n\nАдключэнне гэтай опцыі проста прыбярэ такіх палонных, але не павялічыць колькасць звычайных.\n\nНепахісных палонных усё яшчэ можна адпускаць для паляпшэння адносін, прадаваць, занявольваць ці выкарыстоўваць на органы.\n\nУ цэлым гэтая опцыя дазваляе некалькі разнастаіць і спрасціць гульнявы ​​працэс, ухіляючы ў некаторых выпадках складанасць маральнага выбару.</Difficulty_UnwaveringPrisoners_Info>
   <Difficulty_NomadicMineableResourcesFactor_Label>Рэсурсы ў новых месцах</Difficulty_NomadicMineableResourcesFactor_Label>
   <Difficulty_NomadicMineableResourcesFactor_Info>Рэгулюе колькасць карысных выкапняў на новых мапах.\n\nУвага: мапа вашага першага паселішча заўсёды будзе стварацца стандартная колькасць рэсурсаў.</Difficulty_NomadicMineableResourcesFactor_Info>
 
@@ -292,7 +292,7 @@
   <SelectSite>Выбраць месца</SelectSite>
   <MustSelectStartingSite>Калі ласка, абярыце месца.</MustSelectStartingSite>
   <CannotLandBiome>Немагчыма прызямліцца ў гэтым біёме: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Такі біём не знойдзен</BiomeNotImplemented>
+  <BiomeNotImplemented>Такі біём не знойдзены</BiomeNotImplemented>
   <CannotLandImpassableMountains>Немагчыма прызямліцца ў непрохадных гарах.</CannotLandImpassableMountains>
   <BaseAlreadyThere>Тут ужо размешчана паселішча фракцыі {0}.</BaseAlreadyThere>
   <YourBaseAlreadyThere>Вы ўжо размясцілі тут сваё паселішча.</YourBaseAlreadyThere>
