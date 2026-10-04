@@ -18,7 +18,7 @@
   <!-- EN: floor -->
   <TerrainTagFloor>падлога</TerrainTagFloor>
   <!-- EN: substructure -->
-  <TerrainTagSubstructure>надбудова</TerrainTagSubstructure>
+  <TerrainTagSubstructure>падбудова</TerrainTagSubstructure>
   <!-- EN: insect -->
   <TerrainTagInsect>насекомыя</TerrainTagInsect>
 

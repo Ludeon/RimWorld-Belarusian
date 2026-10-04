@@ -185,7 +185,7 @@
 
   <!-- History events -->
   <!-- EN: Colonist died -->
-  <ColonistDied>Пасяленец загінуў</ColonistDied>
+  <ColonistDied>Каланіст загінуў</ColonistDied>
   
   <!-- Rotation -->
   <!-- EN: North -->
@@ -212,6 +212,6 @@
   
   <!-- Legal status -->
   <!-- EN: colonist -->
-  <Colonist>пасяленец</Colonist>
+  <Colonist>каланіст</Colonist>
 
 </LanguageData>

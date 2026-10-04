@@ -20,7 +20,7 @@
   <!-- EN: Learning speed -->
   <LearningSpeed>Хуткасць навучання</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
-  <LearnedMaxToday>Дасягнуты мяжа на сёння ({0}/{1}, далейшая хуткасць навучання — {2})</LearnedMaxToday>
+  <LearnedMaxToday>Дасягнута мяжа на сёння ({0}/{1}, далейшая хуткасць навучання — {2})</LearnedMaxToday>
   <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
   <ChildrenLearn>Дзеці вывучаюць навыкі, назіраючы за працай дарослых і вучачы ўрокі за партай.</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
@@ -43,7 +43,7 @@
   <!-- EN: Utter beginner -->
   <Skill1>некампетэнтнасць</Skill1>
   <!-- EN: Beginner -->
-  <Skill2>абсалютны пачатковец</Skill2>
+  <Skill2>поўны пачатковец</Skill2>
   <!-- EN: Basic familiarity -->
   <Skill3>пасрэдны пачатковец</Skill3>
   <!-- EN: Some familiarity -->

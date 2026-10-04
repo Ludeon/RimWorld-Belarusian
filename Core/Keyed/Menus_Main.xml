@@ -87,7 +87,7 @@
   <GetModsFromForum>Спампаваць моды з форуму</GetModsFromForum>
   <OpenModsDataFolder>Адкрыць папку з модамі</OpenModsDataFolder>
   <ShowModsDataLocation>Паказаць шлях размяшчэння модаў</ShowModsDataLocation>
-  <ConfirmDisableCoreMod>Вы ўпэўнены, што хочаце адключыць ядро ​​гульні? Гульня не будзе працаваць, калі ў вас няма іншага мода, які замяняе ўсе яго асноўныя функцыі.\n\nПамятайце, іншыя мадыфікацыі могуць перавызначаць значэнні ядра з дапамогай такіх жа значэнняў defName..</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Вы ўпэўнены, што хочаце адключыць ядро ​​гульні? Гульня не будзе працаваць, калі ў вас няма іншага мода, які замяняе ўсе яго асноўныя функцыі.\n\nПамятайце, іншыя мадыфікацыі могуць перавызначаць значэнні ядра з дапамогай такіх жа значэнняў defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Вы ўпэўнены, што хочаце выдаліць {0}?</ConfirmDeleteMod>
   <ResolveModOrder>Упарадкаваць моды</ResolveModOrder>
   <SaveModChanges>Захаваць змены</SaveModChanges>
@@ -235,16 +235,16 @@
   <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Верагоднасць імгненнай смерці суперніка пры атрыманні цяжкага ранення. Гэта ўплывае на шанец захапіць палонных і, адпаведна, на хуткасць росту калоніі.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <DifficultyGeneralSection>Агульныя налады</DifficultyGeneralSection>
-  <Difficulty_ColonistMoodOffset_Label>Настрой пасяленцаў</Difficulty_ColonistMoodOffset_Label>
-  <Difficulty_ColonistMoodOffset_Info>Пастаянны паказчык настрою, які прымяняецца да кожнага пасяленца і палоннага. Базавы настрой пасяленцаў складае 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Label>Настрой каланістаў</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Info>Пастаянны паказчык настрою, які прымяняецца да кожнага каланіста і палоннага. Базавы настрой каланістаў складае 50%.</Difficulty_ColonistMoodOffset_Info>
   <Difficulty_FoodPoisonChanceFactor_Label>Атручэнні</Difficulty_FoodPoisonChanceFactor_Label>
   <Difficulty_FoodPoisonChanceFactor_Info>Рэгулюе шанец таго, што персанаж атрымае харчовае атручэнне ад патэнцыйна сапсаванай ежы.</Difficulty_FoodPoisonChanceFactor_Info>
   <Difficulty_ManhunterChanceOnDamageFactor_Label>Помста жывёл</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <Difficulty_ManhunterChanceOnDamageFactor_Info>Рэгулюе шанец таго, што параненая дзікая жывёла нападе ў адказ.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <Difficulty_FriendlyFireChanceFactor_Label>Агонь па сваіх</Difficulty_FriendlyFireChanceFactor_Label>
   <Difficulty_FriendlyFireChanceFactor_Info>Рэгулюе шанец трапляння па саюзніках.\n\nУвага: гэтая настройка закранае толькі прамыя трапленні. Яна не прадухіляе страты ад выбухаў або ад стрэлаў міма абранай мэты.</Difficulty_FriendlyFireChanceFactor_Info>
-  <Difficulty_AllowInstantKillChance_Label>Імгненная смерць пасяленцаў</Difficulty_AllowInstantKillChance_Label>
-  <Difficulty_AllowInstantKillChance_Info>Рэгулюе шанец таго, што пасяленец можа імгненна памерці ад атакі. Атрыманую шкоду можна скарэктаваць так, каб замест смерці яго збіла з ног.\n\nГэта прадухіляе толькі некаторыя віды імгненнай смерці — пасяленцы ўсё яшчэ могуць ісцячы кроўю, памерці ад агню, выбухаў, хвароб і г.д.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Label>Імгненная смерць каланістаў</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Info>Рэгулюе шанец таго, што каланіст можа імгненна памерці ад атакі. Атрыманую шкоду можна скарэктаваць так, каб замест смерці яго збіла з ног.\n\nГэта прадухіляе толькі некаторыя віды імгненнай смерці — каланісты ўсё яшчэ могуць ісцячы кроўю, памерці ад агню, выбухаў, хвароб і г.д.</Difficulty_AllowInstantKillChance_Info>
   <Difficulty_PlayerPawnInfectionChanceFactor_Label>Шанец заражэння ран</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <Difficulty_PlayerPawnInfectionChanceFactor_Info>Рэгулюе шанец таго, што ў рану патрапіць інфекцыя.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <Difficulty_DiseaseIntervalFactor_Inverted_Label>Частата хвароб</Difficulty_DiseaseIntervalFactor_Inverted_Label>
@@ -260,7 +260,7 @@
   <Difficulty_UnwaveringPrisoners_Label>Дадаць непахісных палонных</Difficulty_UnwaveringPrisoners_Label>
   <Difficulty_UnwaveringPrisoners_Info>Гэта опцыя дадае палонных з непахіснай вернасцю, якіх немагчыма завербаваць.\n\nАдключэнне гэтай опцыі проста прыбярэ такіх палонных, але не павялічыць колькасць звычайных.\n\nНепахісных палонных усё яшчэ можна адпускаць для паляпшэння адносін, прадаваць, занявольваць ці выкарыстоўваць на органы.\n\nУ цэлым гэтая опцыя дазваляе некалькі разнастаіць і спрасціць гульнявы ​​працэс, ухіляючы ў некаторых выпадках складанасць маральнага выбару.</Difficulty_UnwaveringPrisoners_Info>
   <Difficulty_NomadicMineableResourcesFactor_Label>Рэсурсы ў новых месцах</Difficulty_NomadicMineableResourcesFactor_Label>
-  <Difficulty_NomadicMineableResourcesFactor_Info>Рэгулюе колькасць карысных выкапняў на новых мапах.\n\nУвага: мапа вашага першага паселішча заўсёды будзе стварацца стандартная колькасць рэсурсаў.</Difficulty_NomadicMineableResourcesFactor_Info>
+  <Difficulty_NomadicMineableResourcesFactor_Info>Рэгулюе колькасць карысных выкапняў на новых картах.\n\nУвага: карта вашага першага паселішча заўсёды будзе стварацца стандартная колькасць рэсурсаў.</Difficulty_NomadicMineableResourcesFactor_Info>
 
   <DifficultyPlayerToolsSection>Інструменты гульца</DifficultyPlayerToolsSection>
   <Difficulty_AllowTraps_Label>Усталёўка пастак</Difficulty_AllowTraps_Label>
@@ -278,13 +278,13 @@
   <Difficulty_AdaptationEffectFactor_Label>Уплыў адаптацыі</Difficulty_AdaptationEffectFactor_Label>
   <Difficulty_AdaptationEffectFactor_Info>Адаптацыя азначае, што апавядальнік павялічвае складанасць, калі справы калоніі ідуць добра. Паказчык адаптацыі расце з часам і падае, калі вы атрымліваеце шкоду.\n\nГэта налада рэгулюе, наколькі моцна паказчык адаптацыі ўплывае на агульную складанасць загроз.</Difficulty_AdaptationEffectFactor_Info>
   <Difficulty_FixedWealthMode_Label>Складанасць не залежыць ад багацця</Difficulty_FixedWealthMode_Label>
-  <Difficulty_FixedWealthMode_Info>Уключае прагрэсіўную складанасць без уліку багацця.\n\nУ звычайным рэжыме апавядальнік маштабуе загрозы ў залежнасці ад колькасці пасяленцаў і багацця калоніі. У гэтым рэжыме загрозы растуць выключна з часам ад заснавання паселішча.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>Уключае прагрэсіўную складанасць без уліку багацця.\n\nУ звычайным рэжыме апавядальнік маштабуе загрозы ў залежнасці ад колькасці каланістаў і багацця калоніі. У гэтым рэжыме загрозы растуць выключна з часам ад заснавання паселішча.</Difficulty_FixedWealthMode_Info>
   <Difficulty_FixedWealthTimeFactor_Label>Гадоў да максімальнай загрозы</Difficulty_FixedWealthTimeFactor_Label>
   <Difficulty_FixedWealthTimeFactor_Info>Колькасць гадоў да моманту, калі пры гульні з ростам складанасці, якія не залежаць ад багацця, будзе дасягнуты яе максімальны ўзровень пагроз.\n\nЗвярніце ўвагу, што апавядальнік усё яшчэ будзе падладжваць узровень пагроз у адпаведнасці з колькасцю насельніцтва і іншымі фактарамі.</Difficulty_FixedWealthTimeFactor_Info>
 
   <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
   <Difficulty_LowPopConversionBoost_Label>Бонус пры звароце ў пачатку</Difficulty_LowPopConversionBoost_Label>
-  <Difficulty_LowPopConversionBoost_Info>Пакуль у калоніі толькі адзін пасяленец пачатковай ідэалогіі гульца, шанец звярнуць іншых у яго веру памнажаецца на гэтую велічыню. Спробы навярнуць яго самога маюць зменшаны эфект.\n\nПры наяўнасці двух пасяленцаў з пачатковай ідэалогіяй гульца ўплыў гэтай велічыні памяншаецца ўдвая.\n\nПры наяўнасці трох і больш пасяленцаў з пачатковай ідэалогіяй гульца гэта значэнне не ўлічваецца.</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>Пакуль у калоніі толькі адзін каланіст пачатковай ідэалогіі гульца, шанец звярнуць іншых у яго веру памнажаецца на гэтую велічыню. Спробы навярнуць яго самога маюць зменшаны эфект.\n\nПры наяўнасці двух каланістаў з пачатковай ідэалогіяй гульца ўплыў гэтай велічыні памяншаецца ўдвая.\n\nПры наяўнасці трох і больш каланістаў з пачатковай ідэалогіяй гульца гэта значэнне не ўлічваецца.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <SelectStartingSite>Выбраць месца для першага паселішча</SelectStartingSite>
