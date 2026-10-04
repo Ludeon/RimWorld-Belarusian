@@ -21,7 +21,7 @@
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>Выкінуць {lookup: {0}; Case; 3} ({{0}} шт4)</AbandonSliderText>
+  <AbandonSliderText>Выкінуць {lookup: {0}; Case; 3} ({{0}} шт)</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Вы сапраўды хочаце выкінуць {lookup: {0}; Case; 3}?\n\nВыкінутыя рэчы знікнуць, і іх немагчыма будзе вярнуць.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
